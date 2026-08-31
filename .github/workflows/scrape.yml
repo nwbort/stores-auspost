@@ -1,0 +1,45 @@
+name: Scrape AusPost stores
+
+on:
+  schedule:
+    # 03:17 UTC daily (off the hour to avoid GitHub's peak-load minute)
+    - cron: '17 3 * * *'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: scrape-auspost-stores
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run scraper
+        env:
+          AUSPOST_AUTH_KEY: ${{ secrets.AUSPOST_AUTH_KEY }}
+        run: python scripts/scrape_stores.py
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if git diff --quiet -- stores.json; then
+            echo "No changes to stores.json"
+            exit 0
+          fi
+          git add stores.json
+          git commit -m "chore: update stores.json ($(date -u +%Y-%m-%d))"
+          git push
