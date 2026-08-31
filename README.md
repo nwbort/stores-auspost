@@ -60,30 +60,36 @@ A full run is ~340 grid points / ~5,700 unique locations and takes about
 
 ## The API key
 
-The `AUTH-KEY` header is a key embedded in auspost.com.au's frontend
-JavaScript — visible to anyone with devtools open on the store locator page,
-not a private credential. It's hardcoded as a fallback default in the
-script. AusPost does rotate it occasionally; if the scrape starts getting
-401s:
+The scraper needs an `AUSPOST_AUTH_KEY` env var, sent as the `AUTH-KEY`
+header. This is a key embedded in auspost.com.au's frontend JavaScript —
+visible to anyone with devtools open on the store locator page, not a
+private credential in the usual sense — but it's kept out of source control
+here rather than hardcoded, both to avoid baking in a value that will go
+stale and because it trips secret-scanning tools regardless of how public
+it actually is.
+
+To get a value:
 
 1. Open `https://auspost.com.au/find-us` in a browser with devtools open,
    search for a location, and find the `AUTH-KEY` header on the
    `workcentres` request.
-2. Either update `DEFAULT_AUTH_KEY` in `scripts/scrape_stores.py`, or set it
-   as the `AUSPOST_AUTH_KEY` repo secret (used by the workflow, takes
-   priority over the hardcoded default) so no code change is needed.
+2. Set it as the `AUSPOST_AUTH_KEY` repo secret (Settings → Secrets and
+   variables → Actions) so the workflow can use it, and/or export it locally.
+
+AusPost does rotate this key occasionally; if the scheduled run starts
+getting 401s, repeat step 1 and update the secret — no code change needed.
 
 ## Running locally
 
 ```bash
 pip install -r requirements.txt
-python scripts/scrape_stores.py
+AUSPOST_AUTH_KEY=... python scripts/scrape_stores.py
 ```
 
 ## GitHub Actions
 
 [`.github/workflows/scrape.yml`](./.github/workflows/scrape.yml) runs the
 scraper daily (03:17 UTC) and on manual dispatch, committing `stores.json`
-back to the repo only when it changed. It needs no secrets to run, but you
-can set `AUSPOST_AUTH_KEY` if AusPost rotates the key and you'd rather not
-edit the script.
+back to the repo only when it changed. Requires the `AUSPOST_AUTH_KEY` repo
+secret to be set (see above) — without it the run fails fast with a clear
+error rather than scraping with a bad key.
