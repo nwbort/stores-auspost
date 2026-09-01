@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-31T04:28:22Z",
+  "generated_at": "2026-09-01T08:43:58Z",
   "source": "https://digitalapi.auspost.com.au/locations-private/v3/workcentres",
-  "count": 5689,
+  "count": 5686,
   "count_by_type": {
-    "PO": 4133,
-    "UPL": 1431,
+    "PO": 4132,
+    "UPL": 1429,
     "OS": 89,
     "DC": 36
   },
@@ -23079,56 +23079,6 @@
       ]
     },
     {
-      "id": "45528252_UPL",
-      "type": "UPL",
-      "name": "Greystanes Post Office Parcel Locker",
-      "phone": "1800 422 406",
-      "fax": null,
-      "address": {
-        "line1": "665-699 Merrylands Rd",
-        "line2": null,
-        "suburb": "GREYSTANES",
-        "state": "NSW",
-        "postcode": "2145",
-        "country": "Australia"
-      },
-      "lat": -33.82893587,
-      "lon": 150.9520347,
-      "trading_hours": {
-        "MON": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "TUE": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "WED": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "THU": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "FRI": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "SAT": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "SUN": {
-          "open": "00:00",
-          "close": "23:59"
-        }
-      },
-      "services": [
-        "PARCEL_COLLECT"
-      ]
-    },
-    {
       "id": "78306676_UPL",
       "type": "UPL",
       "name": "Pemulwuy Marketplace Parcel Locker",
@@ -30474,7 +30424,6 @@
         "OPEN_SATURDAY",
         "PARCEL_COLLECT",
         "POST_BILL_PAY",
-        "PO_BOXES_AVAILABLE",
         "PO_BOXES_INSTALLED",
         "RETURNS_PRINT_AT_POST",
         "TRAVEL_INSURANCE",
@@ -33095,56 +33044,6 @@
       },
       "lat": -33.935398,
       "lon": 151.098071,
-      "trading_hours": {
-        "MON": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "TUE": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "WED": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "THU": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "FRI": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "SAT": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "SUN": {
-          "open": "00:00",
-          "close": "23:59"
-        }
-      },
-      "services": [
-        "PARCEL_COLLECT"
-      ]
-    },
-    {
-      "id": "35817925_UPL",
-      "type": "UPL",
-      "name": "Kingsgrove Post Office Parcel Locker",
-      "phone": "1800 422 406",
-      "fax": null,
-      "address": {
-        "line1": "263 Kingsgrove Rd",
-        "line2": null,
-        "suburb": "KINGSGROVE",
-        "state": "NSW",
-        "postcode": "2208",
-        "country": "Australia"
-      },
-      "lat": -33.94230705,
-      "lon": 151.101137,
       "trading_hours": {
         "MON": {
           "open": "00:00",
@@ -35803,8 +35702,7 @@
         "QLD_SECURITY_CLEARANCE_CARD",
         "QLD_WEAPONS_LICENSING",
         "RETURNS_PRINT_AT_POST",
-        "TRAVEL_INSURANCE",
-        "WESTERN_UNION_MONEY_TRANSFER"
+        "TRAVEL_INSURANCE"
       ]
     },
     {
@@ -35878,8 +35776,7 @@
         "QLD_SECURITY_CLEARANCE_CARD",
         "QLD_WEAPONS_LICENSING",
         "RETURNS_PRINT_AT_POST",
-        "TRAVEL_INSURANCE",
-        "WESTERN_UNION_MONEY_TRANSFER"
+        "TRAVEL_INSURANCE"
       ]
     },
     {
@@ -38783,8 +38680,7 @@
         "PO_BOXES_AVAILABLE",
         "PO_BOXES_INSTALLED",
         "RETURNS_PRINT_AT_POST",
-        "TRAVEL_INSURANCE",
-        "WESTERN_UNION_MONEY_TRANSFER"
+        "TRAVEL_INSURANCE"
       ]
     },
     {
@@ -45452,8 +45348,7 @@
         "QLD_SECURITY_CLEARANCE_CARD",
         "QLD_WEAPONS_LICENSING",
         "RETURNS_PRINT_AT_POST",
-        "TRAVEL_INSURANCE",
-        "WESTERN_UNION_MONEY_TRANSFER"
+        "TRAVEL_INSURANCE"
       ]
     },
     {
@@ -45845,8 +45740,7 @@
         "QLD_SECURITY_CLEARANCE_CARD",
         "QLD_WEAPONS_LICENSING",
         "RETURNS_PRINT_AT_POST",
-        "TRAVEL_INSURANCE",
-        "WESTERN_UNION_MONEY_TRANSFER"
+        "TRAVEL_INSURANCE"
       ]
     },
     {
@@ -47194,8 +47088,7 @@
         "PO_BOXES_AVAILABLE",
         "PO_BOXES_INSTALLED",
         "RETURNS_PRINT_AT_POST",
-        "TRAVEL_INSURANCE",
-        "WESTERN_UNION_MONEY_TRANSFER"
+        "TRAVEL_INSURANCE"
       ]
     },
     {
@@ -54531,7 +54424,7 @@
       "id": "276736_PO",
       "type": "PO",
       "name": "Manning Point CPA",
-      "phone": "(02) 6553 2665",
+      "phone": "(02) 6553 2646",
       "fax": null,
       "address": {
         "line1": "20-22 Manning Street",
@@ -54544,35 +54437,30 @@
       "lat": -31.89368378,
       "lon": 152.66572431,
       "trading_hours": {
-        "MON": null,
+        "MON": {
+          "open": "11:00",
+          "close": "14:00"
+        },
         "TUE": {
-          "open": "07:30",
-          "close": "17:00"
+          "open": "11:00",
+          "close": "14:00"
         },
         "WED": {
-          "open": "07:30",
-          "close": "17:00"
+          "open": "11:00",
+          "close": "14:00"
         },
         "THU": {
-          "open": "07:30",
-          "close": "17:00"
+          "open": "11:00",
+          "close": "14:00"
         },
         "FRI": {
-          "open": "07:30",
-          "close": "17:00"
+          "open": "11:00",
+          "close": "14:00"
         },
-        "SAT": {
-          "open": "07:30",
-          "close": "17:00"
-        },
-        "SUN": {
-          "open": "07:30",
-          "close": "15:00"
-        }
+        "SAT": null,
+        "SUN": null
       },
       "services": [
-        "OPEN_BEFORE_900AM_WEEKDAYS",
-        "OPEN_SATURDAY",
         "PARCEL_COLLECT"
       ]
     },
@@ -54642,8 +54530,7 @@
         "QLD_SECURITY_CLEARANCE_CARD",
         "QLD_WEAPONS_LICENSING",
         "RETURNS_PRINT_AT_POST",
-        "TRAVEL_INSURANCE",
-        "WESTERN_UNION_MONEY_TRANSFER"
+        "TRAVEL_INSURANCE"
       ]
     },
     {
@@ -64337,8 +64224,7 @@
         "QLD_SECURITY_CLEARANCE_CARD",
         "QLD_WEAPONS_LICENSING",
         "RETURNS_PRINT_AT_POST",
-        "TRAVEL_INSURANCE",
-        "WESTERN_UNION_MONEY_TRANSFER"
+        "TRAVEL_INSURANCE"
       ]
     },
     {
@@ -65709,7 +65595,7 @@
       "id": "250333_PO",
       "type": "PO",
       "name": "Port Kembla Post Office",
-      "phone": "13 13 18",
+      "phone": "(02) 4276 3261",
       "fax": null,
       "address": {
         "line1": "63 Wentworth St",
@@ -67734,8 +67620,7 @@
         "PO_BOXES_AVAILABLE",
         "PO_BOXES_INSTALLED",
         "RETURNS_PRINT_AT_POST",
-        "TRAVEL_INSURANCE",
-        "WESTERN_UNION_MONEY_TRANSFER"
+        "TRAVEL_INSURANCE"
       ]
     },
     {
@@ -68469,8 +68354,7 @@
         "PO_BOXES_AVAILABLE",
         "PO_BOXES_INSTALLED",
         "RETURNS_PRINT_AT_POST",
-        "TRAVEL_INSURANCE",
-        "WESTERN_UNION_MONEY_TRANSFER"
+        "TRAVEL_INSURANCE"
       ]
     },
     {
@@ -70477,8 +70361,7 @@
         "POST_BILL_PAY",
         "PO_BOXES_INSTALLED",
         "RETURNS_PRINT_AT_POST",
-        "TRAVEL_INSURANCE",
-        "WESTERN_UNION_MONEY_TRANSFER"
+        "TRAVEL_INSURANCE"
       ]
     },
     {
@@ -70539,8 +70422,7 @@
         "POST_BILL_PAY",
         "PO_BOXES_INSTALLED",
         "RETURNS_PRINT_AT_POST",
-        "TRAVEL_INSURANCE",
-        "WESTERN_UNION_MONEY_TRANSFER"
+        "TRAVEL_INSURANCE"
       ]
     },
     {
@@ -75456,8 +75338,7 @@
         "PO_BOXES_AVAILABLE",
         "PO_BOXES_INSTALLED",
         "RETURNS_PRINT_AT_POST",
-        "TRAVEL_INSURANCE",
-        "WESTERN_UNION_MONEY_TRANSFER"
+        "TRAVEL_INSURANCE"
       ]
     },
     {
@@ -76406,8 +76287,7 @@
         "QLD_SECURITY_CLEARANCE_CARD",
         "QLD_WEAPONS_LICENSING",
         "RETURNS_PRINT_AT_POST",
-        "TRAVEL_INSURANCE",
-        "WESTERN_UNION_MONEY_TRANSFER"
+        "TRAVEL_INSURANCE"
       ]
     },
     {
@@ -76585,8 +76465,7 @@
         "PO_BOXES_AVAILABLE",
         "PO_BOXES_INSTALLED",
         "RETURNS_PRINT_AT_POST",
-        "TRAVEL_INSURANCE",
-        "WESTERN_UNION_MONEY_TRANSFER"
+        "TRAVEL_INSURANCE"
       ]
     },
     {
@@ -83737,8 +83616,7 @@
         "PO_BOXES_AVAILABLE",
         "PO_BOXES_INSTALLED",
         "RETURNS_PRINT_AT_POST",
-        "TRAVEL_INSURANCE",
-        "WESTERN_UNION_MONEY_TRANSFER"
+        "TRAVEL_INSURANCE"
       ]
     },
     {
@@ -84620,8 +84498,7 @@
         "QLD_SECURITY_CLEARANCE_CARD",
         "QLD_WEAPONS_LICENSING",
         "RETURNS_PRINT_AT_POST",
-        "TRAVEL_INSURANCE",
-        "WESTERN_UNION_MONEY_TRANSFER"
+        "TRAVEL_INSURANCE"
       ]
     },
     {
@@ -92979,8 +92856,7 @@
         "QLD_SECURITY_CLEARANCE_CARD",
         "QLD_WEAPONS_LICENSING",
         "RETURNS_PRINT_AT_POST",
-        "TRAVEL_INSURANCE",
-        "WESTERN_UNION_MONEY_TRANSFER"
+        "TRAVEL_INSURANCE"
       ]
     },
     {
@@ -95152,8 +95028,7 @@
         "PO_BOXES_AVAILABLE",
         "PO_BOXES_INSTALLED",
         "RETURNS_PRINT_AT_POST",
-        "TRAVEL_INSURANCE",
-        "WESTERN_UNION_MONEY_TRANSFER"
+        "TRAVEL_INSURANCE"
       ]
     },
     {
@@ -114647,8 +114522,7 @@
         "QLD_SECURITY_CLEARANCE_CARD",
         "QLD_WEAPONS_LICENSING",
         "RETURNS_PRINT_AT_POST",
-        "TRAVEL_INSURANCE",
-        "WESTERN_UNION_MONEY_TRANSFER"
+        "TRAVEL_INSURANCE"
       ]
     },
     {
@@ -125001,8 +124875,7 @@
         "PO_BOXES_AVAILABLE",
         "PO_BOXES_INSTALLED",
         "RETURNS_PRINT_AT_POST",
-        "TRAVEL_INSURANCE",
-        "WESTERN_UNION_MONEY_TRANSFER"
+        "TRAVEL_INSURANCE"
       ]
     },
     {
@@ -130213,74 +130086,6 @@
       ]
     },
     {
-      "id": "414203_PO",
-      "type": "PO",
-      "name": "Amberley Post Office",
-      "phone": "(07) 5464 3300",
-      "fax": "(07)5464 3282",
-      "address": {
-        "line1": "Post Office Located On Raaf Base",
-        "line2": "197 Southern Amberley Rd",
-        "suburb": "AMBERLEY",
-        "state": "QLD",
-        "postcode": "4306",
-        "country": "Australia"
-      },
-      "lat": -27.626991,
-      "lon": 152.70108,
-      "trading_hours": {
-        "MON": {
-          "open": "09:00",
-          "close": "16:00"
-        },
-        "TUE": {
-          "open": "09:00",
-          "close": "16:00"
-        },
-        "WED": {
-          "open": "09:00",
-          "close": "16:00"
-        },
-        "THU": {
-          "open": "09:00",
-          "close": "16:00"
-        },
-        "FRI": {
-          "open": "09:00",
-          "close": "13:00"
-        },
-        "SAT": null,
-        "SUN": null
-      },
-      "services": [
-        "100_POINT_CHECK_VERIFICATION",
-        "ATO_INDIVIDUAL_TFN_SERVICES",
-        "AUSTRALIAN_PASSPORT",
-        "AUSTRALIA_POST_EVERYDAY_MASTERCARD",
-        "AUSTRALIA_POST_GIFT_CARD_MASTERCARD",
-        "AUSTRALIA_POST_TRAVEL_PLATINUM_MASTERCARD",
-        "BANKWEST_ID_VERIFICATION",
-        "BANK_AT_POST",
-        "FOREIGN_CURRENCY",
-        "IDENTITY_VERIFICATION_FORM_REQUEST",
-        "ID_PHOTOS_EMAIL_DIGITAL_COPY",
-        "INSTANT_PASSPORT_AND_ID_PHOTOS",
-        "LAND_TITLE_ID_CHECK_EXPRESS_SERVICE",
-        "ME_BANK",
-        "MONEY_ORDER",
-        "NATIONAL_POLICE_CERTIFICATE_APPLICATION_FORM_WA",
-        "OPEN_BEFORE_900AM_WEEKDAYS",
-        "PARCEL_COLLECT",
-        "POST_BILL_PAY",
-        "PO_BOXES_AVAILABLE",
-        "PO_BOXES_INSTALLED",
-        "QLD_SECURITY_CLEARANCE_CARD",
-        "QLD_WEAPONS_LICENSING",
-        "RETURNS_PRINT_AT_POST",
-        "TRAVEL_INSURANCE"
-      ]
-    },
-    {
       "id": "437034_PO",
       "type": "PO",
       "name": "Fernvale Post Office",
@@ -132619,8 +132424,7 @@
         "QLD_SECURITY_CLEARANCE_CARD",
         "QLD_WEAPONS_LICENSING",
         "RETURNS_PRINT_AT_POST",
-        "TRAVEL_INSURANCE",
-        "WESTERN_UNION_MONEY_TRANSFER"
+        "TRAVEL_INSURANCE"
       ]
     },
     {
@@ -136351,8 +136155,7 @@
         "PO_BOXES_AVAILABLE",
         "PO_BOXES_INSTALLED",
         "RETURNS_PRINT_AT_POST",
-        "TRAVEL_INSURANCE",
-        "WESTERN_UNION_MONEY_TRANSFER"
+        "TRAVEL_INSURANCE"
       ]
     },
     {
@@ -138696,8 +138499,7 @@
         "PO_BOXES_AVAILABLE",
         "PO_BOXES_INSTALLED",
         "RETURNS_PRINT_AT_POST",
-        "TRAVEL_INSURANCE",
-        "WESTERN_UNION_MONEY_TRANSFER"
+        "TRAVEL_INSURANCE"
       ]
     },
     {
@@ -138813,8 +138615,7 @@
         "PO_BOXES_AVAILABLE",
         "PO_BOXES_INSTALLED",
         "RETURNS_PRINT_AT_POST",
-        "TRAVEL_INSURANCE",
-        "WESTERN_UNION_MONEY_TRANSFER"
+        "TRAVEL_INSURANCE"
       ]
     },
     {
@@ -140450,8 +140251,7 @@
         "PO_BOXES_AVAILABLE",
         "PO_BOXES_INSTALLED",
         "RETURNS_PRINT_AT_POST",
-        "TRAVEL_INSURANCE",
-        "WESTERN_UNION_MONEY_TRANSFER"
+        "TRAVEL_INSURANCE"
       ]
     },
     {
@@ -142991,8 +142791,7 @@
         "PO_BOXES_AVAILABLE",
         "PO_BOXES_INSTALLED",
         "RETURNS_PRINT_AT_POST",
-        "TRAVEL_INSURANCE",
-        "WESTERN_UNION_MONEY_TRANSFER"
+        "TRAVEL_INSURANCE"
       ]
     },
     {
@@ -147542,8 +147341,7 @@
         "PO_BOXES_AVAILABLE",
         "PO_BOXES_INSTALLED",
         "RETURNS_PRINT_AT_POST",
-        "TRAVEL_INSURANCE",
-        "WESTERN_UNION_MONEY_TRANSFER"
+        "TRAVEL_INSURANCE"
       ]
     },
     {
@@ -149762,8 +149560,7 @@
         "QLD_SECURITY_CLEARANCE_CARD",
         "QLD_WEAPONS_LICENSING",
         "RETURNS_PRINT_AT_POST",
-        "TRAVEL_INSURANCE",
-        "WESTERN_UNION_MONEY_TRANSFER"
+        "TRAVEL_INSURANCE"
       ]
     },
     {
@@ -154480,8 +154277,7 @@
         "PO_BOXES_AVAILABLE",
         "PO_BOXES_INSTALLED",
         "RETURNS_PRINT_AT_POST",
-        "TRAVEL_INSURANCE",
-        "WESTERN_UNION_MONEY_TRANSFER"
+        "TRAVEL_INSURANCE"
       ]
     },
     {
@@ -155769,8 +155565,7 @@
         "QLD_SECURITY_CLEARANCE_CARD",
         "QLD_WEAPONS_LICENSING",
         "RETURNS_PRINT_AT_POST",
-        "TRAVEL_INSURANCE",
-        "WESTERN_UNION_MONEY_TRANSFER"
+        "TRAVEL_INSURANCE"
       ]
     },
     {
@@ -156995,8 +156790,7 @@
         "PO_BOXES_AVAILABLE",
         "PO_BOXES_INSTALLED",
         "RETURNS_PRINT_AT_POST",
-        "TRAVEL_INSURANCE",
-        "WESTERN_UNION_MONEY_TRANSFER"
+        "TRAVEL_INSURANCE"
       ]
     },
     {
@@ -157758,8 +157552,7 @@
         "PO_BOXES_AVAILABLE",
         "PO_BOXES_INSTALLED",
         "RETURNS_PRINT_AT_POST",
-        "TRAVEL_INSURANCE",
-        "WESTERN_UNION_MONEY_TRANSFER"
+        "TRAVEL_INSURANCE"
       ]
     },
     {
@@ -159913,8 +159706,7 @@
         "PO_BOXES_AVAILABLE",
         "PO_BOXES_INSTALLED",
         "RETURNS_PRINT_AT_POST",
-        "TRAVEL_INSURANCE",
-        "WESTERN_UNION_MONEY_TRANSFER"
+        "TRAVEL_INSURANCE"
       ]
     },
     {
@@ -167863,7 +167655,6 @@
         "OPEN_BEFORE_900AM_WEEKDAYS",
         "PARCEL_COLLECT",
         "POST_BILL_PAY",
-        "PO_BOXES_AVAILABLE",
         "PO_BOXES_INSTALLED",
         "RETURNS_PRINT_AT_POST",
         "TRAVEL_INSURANCE",
@@ -169660,8 +169451,7 @@
         "QLD_SECURITY_CLEARANCE_CARD",
         "QLD_WEAPONS_LICENSING",
         "RETURNS_PRINT_AT_POST",
-        "TRAVEL_INSURANCE",
-        "WESTERN_UNION_MONEY_TRANSFER"
+        "TRAVEL_INSURANCE"
       ]
     },
     {
@@ -169727,8 +169517,7 @@
         "QLD_SECURITY_CLEARANCE_CARD",
         "QLD_WEAPONS_LICENSING",
         "RETURNS_PRINT_AT_POST",
-        "TRAVEL_INSURANCE",
-        "WESTERN_UNION_MONEY_TRANSFER"
+        "TRAVEL_INSURANCE"
       ]
     },
     {
@@ -170658,8 +170447,7 @@
         "PO_BOXES_AVAILABLE",
         "PO_BOXES_INSTALLED",
         "RETURNS_PRINT_AT_POST",
-        "TRAVEL_INSURANCE",
-        "WESTERN_UNION_MONEY_TRANSFER"
+        "TRAVEL_INSURANCE"
       ]
     },
     {
@@ -177593,8 +177381,7 @@
         "QLD_SECURITY_CLEARANCE_CARD",
         "QLD_WEAPONS_LICENSING",
         "RETURNS_PRINT_AT_POST",
-        "TRAVEL_INSURANCE",
-        "WESTERN_UNION_MONEY_TRANSFER"
+        "TRAVEL_INSURANCE"
       ]
     },
     {
@@ -177771,6 +177558,7 @@
         "BANK_AT_POST",
         "FOREIGN_CURRENCY",
         "IDENTITY_VERIFICATION_FORM_REQUEST",
+        "INSTANT_PASSPORT_AND_ID_PHOTOS",
         "LAND_TITLE_ID_CHECK_EXPRESS_SERVICE",
         "ME_BANK",
         "MONEY_ORDER",
@@ -179217,8 +179005,7 @@
         "POST_BILL_PAY",
         "PO_BOXES_INSTALLED",
         "RETURNS_PRINT_AT_POST",
-        "TRAVEL_INSURANCE",
-        "WESTERN_UNION_MONEY_TRANSFER"
+        "TRAVEL_INSURANCE"
       ]
     },
     {
@@ -181045,8 +180832,7 @@
         "PO_BOXES_AVAILABLE",
         "PO_BOXES_INSTALLED",
         "RETURNS_PRINT_AT_POST",
-        "TRAVEL_INSURANCE",
-        "WESTERN_UNION_MONEY_TRANSFER"
+        "TRAVEL_INSURANCE"
       ]
     },
     {
@@ -181462,8 +181248,7 @@
         "PO_BOXES_AVAILABLE",
         "PO_BOXES_INSTALLED",
         "RETURNS_PRINT_AT_POST",
-        "TRAVEL_INSURANCE",
-        "WESTERN_UNION_MONEY_TRANSFER"
+        "TRAVEL_INSURANCE"
       ]
     },
     {
@@ -181601,8 +181386,7 @@
         "PO_BOXES_AVAILABLE",
         "PO_BOXES_INSTALLED",
         "RETURNS_PRINT_AT_POST",
-        "TRAVEL_INSURANCE",
-        "WESTERN_UNION_MONEY_TRANSFER"
+        "TRAVEL_INSURANCE"
       ]
     },
     {
@@ -183324,8 +183108,7 @@
         "QLD_WEAPONS_LICENSING",
         "RETURNS_PRINT_AT_POST",
         "SOUTH_AUSTRALIAN_DRIVERS_LICENSE",
-        "TRAVEL_INSURANCE",
-        "WESTERN_UNION_MONEY_TRANSFER"
+        "TRAVEL_INSURANCE"
       ]
     },
     {
@@ -184279,8 +184062,7 @@
         "PO_BOXES_AVAILABLE",
         "PO_BOXES_INSTALLED",
         "RETURNS_PRINT_AT_POST",
-        "TRAVEL_INSURANCE",
-        "WESTERN_UNION_MONEY_TRANSFER"
+        "TRAVEL_INSURANCE"
       ]
     },
     {
@@ -184467,8 +184249,7 @@
         "PO_BOXES_AVAILABLE",
         "PO_BOXES_INSTALLED",
         "RETURNS_PRINT_AT_POST",
-        "TRAVEL_INSURANCE",
-        "WESTERN_UNION_MONEY_TRANSFER"
+        "TRAVEL_INSURANCE"
       ]
     },
     {
@@ -186433,63 +186214,55 @@
       ]
     },
     {
-      "id": "537086_PO",
+      "id": "517536_PO",
       "type": "PO",
-      "name": "Langhorne Creek Post Office",
+      "name": "Langhorne Creek CPA",
       "phone": "13 13 18",
-      "fax": "(08)8537 3020",
+      "fax": null,
       "address": {
-        "line1": "52 Bridge Rd",
+        "line1": "89 Bridge Rd",
         "line2": null,
         "suburb": "LANGHORNE CREEK",
         "state": "SA",
         "postcode": "5255",
         "country": "Australia"
       },
-      "lat": -35.29538601,
-      "lon": 139.03271669,
+      "lat": -35.29572842,
+      "lon": 139.03639547,
       "trading_hours": {
         "MON": {
-          "open": "13:00",
-          "close": "17:00"
+          "open": "09:00",
+          "close": "12:00"
         },
         "TUE": {
-          "open": "13:00",
-          "close": "17:00"
+          "open": "09:00",
+          "close": "12:00"
         },
         "WED": {
-          "open": "13:00",
-          "close": "17:00"
+          "open": "09:00",
+          "close": "12:00"
         },
         "THU": {
-          "open": "13:00",
-          "close": "17:00"
+          "open": "09:00",
+          "close": "12:00"
         },
         "FRI": {
-          "open": "13:00",
-          "close": "17:00"
+          "open": "09:00",
+          "close": "12:00"
         },
-        "SAT": null,
-        "SUN": null
+        "SAT": {
+          "open": "09:00",
+          "close": "12:00"
+        },
+        "SUN": {
+          "open": "09:00",
+          "close": "12:00"
+        }
       },
       "services": [
-        "100_POINT_CHECK_VERIFICATION",
-        "AUSTRALIA_POST_EVERYDAY_MASTERCARD",
-        "AUSTRALIA_POST_GIFT_CARD_MASTERCARD",
-        "AUSTRALIA_POST_TRAVEL_PLATINUM_MASTERCARD",
-        "BANK_AT_POST",
-        "FOREIGN_CURRENCY",
-        "IDENTITY_VERIFICATION_FORM_REQUEST",
-        "MONEY_ORDER",
-        "NATIONAL_POLICE_CERTIFICATE_APPLICATION_FORM_QLD",
-        "NATIONAL_POLICE_CERTIFICATE_APPLICATION_FORM_WA",
         "OPEN_BEFORE_900AM_WEEKDAYS",
-        "PARCEL_COLLECT",
-        "POST_BILL_PAY",
-        "PO_BOXES_AVAILABLE",
-        "PO_BOXES_INSTALLED",
-        "RETURNS_PRINT_AT_POST",
-        "TRAVEL_INSURANCE"
+        "OPEN_SATURDAY",
+        "PARCEL_COLLECT"
       ]
     },
     {
@@ -189123,8 +188896,7 @@
         "PO_BOXES_AVAILABLE",
         "PO_BOXES_INSTALLED",
         "RETURNS_PRINT_AT_POST",
-        "TRAVEL_INSURANCE",
-        "WESTERN_UNION_MONEY_TRANSFER"
+        "TRAVEL_INSURANCE"
       ]
     },
     {
@@ -191436,8 +191208,7 @@
         "QLD_SECURITY_CLEARANCE_CARD",
         "QLD_WEAPONS_LICENSING",
         "RETURNS_PRINT_AT_POST",
-        "TRAVEL_INSURANCE",
-        "WESTERN_UNION_MONEY_TRANSFER"
+        "TRAVEL_INSURANCE"
       ]
     },
     {
@@ -197388,8 +197159,7 @@
         "QLD_WEAPONS_LICENSING",
         "RETURNS_PRINT_AT_POST",
         "SOUTH_AUSTRALIAN_DRIVERS_LICENSE",
-        "TRAVEL_INSURANCE",
-        "WESTERN_UNION_MONEY_TRANSFER"
+        "TRAVEL_INSURANCE"
       ]
     },
     {
@@ -199068,8 +198838,7 @@
         "QLD_WEAPONS_LICENSING",
         "RETURNS_PRINT_AT_POST",
         "SOUTH_AUSTRALIAN_DRIVERS_LICENSE",
-        "TRAVEL_INSURANCE",
-        "WESTERN_UNION_MONEY_TRANSFER"
+        "TRAVEL_INSURANCE"
       ]
     },
     {
@@ -207515,8 +207284,7 @@
         "PARCEL_COLLECT",
         "POST_BILL_PAY",
         "RETURNS_PRINT_AT_POST",
-        "TRAVEL_INSURANCE",
-        "WESTERN_UNION_MONEY_TRANSFER"
+        "TRAVEL_INSURANCE"
       ]
     },
     {
@@ -225439,7 +225207,6 @@
         "QLD_WEAPONS_LICENSING",
         "RETURNS_PRINT_AT_POST",
         "TRAVEL_INSURANCE",
-        "WESTERN_UNION_MONEY_TRANSFER",
         "WORKING_WITH_CHILDREN_CHECK_VIC"
       ]
     },
@@ -228051,7 +227818,6 @@
         "QLD_WEAPONS_LICENSING",
         "RETURNS_PRINT_AT_POST",
         "TRAVEL_INSURANCE",
-        "WESTERN_UNION_MONEY_TRANSFER",
         "WORKING_WITH_CHILDREN_CHECK_VIC"
       ]
     },
@@ -228484,8 +228250,7 @@
         "PARCEL_COLLECT",
         "POST_BILL_PAY",
         "RETURNS_PRINT_AT_POST",
-        "TRAVEL_INSURANCE",
-        "WESTERN_UNION_MONEY_TRANSFER"
+        "TRAVEL_INSURANCE"
       ]
     },
     {
@@ -233480,7 +233245,6 @@
         "QLD_WEAPONS_LICENSING",
         "RETURNS_PRINT_AT_POST",
         "TRAVEL_INSURANCE",
-        "WESTERN_UNION_MONEY_TRANSFER",
         "WORKING_WITH_CHILDREN_CHECK_VIC"
       ]
     },
@@ -245105,8 +244869,7 @@
         "PO_BOXES_AVAILABLE",
         "PO_BOXES_INSTALLED",
         "RETURNS_PRINT_AT_POST",
-        "TRAVEL_INSURANCE",
-        "WESTERN_UNION_MONEY_TRANSFER"
+        "TRAVEL_INSURANCE"
       ]
     },
     {
@@ -252598,8 +252361,7 @@
         "PO_BOXES_AVAILABLE",
         "PO_BOXES_INSTALLED",
         "RETURNS_PRINT_AT_POST",
-        "TRAVEL_INSURANCE",
-        "WESTERN_UNION_MONEY_TRANSFER"
+        "TRAVEL_INSURANCE"
       ]
     },
     {
@@ -256782,8 +256544,7 @@
         "PO_BOXES_AVAILABLE",
         "PO_BOXES_INSTALLED",
         "RETURNS_PRINT_AT_POST",
-        "TRAVEL_INSURANCE",
-        "WESTERN_UNION_MONEY_TRANSFER"
+        "TRAVEL_INSURANCE"
       ]
     },
     {
@@ -263872,8 +263633,7 @@
         "PO_BOXES_AVAILABLE",
         "PO_BOXES_INSTALLED",
         "RETURNS_PRINT_AT_POST",
-        "TRAVEL_INSURANCE",
-        "WESTERN_UNION_MONEY_TRANSFER"
+        "TRAVEL_INSURANCE"
       ]
     },
     {
@@ -266789,7 +266549,6 @@
         "QLD_WEAPONS_LICENSING",
         "RETURNS_PRINT_AT_POST",
         "TRAVEL_INSURANCE",
-        "WESTERN_UNION_MONEY_TRANSFER",
         "WORKING_WITH_CHILDREN_CHECK_VIC"
       ]
     },
@@ -268652,7 +268411,7 @@
       "phone": "13 13 18",
       "fax": "(03)5473 4202",
       "address": {
-        "line1": "65 Main Street",
+        "line1": "10 Templeton St",
         "line2": null,
         "suburb": "GUILDFORD",
         "state": "VIC",
@@ -269269,8 +269028,7 @@
         "PO_BOXES_AVAILABLE",
         "PO_BOXES_INSTALLED",
         "RETURNS_PRINT_AT_POST",
-        "TRAVEL_INSURANCE",
-        "WESTERN_UNION_MONEY_TRANSFER"
+        "TRAVEL_INSURANCE"
       ]
     },
     {
@@ -274044,8 +273802,7 @@
         "PO_BOXES_AVAILABLE",
         "PO_BOXES_INSTALLED",
         "RETURNS_PRINT_AT_POST",
-        "TRAVEL_INSURANCE",
-        "WESTERN_UNION_MONEY_TRANSFER"
+        "TRAVEL_INSURANCE"
       ]
     },
     {
@@ -274886,7 +274643,6 @@
         "QLD_WEAPONS_LICENSING",
         "RETURNS_PRINT_AT_POST",
         "TRAVEL_INSURANCE",
-        "WESTERN_UNION_MONEY_TRANSFER",
         "WORKING_WITH_CHILDREN_CHECK_VIC"
       ]
     },
@@ -275705,8 +275461,7 @@
         "PO_BOXES_AVAILABLE",
         "PO_BOXES_INSTALLED",
         "RETURNS_PRINT_AT_POST",
-        "TRAVEL_INSURANCE",
-        "WESTERN_UNION_MONEY_TRANSFER"
+        "TRAVEL_INSURANCE"
       ]
     },
     {
@@ -277531,7 +277286,6 @@
         "QLD_WEAPONS_LICENSING",
         "RETURNS_PRINT_AT_POST",
         "TRAVEL_INSURANCE",
-        "WESTERN_UNION_MONEY_TRANSFER",
         "WORKING_WITH_CHILDREN_CHECK_VIC"
       ]
     },
@@ -285571,29 +285325,32 @@
       "trading_hours": {
         "MON": {
           "open": "08:00",
-          "close": "17:00"
+          "close": "20:00"
         },
         "TUE": {
           "open": "08:00",
-          "close": "17:00"
+          "close": "20:00"
         },
         "WED": {
           "open": "08:00",
-          "close": "17:00"
+          "close": "20:00"
         },
         "THU": {
           "open": "08:00",
-          "close": "17:00"
+          "close": "20:00"
         },
         "FRI": {
           "open": "08:00",
-          "close": "17:00"
+          "close": "20:00"
         },
         "SAT": {
           "open": "09:00",
-          "close": "13:00"
+          "close": "19:00"
         },
-        "SUN": null
+        "SUN": {
+          "open": "09:00",
+          "close": "19:00"
+        }
       },
       "services": [
         "100_POINT_CHECK_VERIFICATION",
@@ -285606,6 +285363,7 @@
         "MONEY_ORDER",
         "NATIONAL_POLICE_CERTIFICATE_APPLICATION_FORM_QLD",
         "NATIONAL_POLICE_CERTIFICATE_APPLICATION_FORM_WA",
+        "OPEN_AFTER_500PM_WEEKDAYS",
         "OPEN_BEFORE_900AM_WEEKDAYS",
         "OPEN_SATURDAY",
         "PARCEL_COLLECT",
@@ -285980,10 +285738,7 @@
           "open": "09:00",
           "close": "17:00"
         },
-        "SAT": {
-          "open": "09:00",
-          "close": "12:00"
-        },
+        "SAT": null,
         "SUN": null
       },
       "services": [
@@ -286006,7 +285761,6 @@
         "NATIONAL_POLICE_CERTIFICATE_APPLICATION_FORM_QLD",
         "NATIONAL_POLICE_CERTIFICATE_APPLICATION_FORM_WA",
         "OPEN_BEFORE_900AM_WEEKDAYS",
-        "OPEN_SATURDAY",
         "PARCEL_COLLECT",
         "POST_BILL_PAY",
         "PO_BOXES_AVAILABLE",
@@ -289788,7 +289542,6 @@
         "QLD_WEAPONS_LICENSING",
         "RETURNS_PRINT_AT_POST",
         "TRAVEL_INSURANCE",
-        "WESTERN_UNION_MONEY_TRANSFER",
         "WORKING_WITH_CHILDREN_CHECK_VIC"
       ]
     },
@@ -292390,8 +292143,7 @@
         "PO_BOXES_AVAILABLE",
         "PO_BOXES_INSTALLED",
         "RETURNS_PRINT_AT_POST",
-        "TRAVEL_INSURANCE",
-        "WESTERN_UNION_MONEY_TRANSFER"
+        "TRAVEL_INSURANCE"
       ]
     },
     {
@@ -294125,8 +293877,7 @@
         "PO_BOXES_AVAILABLE",
         "PO_BOXES_INSTALLED",
         "RETURNS_PRINT_AT_POST",
-        "TRAVEL_INSURANCE",
-        "WESTERN_UNION_MONEY_TRANSFER"
+        "TRAVEL_INSURANCE"
       ]
     },
     {
@@ -297371,7 +297122,7 @@
       "phone": "1800 422 406",
       "fax": null,
       "address": {
-        "line1": "Parcel Locker 50",
+        "line1": "1130-1134 Nepean Hwy",
         "line2": null,
         "suburb": "MORNINGTON",
         "state": "VIC",
@@ -303985,8 +303736,7 @@
         "PO_BOXES_AVAILABLE",
         "PO_BOXES_INSTALLED",
         "RETURNS_PRINT_AT_POST",
-        "TRAVEL_INSURANCE",
-        "WESTERN_UNION_MONEY_TRANSFER"
+        "TRAVEL_INSURANCE"
       ]
     },
     {
@@ -313460,8 +313210,7 @@
         "PO_BOXES_AVAILABLE",
         "PO_BOXES_INSTALLED",
         "RETURNS_PRINT_AT_POST",
-        "TRAVEL_INSURANCE",
-        "WESTERN_UNION_MONEY_TRANSFER"
+        "TRAVEL_INSURANCE"
       ]
     },
     {
@@ -315117,6 +314866,8 @@
         "DEPARTMENT_OF_RACING_GAMING_AND_LIQUOR_WA",
         "FOREIGN_CURRENCY",
         "IDENTITY_VERIFICATION_FORM_REQUEST",
+        "ID_PHOTOS_EMAIL_DIGITAL_COPY",
+        "INSTANT_PASSPORT_AND_ID_PHOTOS",
         "INTERNATIONAL_COURIER",
         "LAND_TITLE_ID_CHECK_EXPRESS_SERVICE",
         "MARITIME_SECURITY_IDENTITY_CARD",
@@ -316897,8 +316648,7 @@
         "PO_BOXES_AVAILABLE",
         "PO_BOXES_INSTALLED",
         "RETURNS_PRINT_AT_POST",
-        "TRAVEL_INSURANCE",
-        "WESTERN_UNION_MONEY_TRANSFER"
+        "TRAVEL_INSURANCE"
       ]
     },
     {
@@ -317561,8 +317311,8 @@
       "phone": "1800 422 406",
       "fax": null,
       "address": {
-        "line1": "Parcel Locker 11",
-        "line2": null,
+        "line1": "Southlands Boul",
+        "line2": "Shop 57",
         "suburb": "WILLETTON",
         "state": "WA",
         "postcode": "6155",
@@ -327119,8 +326869,7 @@
         "PO_BOXES_AVAILABLE",
         "PO_BOXES_INSTALLED",
         "RETURNS_PRINT_AT_POST",
-        "TRAVEL_INSURANCE",
-        "WESTERN_UNION_MONEY_TRANSFER"
+        "TRAVEL_INSURANCE"
       ]
     },
     {
@@ -328732,8 +328481,7 @@
         "PO_BOXES_AVAILABLE",
         "PO_BOXES_INSTALLED",
         "RETURNS_PRINT_AT_POST",
-        "TRAVEL_INSURANCE",
-        "WESTERN_UNION_MONEY_TRANSFER"
+        "TRAVEL_INSURANCE"
       ]
     },
     {
@@ -329841,7 +329589,6 @@
         "OPEN_BEFORE_900AM_WEEKDAYS",
         "PARCEL_COLLECT",
         "POST_BILL_PAY",
-        "PO_BOXES_AVAILABLE",
         "PO_BOXES_INSTALLED",
         "QLD_SECURITY_CLEARANCE_CARD",
         "QLD_WEAPONS_LICENSING",
@@ -337581,7 +337328,6 @@
         "QLD_WEAPONS_LICENSING",
         "RETURNS_PRINT_AT_POST",
         "TRAVEL_INSURANCE",
-        "WESTERN_UNION_MONEY_TRANSFER",
         "WORKING_WITH_CHILDREN_CHECK_WA"
       ]
     },
