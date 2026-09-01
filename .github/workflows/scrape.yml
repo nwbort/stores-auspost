@@ -36,8 +36,10 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          if git diff --quiet -- stores.json; then
-            echo "No changes to stores.json"
+          if diff -q \
+            <(git show HEAD:stores.json | jq 'del(.generated_at)') \
+            <(jq 'del(.generated_at)' stores.json) >/dev/null; then
+            echo "No changes to stores.json (besides generated_at)"
             exit 0
           fi
           git add stores.json
