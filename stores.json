@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-01T08:43:58Z",
+  "generated_at": "2026-09-02T07:59:28Z",
   "source": "https://digitalapi.auspost.com.au/locations-private/v3/workcentres",
-  "count": 5686,
+  "count": 5687,
   "count_by_type": {
-    "PO": 4132,
+    "PO": 4133,
     "UPL": 1429,
     "OS": 89,
     "DC": 36
@@ -17962,8 +17962,8 @@
       "phone": "1800 422 406",
       "fax": null,
       "address": {
-        "line1": "436-484 Victoria Rd",
-        "line2": null,
+        "line1": "U 6b",
+        "line2": "436a Victoria Rd",
         "suburb": "GLADESVILLE",
         "state": "NSW",
         "postcode": "2111",
@@ -35706,6 +35706,56 @@
       ]
     },
     {
+      "id": "290431_PO",
+      "type": "PO",
+      "name": "Jannali CPA",
+      "phone": "(02) 9528 9335",
+      "fax": null,
+      "address": {
+        "line1": "547 Box Rd",
+        "line2": null,
+        "suburb": "JANNALI",
+        "state": "NSW",
+        "postcode": "2226",
+        "country": "Australia"
+      },
+      "lat": -34.01604534,
+      "lon": 151.0661995,
+      "trading_hours": {
+        "MON": {
+          "open": "08:30",
+          "close": "18:30"
+        },
+        "TUE": {
+          "open": "08:30",
+          "close": "18:30"
+        },
+        "WED": {
+          "open": "08:30",
+          "close": "18:30"
+        },
+        "THU": {
+          "open": "08:30",
+          "close": "18:30"
+        },
+        "FRI": {
+          "open": "08:30",
+          "close": "18:30"
+        },
+        "SAT": {
+          "open": "09:00",
+          "close": "13:30"
+        },
+        "SUN": null
+      },
+      "services": [
+        "OPEN_AFTER_500PM_WEEKDAYS",
+        "OPEN_BEFORE_900AM_WEEKDAYS",
+        "OPEN_SATURDAY",
+        "PARCEL_COLLECT"
+      ]
+    },
+    {
       "id": "268656_PO",
       "type": "PO",
       "name": "Gymea Post Office",
@@ -47872,9 +47922,59 @@
       ]
     },
     {
+      "id": "77778423_UPL",
+      "type": "UPL",
+      "name": "North Rothbury Parcel Locker",
+      "phone": "1800 422 406",
+      "fax": null,
+      "address": {
+        "line1": "Shop 1",
+        "line2": "22 Empire St",
+        "suburb": "NORTH ROTHBURY",
+        "state": "NSW",
+        "postcode": "2335",
+        "country": "Australia"
+      },
+      "lat": -32.6693237,
+      "lon": 151.3497284,
+      "trading_hours": {
+        "MON": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "TUE": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "WED": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "THU": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "FRI": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "SAT": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "SUN": {
+          "open": "00:00",
+          "close": "23:59"
+        }
+      },
+      "services": [
+        "PARCEL_COLLECT"
+      ]
+    },
+    {
       "id": "254158_PO",
       "type": "PO",
-      "name": "Branxton Post Office",
+      "name": "North Rothbury Post Office",
       "phone": "(02) 4067 7866",
       "fax": "(02)4067 7866",
       "address": {
@@ -47938,56 +48038,6 @@
         "QLD_WEAPONS_LICENSING",
         "RETURNS_PRINT_AT_POST",
         "TRAVEL_INSURANCE"
-      ]
-    },
-    {
-      "id": "77778423_UPL",
-      "type": "UPL",
-      "name": "North Rothbury Parcel Locker",
-      "phone": "1800 422 406",
-      "fax": null,
-      "address": {
-        "line1": "Shop 1",
-        "line2": "22 Empire St",
-        "suburb": "NORTH ROTHBURY",
-        "state": "NSW",
-        "postcode": "2335",
-        "country": "Australia"
-      },
-      "lat": -32.6693237,
-      "lon": 151.3497284,
-      "trading_hours": {
-        "MON": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "TUE": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "WED": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "THU": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "FRI": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "SAT": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "SUN": {
-          "open": "00:00",
-          "close": "23:59"
-        }
-      },
-      "services": [
-        "PARCEL_COLLECT"
       ]
     },
     {
@@ -139716,7 +139766,7 @@
       "type": "PO",
       "name": "Burpengary Post Office",
       "phone": "13 13 18",
-      "fax": "(07)3888 1405",
+      "fax": "(07)3888 0530",
       "address": {
         "line1": "Burpengary Plaza",
         "line2": "Shop 41",
@@ -141100,7 +141150,6 @@
         "NATIONAL_POLICE_CERTIFICATE_APPLICATION_FORM_WA",
         "OPEN_AFTER_500PM_WEEKDAYS",
         "OPEN_BEFORE_900AM_WEEKDAYS",
-        "OPEN_SATURDAY",
         "PARCEL_COLLECT",
         "POST_BILL_PAY",
         "PO_BOXES_AVAILABLE",
@@ -165800,7 +165849,7 @@
       "phone": "(07) 4083 2200",
       "fax": null,
       "address": {
-        "line1": "Main Rd",
+        "line1": "Lot 39 Main Rd",
         "line2": null,
         "suburb": "DAUAN ISLAND",
         "state": "QLD",
@@ -184059,7 +184108,6 @@
         "OPEN_SATURDAY",
         "PARCEL_COLLECT",
         "POST_BILL_PAY",
-        "PO_BOXES_AVAILABLE",
         "PO_BOXES_INSTALLED",
         "RETURNS_PRINT_AT_POST",
         "TRAVEL_INSURANCE"
@@ -186250,14 +186298,8 @@
           "open": "09:00",
           "close": "12:00"
         },
-        "SAT": {
-          "open": "09:00",
-          "close": "12:00"
-        },
-        "SUN": {
-          "open": "09:00",
-          "close": "12:00"
-        }
+        "SAT": null,
+        "SUN": null
       },
       "services": [
         "OPEN_BEFORE_900AM_WEEKDAYS",
@@ -194231,6 +194273,7 @@
         "OPEN_BEFORE_900AM_WEEKDAYS",
         "PARCEL_COLLECT",
         "POST_BILL_PAY",
+        "PO_BOXES_AVAILABLE",
         "PO_BOXES_INSTALLED",
         "QLD_SECURITY_CLEARANCE_CARD",
         "QLD_WEAPONS_LICENSING",
@@ -228466,56 +228509,6 @@
       ]
     },
     {
-      "id": "96193180_UPL",
-      "type": "UPL",
-      "name": "Preston Gower St Parcel Locker",
-      "phone": "1800 422 406",
-      "fax": "(03)9471 5829",
-      "address": {
-        "line1": "5 Oakover Rd",
-        "line2": null,
-        "suburb": "PRESTON",
-        "state": "VIC",
-        "postcode": "3072",
-        "country": "Australia"
-      },
-      "lat": -37.749989,
-      "lon": 145.000496,
-      "trading_hours": {
-        "MON": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "TUE": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "WED": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "THU": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "FRI": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "SAT": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "SUN": {
-          "open": "00:00",
-          "close": "23:59"
-        }
-      },
-      "services": [
-        "PARCEL_COLLECT"
-      ]
-    },
-    {
       "id": "362415_PO",
       "type": "PO",
       "name": "Preston Lower Post Office",
@@ -228589,6 +228582,56 @@
         "TRAVEL_INSURANCE",
         "WESTERN_UNION_MONEY_TRANSFER",
         "WORKING_WITH_CHILDREN_CHECK_VIC"
+      ]
+    },
+    {
+      "id": "96193180_UPL",
+      "type": "UPL",
+      "name": "Preston Oakover Rd Parcel Locker",
+      "phone": "1800 422 406",
+      "fax": "(03)9471 5829",
+      "address": {
+        "line1": "5 Oakover Rd",
+        "line2": null,
+        "suburb": "PRESTON",
+        "state": "VIC",
+        "postcode": "3072",
+        "country": "Australia"
+      },
+      "lat": -37.749989,
+      "lon": 145.000496,
+      "trading_hours": {
+        "MON": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "TUE": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "WED": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "THU": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "FRI": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "SAT": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "SUN": {
+          "open": "00:00",
+          "close": "23:59"
+        }
+      },
+      "services": [
+        "PARCEL_COLLECT"
       ]
     },
     {
@@ -262393,80 +262436,6 @@
       ]
     },
     {
-      "id": "325913_PO",
-      "type": "PO",
-      "name": "Bakery Hill Business Centre",
-      "phone": "13 13 18",
-      "fax": "(03)8633 1916",
-      "address": {
-        "line1": "12 Curtis St",
-        "line2": null,
-        "suburb": "BALLARAT CENTRAL",
-        "state": "VIC",
-        "postcode": "3350",
-        "country": "Australia"
-      },
-      "lat": -37.5622,
-      "lon": 143.861,
-      "trading_hours": {
-        "MON": {
-          "open": "09:00",
-          "close": "18:00"
-        },
-        "TUE": {
-          "open": "09:00",
-          "close": "18:00"
-        },
-        "WED": {
-          "open": "09:00",
-          "close": "18:00"
-        },
-        "THU": {
-          "open": "09:00",
-          "close": "18:00"
-        },
-        "FRI": {
-          "open": "09:00",
-          "close": "18:00"
-        },
-        "SAT": null,
-        "SUN": null
-      },
-      "services": [
-        "100_POINT_CHECK_VERIFICATION",
-        "ATO_INDIVIDUAL_TFN_SERVICES",
-        "AUSTRALIAN_PASSPORT",
-        "AUSTRALIA_POST_EVERYDAY_MASTERCARD",
-        "AUSTRALIA_POST_GIFT_CARD_MASTERCARD",
-        "AUSTRALIA_POST_TRAVEL_PLATINUM_MASTERCARD",
-        "BANKWEST_ID_VERIFICATION",
-        "BANK_AT_POST",
-        "FOREIGN_CURRENCY",
-        "IDENTITY_VERIFICATION_FORM_REQUEST",
-        "ID_PHOTOS_EMAIL_DIGITAL_COPY",
-        "INSTANT_PASSPORT_AND_ID_PHOTOS",
-        "LAND_TITLE_ID_CHECK_EXPRESS_SERVICE",
-        "LICENCE_TO_PERFORM_HIGH_RISK_WORK_VIC_L2_L4_AND_RENEWALS",
-        "ME_BANK",
-        "MONEY_ORDER",
-        "NATIONAL_POLICE_CERTIFICATE_APPLICATION_FORM_QLD",
-        "NATIONAL_POLICE_CERTIFICATE_APPLICATION_FORM_WA",
-        "OPEN_AFTER_500PM_WEEKDAYS",
-        "OPEN_BEFORE_900AM_WEEKDAYS",
-        "PARCEL_COLLECT",
-        "PARCEL_PICKUP_OUTSIDE_STANDARD_HOURS",
-        "POST_BILL_PAY",
-        "PO_BOXES_AVAILABLE",
-        "PO_BOXES_INSTALLED",
-        "QLD_SECURITY_CLEARANCE_CARD",
-        "QLD_WEAPONS_LICENSING",
-        "RETURNS_PRINT_AT_POST",
-        "TRAVEL_INSURANCE",
-        "WESTERN_UNION_MONEY_TRANSFER",
-        "WORKING_WITH_CHILDREN_CHECK_VIC"
-      ]
-    },
-    {
       "id": "61868076_UPL",
       "type": "UPL",
       "name": "Ballarat Curtis St Parcel Locker",
@@ -263087,6 +263056,80 @@
         "OPEN_BEFORE_900AM_WEEKDAYS",
         "OPEN_SATURDAY",
         "PARCEL_COLLECT",
+        "POST_BILL_PAY",
+        "PO_BOXES_AVAILABLE",
+        "PO_BOXES_INSTALLED",
+        "QLD_SECURITY_CLEARANCE_CARD",
+        "QLD_WEAPONS_LICENSING",
+        "RETURNS_PRINT_AT_POST",
+        "TRAVEL_INSURANCE",
+        "WESTERN_UNION_MONEY_TRANSFER",
+        "WORKING_WITH_CHILDREN_CHECK_VIC"
+      ]
+    },
+    {
+      "id": "325913_PO",
+      "type": "PO",
+      "name": "Norwich Plaza Post Office",
+      "phone": "13 13 18",
+      "fax": "(03)8633 1916",
+      "address": {
+        "line1": "12 Curtis St",
+        "line2": null,
+        "suburb": "BALLARAT CENTRAL",
+        "state": "VIC",
+        "postcode": "3350",
+        "country": "Australia"
+      },
+      "lat": -37.5622,
+      "lon": 143.861,
+      "trading_hours": {
+        "MON": {
+          "open": "09:00",
+          "close": "18:00"
+        },
+        "TUE": {
+          "open": "09:00",
+          "close": "18:00"
+        },
+        "WED": {
+          "open": "09:00",
+          "close": "18:00"
+        },
+        "THU": {
+          "open": "09:00",
+          "close": "18:00"
+        },
+        "FRI": {
+          "open": "09:00",
+          "close": "18:00"
+        },
+        "SAT": null,
+        "SUN": null
+      },
+      "services": [
+        "100_POINT_CHECK_VERIFICATION",
+        "ATO_INDIVIDUAL_TFN_SERVICES",
+        "AUSTRALIAN_PASSPORT",
+        "AUSTRALIA_POST_EVERYDAY_MASTERCARD",
+        "AUSTRALIA_POST_GIFT_CARD_MASTERCARD",
+        "AUSTRALIA_POST_TRAVEL_PLATINUM_MASTERCARD",
+        "BANKWEST_ID_VERIFICATION",
+        "BANK_AT_POST",
+        "FOREIGN_CURRENCY",
+        "IDENTITY_VERIFICATION_FORM_REQUEST",
+        "ID_PHOTOS_EMAIL_DIGITAL_COPY",
+        "INSTANT_PASSPORT_AND_ID_PHOTOS",
+        "LAND_TITLE_ID_CHECK_EXPRESS_SERVICE",
+        "LICENCE_TO_PERFORM_HIGH_RISK_WORK_VIC_L2_L4_AND_RENEWALS",
+        "ME_BANK",
+        "MONEY_ORDER",
+        "NATIONAL_POLICE_CERTIFICATE_APPLICATION_FORM_QLD",
+        "NATIONAL_POLICE_CERTIFICATE_APPLICATION_FORM_WA",
+        "OPEN_AFTER_500PM_WEEKDAYS",
+        "OPEN_BEFORE_900AM_WEEKDAYS",
+        "PARCEL_COLLECT",
+        "PARCEL_PICKUP_OUTSIDE_STANDARD_HOURS",
         "POST_BILL_PAY",
         "PO_BOXES_AVAILABLE",
         "PO_BOXES_INSTALLED",
@@ -308170,7 +308213,6 @@
         "COUNTRY_AGE_PENSION_FUEL_CARD_WA",
         "FOREIGN_CURRENCY",
         "IDENTITY_VERIFICATION_FORM_REQUEST",
-        "INSTANT_PASSPORT_AND_ID_PHOTOS",
         "INTERNATIONAL_COURIER",
         "MONEY_ORDER",
         "NATIONAL_POLICE_CERTIFICATE_APPLICATION_FORM_QLD",
