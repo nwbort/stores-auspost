@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-02T07:59:28Z",
+  "generated_at": "2026-09-03T08:08:46Z",
   "source": "https://digitalapi.auspost.com.au/locations-private/v3/workcentres",
-  "count": 5687,
+  "count": 5683,
   "count_by_type": {
     "PO": 4133,
-    "UPL": 1429,
+    "UPL": 1425,
     "OS": 89,
     "DC": 36
   },
@@ -4450,9 +4450,9 @@
       ]
     },
     {
-      "id": "74024259_UPL",
+      "id": "39569898_UPL",
       "type": "UPL",
-      "name": "Mitchell Post Shop Parcel Locker",
+      "name": "Mitchell Post Office Parcel Locker",
       "phone": "1800 422 406",
       "fax": null,
       "address": {
@@ -4463,8 +4463,8 @@
         "postcode": "2911",
         "country": "Australia"
       },
-      "lat": -35.2188,
-      "lon": 149.1448,
+      "lat": -35.21881625,
+      "lon": 149.14476157,
       "trading_hours": {
         "MON": {
           "open": "00:00",
@@ -4500,9 +4500,9 @@
       ]
     },
     {
-      "id": "42382877_UPL",
+      "id": "97769697_UPL",
       "type": "UPL",
-      "name": "90 Swain St Parcel Locker",
+      "name": "90 Swain Street Parcel Locker",
       "phone": "1800 422 406",
       "fax": null,
       "address": {
@@ -4513,8 +4513,8 @@
         "postcode": "2912",
         "country": "Australia"
       },
-      "lat": -35.1807,
-      "lon": 149.1331,
+      "lat": -35.18073518,
+      "lon": 149.13312034,
       "trading_hours": {
         "MON": {
           "open": "00:00",
@@ -4775,9 +4775,9 @@
       ]
     },
     {
-      "id": "99379013_UPL",
+      "id": "56221302_UPL",
       "type": "UPL",
-      "name": "Amaroo Village SC Parcel Locker",
+      "name": "Amaroo Village Shopping Centre Parcel Locker",
       "phone": "1800 422 406",
       "fax": null,
       "address": {
@@ -4788,8 +4788,8 @@
         "postcode": "2914",
         "country": "Australia"
       },
-      "lat": -35.16479212,
-      "lon": 149.1323228,
+      "lat": -35.16430431,
+      "lon": 149.13212656,
       "trading_hours": {
         "MON": {
           "open": "00:00",
@@ -6969,9 +6969,9 @@
       ]
     },
     {
-      "id": "68275615_UPL",
+      "id": "41720056_UPL",
       "type": "UPL",
-      "name": "52-54 Mcevoy St Parcel Locker",
+      "name": "52-54 Mcevoy Street Parcel Locker",
       "phone": "1800 422 406",
       "fax": null,
       "address": {
@@ -7417,9 +7417,9 @@
       ]
     },
     {
-      "id": "48231053_UPL",
+      "id": "98541189_UPL",
       "type": "UPL",
-      "name": "UKO Rosebery Parcel Locker",
+      "name": "Uko Rosebery Parcel Locker",
       "phone": "1800 422 406",
       "fax": null,
       "address": {
@@ -7430,8 +7430,8 @@
         "postcode": "2018",
         "country": "Australia"
       },
-      "lat": -33.912366,
-      "lon": 151.210425,
+      "lat": -33.91255234,
+      "lon": 151.21035842,
       "trading_hours": {
         "MON": {
           "open": "00:00",
@@ -17962,8 +17962,8 @@
       "phone": "1800 422 406",
       "fax": null,
       "address": {
-        "line1": "U 6b",
-        "line2": "436a Victoria Rd",
+        "line1": "U 6",
+        "line2": "436-484a Victoria Rd",
         "suburb": "GLADESVILLE",
         "state": "NSW",
         "postcode": "2111",
@@ -22072,7 +22072,7 @@
       ]
     },
     {
-      "id": "55144469_UPL",
+      "id": "64649630_UPL",
       "type": "UPL",
       "name": "Homebush West Parcel Locker",
       "phone": "1800 422 406",
@@ -24992,9 +24992,9 @@
       ]
     },
     {
-      "id": "39061637_UPL",
+      "id": "42602755_UPL",
       "type": "UPL",
-      "name": "North Rocks SC Parcel Locker",
+      "name": "North Rocks Shopping Centre Parcel Locker",
       "phone": "1800 422 406",
       "fax": null,
       "address": {
@@ -25005,8 +25005,8 @@
         "postcode": "2151",
         "country": "Australia"
       },
-      "lat": -33.768832,
-      "lon": 151.029814,
+      "lat": -33.76897365,
+      "lon": 151.02828376,
       "trading_hours": {
         "MON": {
           "open": "00:00",
@@ -30267,9 +30267,9 @@
       ]
     },
     {
-      "id": "45710522_UPL",
+      "id": "76148572_UPL",
       "type": "UPL",
-      "name": "Emerald Hills SV Parcel Locker",
+      "name": "Emerald Hills Shopping Village Parcel Locker",
       "phone": "1800 422 406",
       "fax": null,
       "address": {
@@ -30280,8 +30280,8 @@
         "postcode": "2179",
         "country": "Australia"
       },
-      "lat": -33.99636407,
-      "lon": 150.7923983,
+      "lat": -33.99605158,
+      "lon": 150.7915436,
       "trading_hours": {
         "MON": {
           "open": "00:00",
@@ -36066,56 +36066,6 @@
       ]
     },
     {
-      "id": "53373230_UPL",
-      "type": "UPL",
-      "name": "Caringbah Business Centre Parcel Locker",
-      "phone": "1800 422 406",
-      "fax": null,
-      "address": {
-        "line1": "341 Kingsway",
-        "line2": null,
-        "suburb": "CARINGBAH",
-        "state": "NSW",
-        "postcode": "2229",
-        "country": "Australia"
-      },
-      "lat": -34.042109,
-      "lon": 151.122304,
-      "trading_hours": {
-        "MON": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "TUE": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "WED": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "THU": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "FRI": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "SAT": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "SUN": {
-          "open": "00:00",
-          "close": "23:59"
-        }
-      },
-      "services": [
-        "PARCEL_COLLECT"
-      ]
-    },
-    {
       "id": "86804957_UPL",
       "type": "UPL",
       "name": "Caringbah HomeCo Parcel Locker",
@@ -36236,6 +36186,56 @@
         "RETURNS_PRINT_AT_POST",
         "TRAVEL_INSURANCE",
         "WESTERN_UNION_MONEY_TRANSFER"
+      ]
+    },
+    {
+      "id": "53373230_UPL",
+      "type": "UPL",
+      "name": "Caringbah Post Office Parcel Locker",
+      "phone": "1800 422 406",
+      "fax": null,
+      "address": {
+        "line1": "341 Kingsway",
+        "line2": null,
+        "suburb": "CARINGBAH",
+        "state": "NSW",
+        "postcode": "2229",
+        "country": "Australia"
+      },
+      "lat": -34.042109,
+      "lon": 151.122304,
+      "trading_hours": {
+        "MON": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "TUE": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "WED": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "THU": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "FRI": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "SAT": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "SUN": {
+          "open": "00:00",
+          "close": "23:59"
+        }
+      },
+      "services": [
+        "PARCEL_COLLECT"
       ]
     },
     {
@@ -40092,13 +40092,13 @@
       ]
     },
     {
-      "id": "47515450_UPL",
+      "id": "81575487_UPL",
       "type": "UPL",
       "name": "Stella Arcade Parcel Locker",
       "phone": "1800 422 406",
       "fax": null,
       "address": {
-        "line1": "342-344 The Entrance Rd",
+        "line1": "G 342-344 The Entrance Rd",
         "line2": null,
         "suburb": "LONG JETTY",
         "state": "NSW",
@@ -42058,9 +42058,9 @@
       ]
     },
     {
-      "id": "32804994_UPL",
+      "id": "37098880_UPL",
       "type": "UPL",
-      "name": "Woodrising Central SC Parcel Locker",
+      "name": "Woodrising Central Shopping Ctr Parcel Locker",
       "phone": "1800 422 406",
       "fax": null,
       "address": {
@@ -44524,56 +44524,6 @@
       ]
     },
     {
-      "id": "43215891_UPL",
-      "type": "UPL",
-      "name": "New Lambton LPO Parcel Locker",
-      "phone": "1800 422 406",
-      "fax": null,
-      "address": {
-        "line1": "Shop 1",
-        "line2": "52 Regent St",
-        "suburb": "NEW LAMBTON",
-        "state": "NSW",
-        "postcode": "2305",
-        "country": "Australia"
-      },
-      "lat": -32.92366583,
-      "lon": 151.7130049,
-      "trading_hours": {
-        "MON": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "TUE": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "WED": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "THU": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "FRI": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "SAT": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "SUN": {
-          "open": "00:00",
-          "close": "23:59"
-        }
-      },
-      "services": [
-        "PARCEL_COLLECT"
-      ]
-    },
-    {
       "id": "269739_PO",
       "type": "PO",
       "name": "New Lambton Post Office",
@@ -44641,6 +44591,56 @@
         "RETURNS_PRINT_AT_POST",
         "TRAVEL_INSURANCE",
         "WESTERN_UNION_MONEY_TRANSFER"
+      ]
+    },
+    {
+      "id": "97907312_UPL",
+      "type": "UPL",
+      "name": "New Lambton Post Office Parcel Locker",
+      "phone": "1800 422 406",
+      "fax": null,
+      "address": {
+        "line1": "Shop 1",
+        "line2": "52 Regent St",
+        "suburb": "NEW LAMBTON",
+        "state": "NSW",
+        "postcode": "2305",
+        "country": "Australia"
+      },
+      "lat": -32.9236788,
+      "lon": 151.71300693,
+      "trading_hours": {
+        "MON": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "TUE": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "WED": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "THU": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "FRI": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "SAT": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "SUN": {
+          "open": "00:00",
+          "close": "23:59"
+        }
+      },
+      "services": [
+        "PARCEL_COLLECT"
       ]
     },
     {
@@ -47922,56 +47922,6 @@
       ]
     },
     {
-      "id": "77778423_UPL",
-      "type": "UPL",
-      "name": "North Rothbury Parcel Locker",
-      "phone": "1800 422 406",
-      "fax": null,
-      "address": {
-        "line1": "Shop 1",
-        "line2": "22 Empire St",
-        "suburb": "NORTH ROTHBURY",
-        "state": "NSW",
-        "postcode": "2335",
-        "country": "Australia"
-      },
-      "lat": -32.6693237,
-      "lon": 151.3497284,
-      "trading_hours": {
-        "MON": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "TUE": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "WED": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "THU": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "FRI": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "SAT": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "SUN": {
-          "open": "00:00",
-          "close": "23:59"
-        }
-      },
-      "services": [
-        "PARCEL_COLLECT"
-      ]
-    },
-    {
       "id": "254158_PO",
       "type": "PO",
       "name": "North Rothbury Post Office",
@@ -48038,6 +47988,56 @@
         "QLD_WEAPONS_LICENSING",
         "RETURNS_PRINT_AT_POST",
         "TRAVEL_INSURANCE"
+      ]
+    },
+    {
+      "id": "64329649_UPL",
+      "type": "UPL",
+      "name": "North Rothbury Post Office Parcel Locker",
+      "phone": "1800 422 406",
+      "fax": null,
+      "address": {
+        "line1": "Shop 1",
+        "line2": "22 Empire St",
+        "suburb": "NORTH ROTHBURY",
+        "state": "NSW",
+        "postcode": "2335",
+        "country": "Australia"
+      },
+      "lat": -32.66979332,
+      "lon": 151.34965154,
+      "trading_hours": {
+        "MON": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "TUE": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "WED": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "THU": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "FRI": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "SAT": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "SUN": {
+          "open": "00:00",
+          "close": "23:59"
+        }
+      },
+      "services": [
+        "PARCEL_COLLECT"
       ]
     },
     {
@@ -53905,8 +53905,7 @@
         "QLD_SECURITY_CLEARANCE_CARD",
         "QLD_WEAPONS_LICENSING",
         "RETURNS_PRINT_AT_POST",
-        "TRAVEL_INSURANCE",
-        "WESTERN_UNION_MONEY_TRANSFER"
+        "TRAVEL_INSURANCE"
       ]
     },
     {
@@ -57961,7 +57960,7 @@
       ]
     },
     {
-      "id": "63503769_UPL",
+      "id": "32920367_UPL",
       "type": "UPL",
       "name": "Startrack Coffs Harbour Parcel Locker",
       "phone": "1800 422 406",
@@ -57974,8 +57973,8 @@
         "postcode": "2450",
         "country": "Australia"
       },
-      "lat": -30.31336522,
-      "lon": 153.1003312,
+      "lat": -30.31341675,
+      "lon": 153.09974984,
       "trading_hours": {
         "MON": {
           "open": "00:00",
@@ -66834,7 +66833,7 @@
       ]
     },
     {
-      "id": "83222748_UPL",
+      "id": "30747070_UPL",
       "type": "UPL",
       "name": "Stockland Calderwood Parcel Locker",
       "phone": "1800 422 406",
@@ -66847,8 +66846,8 @@
         "postcode": "2527",
         "country": "Australia"
       },
-      "lat": -34.57351184,
-      "lon": 150.7499695,
+      "lat": -34.57356653,
+      "lon": 150.74996952,
       "trading_hours": {
         "MON": {
           "open": "00:00",
@@ -73423,9 +73422,9 @@
       ]
     },
     {
-      "id": "84896296_UPL",
+      "id": "60521042_UPL",
       "type": "UPL",
-      "name": "Narellan DC Parcel Locker",
+      "name": "Narellan Delivery Centre Parcel Locker",
       "phone": "1800 422 406",
       "fax": null,
       "address": {
@@ -73436,8 +73435,8 @@
         "postcode": "2567",
         "country": "Australia"
       },
-      "lat": -34.03892297,
-      "lon": 150.7286898,
+      "lat": -34.03891119,
+      "lon": 150.72879109,
       "trading_hours": {
         "MON": {
           "open": "00:00",
@@ -88879,9 +88878,9 @@
       ]
     },
     {
-      "id": "51967023_UPL",
+      "id": "67761319_UPL",
       "type": "UPL",
-      "name": "Plumpton LPO Homeco Parcel Locker",
+      "name": "Plumpton Homeco Parcel Locker",
       "phone": "1800 422 406",
       "fax": null,
       "address": {
@@ -88892,8 +88891,8 @@
         "postcode": "2761",
         "country": "Australia"
       },
-      "lat": -33.74547672,
-      "lon": 150.8358185,
+      "lat": -33.74547401,
+      "lon": 150.83581801,
       "trading_hours": {
         "MON": {
           "open": "00:00",
@@ -93165,56 +93164,6 @@
       ]
     },
     {
-      "id": "63366470_UPL",
-      "type": "UPL",
-      "name": "Orange City Centre Parcel Locker",
-      "phone": "1800 422 406",
-      "fax": null,
-      "address": {
-        "line1": "G 5 Colvin Lane",
-        "line2": null,
-        "suburb": "ORANGE",
-        "state": "NSW",
-        "postcode": "2800",
-        "country": "Australia"
-      },
-      "lat": -33.2845305,
-      "lon": 149.100285,
-      "trading_hours": {
-        "MON": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "TUE": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "WED": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "THU": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "FRI": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "SAT": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "SUN": {
-          "open": "00:00",
-          "close": "23:59"
-        }
-      },
-      "services": [
-        "PARCEL_COLLECT"
-      ]
-    },
-    {
       "id": "232709_PO",
       "type": "PO",
       "name": "Orange East Post Office",
@@ -94968,56 +94917,6 @@
       ]
     },
     {
-      "id": "62807669_UPL",
-      "type": "UPL",
-      "name": "Dubbo East LPO Parcel Locker",
-      "phone": "1800 422 406",
-      "fax": null,
-      "address": {
-        "line1": "Shop 112",
-        "line2": "56 Windsor Pde",
-        "suburb": "DUBBO",
-        "state": "NSW",
-        "postcode": "2830",
-        "country": "Australia"
-      },
-      "lat": -32.25590492,
-      "lon": 148.6312,
-      "trading_hours": {
-        "MON": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "TUE": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "WED": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "THU": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "FRI": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "SAT": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "SUN": {
-          "open": "00:00",
-          "close": "23:59"
-        }
-      },
-      "services": [
-        "PARCEL_COLLECT"
-      ]
-    },
-    {
       "id": "232274_PO",
       "type": "PO",
       "name": "Dubbo East Post Office",
@@ -95079,6 +94978,56 @@
         "PO_BOXES_INSTALLED",
         "RETURNS_PRINT_AT_POST",
         "TRAVEL_INSURANCE"
+      ]
+    },
+    {
+      "id": "51972983_UPL",
+      "type": "UPL",
+      "name": "Dubbo East Post Office Parcel Locker",
+      "phone": "1800 422 406",
+      "fax": null,
+      "address": {
+        "line1": "Shop 112",
+        "line2": "56 Windsor Pde",
+        "suburb": "DUBBO",
+        "state": "NSW",
+        "postcode": "2830",
+        "country": "Australia"
+      },
+      "lat": -32.25590492,
+      "lon": 148.6312,
+      "trading_hours": {
+        "MON": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "TUE": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "WED": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "THU": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "FRI": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "SAT": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "SUN": {
+          "open": "00:00",
+          "close": "23:59"
+        }
+      },
+      "services": [
+        "PARCEL_COLLECT"
       ]
     },
     {
@@ -98596,7 +98545,7 @@
       ]
     },
     {
-      "id": "65360653_UPL",
+      "id": "53153657_UPL",
       "type": "UPL",
       "name": "Westside Plaza Parcel Locker",
       "phone": "1800 422 406",
@@ -98974,7 +98923,7 @@
       ]
     },
     {
-      "id": "36940794_UPL",
+      "id": "45682926_UPL",
       "type": "UPL",
       "name": "Darwin GPO Plaza Parcel Locker",
       "phone": "1800 422 406",
@@ -99151,9 +99100,9 @@
       ]
     },
     {
-      "id": "42999046_UPL",
+      "id": "38931833_UPL",
       "type": "UPL",
-      "name": "Charles Darwin Uni Parcel Locker",
+      "name": "Charles Darwin University Parcel Locker",
       "phone": "1800 422 406",
       "fax": null,
       "address": {
@@ -99497,58 +99446,6 @@
       ]
     },
     {
-      "id": "500033_DC",
-      "type": "DC",
-      "name": "Winnellie #2 Parcel Locker",
-      "phone": "1800 422 406",
-      "fax": null,
-      "address": {
-        "line1": "354 Stuart Hwy",
-        "line2": null,
-        "suburb": "WINNELLIE",
-        "state": "NT",
-        "postcode": "0820",
-        "country": "Australia"
-      },
-      "lat": -12.426812,
-      "lon": 130.864825,
-      "trading_hours": {
-        "MON": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "TUE": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "WED": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "THU": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "FRI": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "SAT": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "SUN": {
-          "open": "00:00",
-          "close": "23:59"
-        }
-      },
-      "services": [
-        "OPEN_AFTER_500PM_WEEKDAYS",
-        "OPEN_BEFORE_900AM_WEEKDAYS",
-        "OPEN_SATURDAY"
-      ]
-    },
-    {
       "id": "545502_PO",
       "type": "PO",
       "name": "Winnellie Business Centre",
@@ -99673,6 +99570,58 @@
       },
       "services": [
         "PARCEL_COLLECT"
+      ]
+    },
+    {
+      "id": "500033_DC",
+      "type": "DC",
+      "name": "Winnellie Business Centre Parcel Locker",
+      "phone": "1800 422 406",
+      "fax": null,
+      "address": {
+        "line1": "Parcel Locker 80",
+        "line2": null,
+        "suburb": "WINNELLIE",
+        "state": "NT",
+        "postcode": "0820",
+        "country": "Australia"
+      },
+      "lat": -12.42689355,
+      "lon": 130.86487105,
+      "trading_hours": {
+        "MON": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "TUE": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "WED": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "THU": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "FRI": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "SAT": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "SUN": {
+          "open": "00:00",
+          "close": "23:59"
+        }
+      },
+      "services": [
+        "OPEN_AFTER_500PM_WEEKDAYS",
+        "OPEN_BEFORE_900AM_WEEKDAYS",
+        "OPEN_SATURDAY"
       ]
     },
     {
@@ -107590,7 +107539,7 @@
       ]
     },
     {
-      "id": "32721871_UPL",
+      "id": "36296371_UPL",
       "type": "UPL",
       "name": "Deagon Marketplace Parcel Locker",
       "phone": "1800 422 406",
@@ -107603,8 +107552,8 @@
         "postcode": "4017",
         "country": "Australia"
       },
-      "lat": -27.32981961,
-      "lon": 153.0573971,
+      "lat": -27.32957407,
+      "lon": 153.05697565,
       "trading_hours": {
         "MON": {
           "open": "00:00",
@@ -108205,9 +108154,9 @@
       ]
     },
     {
-      "id": "85269608_UPL",
+      "id": "87952549_UPL",
       "type": "UPL",
-      "name": "Boardman Rd Kippa-Ring Parcel Locker",
+      "name": "Boardman Road Kippa-Ring Parcel Locker",
       "phone": "1800 422 406",
       "fax": null,
       "address": {
@@ -108218,8 +108167,8 @@
         "postcode": "4021",
         "country": "Australia"
       },
-      "lat": -27.2255327,
-      "lon": 153.0863647,
+      "lat": -27.22537753,
+      "lon": 153.08615327,
       "trading_hours": {
         "MON": {
           "open": "00:00",
@@ -110353,56 +110302,6 @@
       ]
     },
     {
-      "id": "71085055_UPL",
-      "type": "UPL",
-      "name": "Keperra LPO Parcel Locker",
-      "phone": "1800 422 406",
-      "fax": null,
-      "address": {
-        "line1": "Great Western Shopping Centre",
-        "line2": "Shop 5f",
-        "suburb": "KEPERRA",
-        "state": "QLD",
-        "postcode": "4054",
-        "country": "Australia"
-      },
-      "lat": -27.4165623,
-      "lon": 152.9495717,
-      "trading_hours": {
-        "MON": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "TUE": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "WED": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "THU": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "FRI": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "SAT": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "SUN": {
-          "open": "00:00",
-          "close": "23:59"
-        }
-      },
-      "services": [
-        "PARCEL_COLLECT"
-      ]
-    },
-    {
       "id": "415919_PO",
       "type": "PO",
       "name": "Keperra Post Office",
@@ -110474,6 +110373,56 @@
         "RETURNS_PRINT_AT_POST",
         "TRAVEL_INSURANCE",
         "WESTERN_UNION_MONEY_TRANSFER"
+      ]
+    },
+    {
+      "id": "32309795_UPL",
+      "type": "UPL",
+      "name": "Keperra Post Office Parcel Locker",
+      "phone": "1800 422 406",
+      "fax": null,
+      "address": {
+        "line1": "Great Western Shopping Centre",
+        "line2": "Shop 5f",
+        "suburb": "KEPERRA",
+        "state": "QLD",
+        "postcode": "4054",
+        "country": "Australia"
+      },
+      "lat": -27.4165623,
+      "lon": 152.94957168,
+      "trading_hours": {
+        "MON": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "TUE": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "WED": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "THU": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "FRI": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "SAT": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "SUN": {
+          "open": "00:00",
+          "close": "23:59"
+        }
+      },
+      "services": [
+        "PARCEL_COLLECT"
       ]
     },
     {
@@ -110865,56 +110814,6 @@
         "RETURNS_PRINT_AT_POST",
         "TRAVEL_INSURANCE",
         "WESTERN_UNION_MONEY_TRANSFER"
-      ]
-    },
-    {
-      "id": "95761280_UPL",
-      "type": "UPL",
-      "name": "Ashgrove SV Parcel Locker",
-      "phone": "1800 422 406",
-      "fax": null,
-      "address": {
-        "line1": "Shop 12",
-        "line2": "31 Stewart Rd",
-        "suburb": "ASHGROVE",
-        "state": "QLD",
-        "postcode": "4060",
-        "country": "Australia"
-      },
-      "lat": -27.443923,
-      "lon": 152.991906,
-      "trading_hours": {
-        "MON": {
-          "open": "09:00",
-          "close": "23:59"
-        },
-        "TUE": {
-          "open": "09:00",
-          "close": "23:59"
-        },
-        "WED": {
-          "open": "09:00",
-          "close": "23:59"
-        },
-        "THU": {
-          "open": "09:00",
-          "close": "23:59"
-        },
-        "FRI": {
-          "open": "09:00",
-          "close": "23:59"
-        },
-        "SAT": {
-          "open": "09:00",
-          "close": "23:59"
-        },
-        "SUN": {
-          "open": "09:00",
-          "close": "23:59"
-        }
-      },
-      "services": [
-        "PARCEL_COLLECT"
       ]
     },
     {
@@ -111442,9 +111341,9 @@
       ]
     },
     {
-      "id": "90712218_UPL",
+      "id": "52447409_UPL",
       "type": "UPL",
-      "name": "Saint Lucia South LPO Parcel Locker",
+      "name": "Saint Lucia South Post Office Parcel Locker",
       "phone": "1800 422 406",
       "fax": null,
       "address": {
@@ -111455,8 +111354,8 @@
         "postcode": "4067",
         "country": "Australia"
       },
-      "lat": -27.50237485,
-      "lon": 153.0059691,
+      "lat": -27.50257884,
+      "lon": 153.00588178,
       "trading_hours": {
         "MON": {
           "open": "00:00",
@@ -112665,9 +112564,9 @@
       ]
     },
     {
-      "id": "59926205_UPL",
+      "id": "55649677_UPL",
       "type": "UPL",
-      "name": "Graceville LPO Parcel Locker",
+      "name": "Graceville Post Office Parcel Locker",
       "phone": "1800 422 406",
       "fax": null,
       "address": {
@@ -112679,7 +112578,7 @@
         "country": "Australia"
       },
       "lat": -27.5240293,
-      "lon": 152.981,
+      "lon": 152.98099457,
       "trading_hours": {
         "MON": {
           "open": "00:00",
@@ -114162,7 +114061,7 @@
       ]
     },
     {
-      "id": "37056742_UPL",
+      "id": "75993705_UPL",
       "type": "UPL",
       "name": "Yeronga Village Parcel Locker",
       "phone": "1800 422 406",
@@ -114175,8 +114074,8 @@
         "postcode": "4104",
         "country": "Australia"
       },
-      "lat": -27.51629914,
-      "lon": 153.0168374,
+      "lat": -27.51631144,
+      "lon": 153.01705007,
       "trading_hours": {
         "MON": {
           "open": "00:00",
@@ -118271,9 +118170,9 @@
       ]
     },
     {
-      "id": "42465668_UPL",
+      "id": "51254334_UPL",
       "type": "UPL",
-      "name": "Marsden Park Liberty 24Xpress Pcl Lkr",
+      "name": "Marsden Park Liberty 24Xpress Parcel Locker",
       "phone": "1800 422 406",
       "fax": null,
       "address": {
@@ -118284,8 +118183,8 @@
         "postcode": "4133",
         "country": "Australia"
       },
-      "lat": -27.67932178,
-      "lon": 153.1181193,
+      "lat": -27.67939134,
+      "lon": 153.11814925,
       "trading_hours": {
         "MON": {
           "open": "00:00",
@@ -119213,7 +119112,7 @@
       ]
     },
     {
-      "id": "87679061_UPL",
+      "id": "40320667_UPL",
       "type": "UPL",
       "name": "Birkdale Fair Parcel Locker",
       "phone": "1800 422 406",
@@ -119226,8 +119125,8 @@
         "postcode": "4159",
         "country": "Australia"
       },
-      "lat": -27.491262,
-      "lon": 153.21805,
+      "lat": -27.49116421,
+      "lon": 153.21832006,
       "trading_hours": {
         "MON": {
           "open": "00:00",
@@ -119692,56 +119591,6 @@
       ]
     },
     {
-      "id": "71677664_UPL",
-      "type": "UPL",
-      "name": "Redland Bay LPO Parcel Locker",
-      "phone": "1800 422 406",
-      "fax": null,
-      "address": {
-        "line1": "160 Broadwater Tce",
-        "line2": null,
-        "suburb": "REDLAND BAY",
-        "state": "QLD",
-        "postcode": "4165",
-        "country": "Australia"
-      },
-      "lat": -27.6119413,
-      "lon": 153.3032595,
-      "trading_hours": {
-        "MON": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "TUE": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "WED": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "THU": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "FRI": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "SAT": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "SUN": {
-          "open": "00:00",
-          "close": "23:59"
-        }
-      },
-      "services": [
-        "PARCEL_COLLECT"
-      ]
-    },
-    {
       "id": "444170_PO",
       "type": "PO",
       "name": "Redland Bay Post Office",
@@ -119808,6 +119657,56 @@
         "RETURNS_PRINT_AT_POST",
         "TRAVEL_INSURANCE",
         "WESTERN_UNION_MONEY_TRANSFER"
+      ]
+    },
+    {
+      "id": "68665551_UPL",
+      "type": "UPL",
+      "name": "Redland Bay Post Office Parcel Locker",
+      "phone": "1800 422 406",
+      "fax": null,
+      "address": {
+        "line1": "160 Broadwater Tce",
+        "line2": null,
+        "suburb": "REDLAND BAY",
+        "state": "QLD",
+        "postcode": "4165",
+        "country": "Australia"
+      },
+      "lat": -27.6119413,
+      "lon": 153.3032595,
+      "trading_hours": {
+        "MON": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "TUE": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "WED": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "THU": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "FRI": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "SAT": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "SUN": {
+          "open": "00:00",
+          "close": "23:59"
+        }
+      },
+      "services": [
+        "PARCEL_COLLECT"
       ]
     },
     {
@@ -120365,56 +120264,6 @@
         "RETURNS_PRINT_AT_POST",
         "TRAVEL_INSURANCE",
         "WESTERN_UNION_MONEY_TRANSFER"
-      ]
-    },
-    {
-      "id": "82859499_UPL",
-      "type": "UPL",
-      "name": "Norman Park LPO Parcel Locker",
-      "phone": "1800 422 406",
-      "fax": null,
-      "address": {
-        "line1": "Shop 2",
-        "line2": "183 Bennetts Rd",
-        "suburb": "NORMAN PARK",
-        "state": "QLD",
-        "postcode": "4170",
-        "country": "Australia"
-      },
-      "lat": -27.48349091,
-      "lon": 153.0646795,
-      "trading_hours": {
-        "MON": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "TUE": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "WED": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "THU": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "FRI": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "SAT": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "SUN": {
-          "open": "00:00",
-          "close": "23:59"
-        }
-      },
-      "services": [
-        "PARCEL_COLLECT"
       ]
     },
     {
@@ -121910,7 +121759,7 @@
       ]
     },
     {
-      "id": "93689461_UPL",
+      "id": "32716722_UPL",
       "type": "UPL",
       "name": "Windaroo Village Parcel Locker",
       "phone": "1800 422 406",
@@ -123777,9 +123626,9 @@
       ]
     },
     {
-      "id": "83566792_UPL",
+      "id": "81151665_UPL",
       "type": "UPL",
-      "name": "Hope Island SC Parcel Locker",
+      "name": "Hope Island Shopping Centre Parcel Locker",
       "phone": "1800 422 406",
       "fax": null,
       "address": {
@@ -124099,21 +123948,21 @@
       ]
     },
     {
-      "id": "64976725_UPL",
+      "id": "89697927_UPL",
       "type": "UPL",
       "name": "Arundel Plaza Parcel Locker",
       "phone": "1800 422 406",
       "fax": null,
       "address": {
-        "line1": "230-232 Napper Rd",
-        "line2": null,
+        "line1": "Arundel Plaza",
+        "line2": "230-232 Napper Rd",
         "suburb": "PARKWOOD",
         "state": "QLD",
         "postcode": "4214",
         "country": "Australia"
       },
-      "lat": -27.947158,
-      "lon": 153.35214,
+      "lat": -27.9472868,
+      "lon": 153.3521223,
       "trading_hours": {
         "MON": {
           "open": "00:00",
@@ -125094,7 +124943,7 @@
       ]
     },
     {
-      "id": "69310267_UPL",
+      "id": "94091322_UPL",
       "type": "UPL",
       "name": "Harbour Town Premium Outlets Parcel Locker",
       "phone": "1800 422 406",
@@ -125107,8 +124956,8 @@
         "postcode": "4216",
         "country": "Australia"
       },
-      "lat": -27.9331133,
-      "lon": 153.3882749,
+      "lat": -27.93141398,
+      "lon": 153.38777709,
       "trading_hours": {
         "MON": {
           "open": "00:00",
@@ -127553,7 +127402,7 @@
       ]
     },
     {
-      "id": "35561027_UPL",
+      "id": "51676103_UPL",
       "type": "UPL",
       "name": "Reedy Creek Village Parcel Locker",
       "phone": "1800 422 406",
@@ -128002,7 +127851,7 @@
       ]
     },
     {
-      "id": "69112936_UPL",
+      "id": "34326936_UPL",
       "type": "UPL",
       "name": "Flagstone Village Parcel Locker",
       "phone": "1800 422 406",
@@ -128015,8 +127864,8 @@
         "postcode": "4280",
         "country": "Australia"
       },
-      "lat": -27.808853,
-      "lon": 152.949465,
+      "lat": -27.80928801,
+      "lon": 152.94994807,
       "trading_hours": {
         "MON": {
           "open": "00:00",
@@ -129495,9 +129344,9 @@
       ]
     },
     {
-      "id": "92012307_UPL",
+      "id": "73727963_UPL",
       "type": "UPL",
-      "name": "Ebbw Vale Showrooms Parcel Locker",
+      "name": "EBBW Vale Showrooms Parcel Locker",
       "phone": "1800 422 406",
       "fax": null,
       "address": {
@@ -132478,9 +132327,9 @@
       ]
     },
     {
-      "id": "92491244_UPL",
+      "id": "82532953_UPL",
       "type": "UPL",
-      "name": "Glenvale SC Parcel Locker",
+      "name": "Glenvale Shopping Centre Parcel Locker",
       "phone": "1800 422 406",
       "fax": null,
       "address": {
@@ -132491,8 +132340,8 @@
         "postcode": "4350",
         "country": "Australia"
       },
-      "lat": -27.564724,
-      "lon": 151.914197,
+      "lat": -27.56471955,
+      "lon": 151.9140786,
       "trading_hours": {
         "MON": {
           "open": "00:00",
@@ -139712,9 +139561,9 @@
       ]
     },
     {
-      "id": "86258764_UPL",
+      "id": "89170815_UPL",
       "type": "UPL",
-      "name": "Burpengary East SC Parcel Locker",
+      "name": "Burpengary East Shopping Centre Parcel Locker",
       "phone": "1800 422 406",
       "fax": null,
       "address": {
@@ -140867,7 +140716,7 @@
       ]
     },
     {
-      "id": "45261212_UPL",
+      "id": "57678295_UPL",
       "type": "UPL",
       "name": "Big Fish Junction Parcel Locker",
       "phone": "1800 422 406",
@@ -140880,8 +140729,8 @@
         "postcode": "4510",
         "country": "Australia"
       },
-      "lat": -27.041948,
-      "lon": 152.974595,
+      "lat": -27.04182809,
+      "lon": 152.97607926,
       "trading_hours": {
         "MON": {
           "open": "00:00",
@@ -143987,29 +143836,26 @@
       "lon": 152.86651992,
       "trading_hours": {
         "MON": {
-          "open": "09:00",
-          "close": "17:00"
+          "open": "08:00",
+          "close": "16:00"
         },
         "TUE": {
-          "open": "09:00",
-          "close": "17:00"
+          "open": "08:00",
+          "close": "16:00"
         },
         "WED": {
-          "open": "09:00",
-          "close": "17:00"
+          "open": "08:00",
+          "close": "16:00"
         },
         "THU": {
-          "open": "09:00",
-          "close": "17:00"
+          "open": "08:00",
+          "close": "16:00"
         },
         "FRI": {
-          "open": "09:00",
-          "close": "17:00"
+          "open": "08:00",
+          "close": "16:00"
         },
-        "SAT": {
-          "open": "10:00",
-          "close": "12:00"
-        },
+        "SAT": null,
         "SUN": null
       },
       "services": [
@@ -144714,56 +144560,6 @@
       ]
     },
     {
-      "id": "80209862_UPL",
-      "type": "UPL",
-      "name": "Noosa Civic PO Parcel Locker",
-      "phone": "1800 422 406",
-      "fax": null,
-      "address": {
-        "line1": "28 Eenie Creek Rd",
-        "line2": null,
-        "suburb": "NOOSAVILLE",
-        "state": "QLD",
-        "postcode": "4566",
-        "country": "Australia"
-      },
-      "lat": -26.41424203,
-      "lon": 153.049316,
-      "trading_hours": {
-        "MON": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "TUE": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "WED": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "THU": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "FRI": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "SAT": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "SUN": {
-          "open": "00:00",
-          "close": "23:59"
-        }
-      },
-      "services": [
-        "PARCEL_COLLECT"
-      ]
-    },
-    {
       "id": "419928_PO",
       "type": "PO",
       "name": "Noosa Civic Post Office",
@@ -144831,6 +144627,56 @@
         "RETURNS_PRINT_AT_POST",
         "TRAVEL_INSURANCE",
         "WESTERN_UNION_MONEY_TRANSFER"
+      ]
+    },
+    {
+      "id": "61141163_UPL",
+      "type": "UPL",
+      "name": "Noosa Civic Post Office Parcel Locker",
+      "phone": "1800 422 406",
+      "fax": null,
+      "address": {
+        "line1": "28 Eenie Creek Rd",
+        "line2": null,
+        "suburb": "NOOSAVILLE",
+        "state": "QLD",
+        "postcode": "4566",
+        "country": "Australia"
+      },
+      "lat": -26.41544799,
+      "lon": 153.04929736,
+      "trading_hours": {
+        "MON": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "TUE": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "WED": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "THU": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "FRI": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "SAT": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "SUN": {
+          "open": "00:00",
+          "close": "23:59"
+        }
+      },
+      "services": [
+        "PARCEL_COLLECT"
       ]
     },
     {
@@ -169259,56 +169105,6 @@
       ]
     },
     {
-      "id": "81929621_UPL",
-      "type": "UPL",
-      "name": "Adelaide Rundle Mall Parcel Lockers",
-      "phone": "1800 422 406",
-      "fax": null,
-      "address": {
-        "line1": "58a Gawler Pl",
-        "line2": null,
-        "suburb": "ADELAIDE",
-        "state": "SA",
-        "postcode": "5000",
-        "country": "Australia"
-      },
-      "lat": -34.92327488,
-      "lon": 138.6021514,
-      "trading_hours": {
-        "MON": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "TUE": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "WED": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "THU": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "FRI": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "SAT": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "SUN": {
-          "open": "00:00",
-          "close": "23:59"
-        }
-      },
-      "services": [
-        "PARCEL_COLLECT"
-      ]
-    },
-    {
       "id": "507549_PO",
       "type": "PO",
       "name": "Adelaide Rundle Mall Post Office",
@@ -169381,6 +169177,56 @@
         "TRAVEL_INSURANCE",
         "WESTERN_UNION_MONEY_TRANSFER",
         "WORKING_WITH_CHILDREN_CHECK_WA"
+      ]
+    },
+    {
+      "id": "32046997_UPL",
+      "type": "UPL",
+      "name": "Adelaide Rundle Mall Post Office Parcel Locker",
+      "phone": "1800 422 406",
+      "fax": null,
+      "address": {
+        "line1": "58a Gawler Pl",
+        "line2": null,
+        "suburb": "ADELAIDE",
+        "state": "SA",
+        "postcode": "5000",
+        "country": "Australia"
+      },
+      "lat": -34.92346252,
+      "lon": 138.60214836,
+      "trading_hours": {
+        "MON": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "TUE": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "WED": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "THU": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "FRI": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "SAT": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "SUN": {
+          "open": "00:00",
+          "close": "23:59"
+        }
+      },
+      "services": [
+        "PARCEL_COLLECT"
       ]
     },
     {
@@ -171178,56 +171024,6 @@
       ]
     },
     {
-      "id": "35517953_UPL",
-      "type": "UPL",
-      "name": "Henley Beach LPO Parcel Locker",
-      "phone": "1800 422 406",
-      "fax": null,
-      "address": {
-        "line1": "Shop 8",
-        "line2": "528 Grange Rd",
-        "suburb": "HENLEY BEACH",
-        "state": "SA",
-        "postcode": "5022",
-        "country": "Australia"
-      },
-      "lat": -34.90732794,
-      "lon": 138.505112,
-      "trading_hours": {
-        "MON": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "TUE": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "WED": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "THU": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "FRI": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "SAT": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "SUN": {
-          "open": "00:00",
-          "close": "23:59"
-        }
-      },
-      "services": [
-        "PARCEL_COLLECT"
-      ]
-    },
-    {
       "id": "508488_PO",
       "type": "PO",
       "name": "Henley Beach Post Office",
@@ -171301,6 +171097,56 @@
         "RETURNS_PRINT_AT_POST",
         "TRAVEL_INSURANCE",
         "WESTERN_UNION_MONEY_TRANSFER"
+      ]
+    },
+    {
+      "id": "54223877_UPL",
+      "type": "UPL",
+      "name": "Henley Beach Post Office Parcel Locker",
+      "phone": "1800 422 406",
+      "fax": null,
+      "address": {
+        "line1": "Shop 8",
+        "line2": "528 Grange Rd",
+        "suburb": "HENLEY BEACH",
+        "state": "SA",
+        "postcode": "5022",
+        "country": "Australia"
+      },
+      "lat": -34.90754575,
+      "lon": 138.50511458,
+      "trading_hours": {
+        "MON": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "TUE": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "WED": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "THU": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "FRI": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "SAT": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "SUN": {
+          "open": "00:00",
+          "close": "23:59"
+        }
+      },
+      "services": [
+        "PARCEL_COLLECT"
       ]
     },
     {
@@ -178320,7 +178166,7 @@
       ]
     },
     {
-      "id": "64413343_UPL",
+      "id": "62596111_UPL",
       "type": "UPL",
       "name": "DST Edinburgh Parcel Locker",
       "phone": "1800 422 406",
@@ -178333,8 +178179,8 @@
         "postcode": "5111",
         "country": "Australia"
       },
-      "lat": -34.724036,
-      "lon": 138.641308,
+      "lat": -34.72781657,
+      "lon": 138.64930986,
       "trading_hours": {
         "MON": {
           "open": "00:00",
@@ -179617,7 +179463,7 @@
       ]
     },
     {
-      "id": "83462466_UPL",
+      "id": "38268614_UPL",
       "type": "UPL",
       "name": "The Palms Village Parcel Locker",
       "phone": "1800 422 406",
@@ -179630,8 +179476,8 @@
         "postcode": "5120",
         "country": "Australia"
       },
-      "lat": -34.65386611,
-      "lon": 138.5400236,
+      "lat": -34.6540827,
+      "lon": 138.54008079,
       "trading_hours": {
         "MON": {
           "open": "00:00",
@@ -182501,7 +182347,7 @@
       ]
     },
     {
-      "id": "94403346_UPL",
+      "id": "31770292_UPL",
       "type": "UPL",
       "name": "Mclaren Vale Central Parcel Locker",
       "phone": "1800 422 406",
@@ -185004,56 +184850,6 @@
       ]
     },
     {
-      "id": "64106509_UPL",
-      "type": "UPL",
-      "name": "Balhannah LPO Parcel Locker",
-      "phone": "1800 422 406",
-      "fax": null,
-      "address": {
-        "line1": "Shop 4",
-        "line2": "37 Onkaparinga Valley Rd",
-        "suburb": "BALHANNAH",
-        "state": "SA",
-        "postcode": "5242",
-        "country": "Australia"
-      },
-      "lat": -34.99377326,
-      "lon": 138.821649,
-      "trading_hours": {
-        "MON": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "TUE": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "WED": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "THU": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "FRI": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "SAT": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "SUN": {
-          "open": "00:00",
-          "close": "23:59"
-        }
-      },
-      "services": [
-        "PARCEL_COLLECT"
-      ]
-    },
-    {
       "id": "531469_PO",
       "type": "PO",
       "name": "Balhannah Post Office",
@@ -185115,6 +184911,56 @@
         "PO_BOXES_INSTALLED",
         "RETURNS_PRINT_AT_POST",
         "TRAVEL_INSURANCE"
+      ]
+    },
+    {
+      "id": "91266252_UPL",
+      "type": "UPL",
+      "name": "Balhannah Post Office Parcel Locker",
+      "phone": "1800 422 406",
+      "fax": null,
+      "address": {
+        "line1": "Shop 4",
+        "line2": "37 Onkaparinga Valley Rd",
+        "suburb": "BALHANNAH",
+        "state": "SA",
+        "postcode": "5242",
+        "country": "Australia"
+      },
+      "lat": -34.99391617,
+      "lon": 138.82170507,
+      "trading_hours": {
+        "MON": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "TUE": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "WED": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "THU": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "FRI": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "SAT": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "SUN": {
+          "open": "00:00",
+          "close": "23:59"
+        }
+      },
+      "services": [
+        "PARCEL_COLLECT"
       ]
     },
     {
@@ -195294,56 +195140,6 @@
       ]
     },
     {
-      "id": "42848832_UPL",
-      "type": "UPL",
-      "name": "Two Wells LPO Parcel Locker",
-      "phone": "1800 422 406",
-      "fax": null,
-      "address": {
-        "line1": "43 Old Port Wakefield Rd",
-        "line2": null,
-        "suburb": "TWO WELLS",
-        "state": "SA",
-        "postcode": "5501",
-        "country": "Australia"
-      },
-      "lat": -34.5967,
-      "lon": 138.5166,
-      "trading_hours": {
-        "MON": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "TUE": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "WED": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "THU": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "FRI": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "SAT": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "SUN": {
-          "open": "00:00",
-          "close": "23:59"
-        }
-      },
-      "services": [
-        "PARCEL_COLLECT"
-      ]
-    },
-    {
       "id": "505463_PO",
       "type": "PO",
       "name": "Two Wells Post Office",
@@ -195402,6 +195198,56 @@
         "RETURNS_PRINT_AT_POST",
         "TRAVEL_INSURANCE",
         "WESTERN_UNION_MONEY_TRANSFER"
+      ]
+    },
+    {
+      "id": "51107514_UPL",
+      "type": "UPL",
+      "name": "Two Wells Post Office Parcel Locker",
+      "phone": "1800 422 406",
+      "fax": null,
+      "address": {
+        "line1": "43 Old Port Wakefield Rd",
+        "line2": null,
+        "suburb": "TWO WELLS",
+        "state": "SA",
+        "postcode": "5501",
+        "country": "Australia"
+      },
+      "lat": -34.59672414,
+      "lon": 138.51657534,
+      "trading_hours": {
+        "MON": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "TUE": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "WED": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "THU": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "FRI": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "SAT": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "SUN": {
+          "open": "00:00",
+          "close": "23:59"
+        }
+      },
+      "services": [
+        "PARCEL_COLLECT"
       ]
     },
     {
@@ -201374,7 +201220,7 @@
       ]
     },
     {
-      "id": "42408128_UPL",
+      "id": "55869959_UPL",
       "type": "UPL",
       "name": "Hobart North Parcel Locker",
       "phone": "1800 422 406",
@@ -215946,9 +215792,9 @@
       ]
     },
     {
-      "id": "84761875_UPL",
+      "id": "88146772_UPL",
       "type": "UPL",
-      "name": "106 Southbank Bvd Parcel Locker",
+      "name": "106 Southbank Boulevard Parcel Locker",
       "phone": "1800 422 406",
       "fax": null,
       "address": {
@@ -216662,7 +216508,7 @@
       ]
     },
     {
-      "id": "38844640_UPL",
+      "id": "96443379_UPL",
       "type": "UPL",
       "name": "CLIK Collective Parcel Locker",
       "phone": "1800 422 406",
@@ -219904,7 +219750,7 @@
       ]
     },
     {
-      "id": "73276574_UPL",
+      "id": "69740266_UPL",
       "type": "UPL",
       "name": "Costas Centre Hoppers Parcel Locker",
       "phone": "1800 422 406",
@@ -219917,8 +219763,8 @@
         "postcode": "3029",
         "country": "Australia"
       },
-      "lat": -37.87431125,
-      "lon": 144.715991,
+      "lat": -37.87553072,
+      "lon": 144.71597483,
       "trading_hours": {
         "MON": {
           "open": "00:00",
@@ -221517,7 +221363,7 @@
       ]
     },
     {
-      "id": "65980797_UPL",
+      "id": "65754125_UPL",
       "type": "UPL",
       "name": "Werribee Wyndham Cache Parcel Locker",
       "phone": "1800 422 406",
@@ -221530,8 +221376,8 @@
         "postcode": "3030",
         "country": "Australia"
       },
-      "lat": -37.93103616,
-      "lon": 144.6777641,
+      "lat": -37.9323773,
+      "lon": 144.67709729,
       "trading_hours": {
         "MON": {
           "open": "00:00",
@@ -221809,56 +221655,6 @@
       ]
     },
     {
-      "id": "49804197_UPL",
-      "type": "UPL",
-      "name": "Ascot Vale Central LPO Parcel Locker",
-      "phone": "1800 422 406",
-      "fax": null,
-      "address": {
-        "line1": "217 Ascot Vale Rd",
-        "line2": null,
-        "suburb": "ASCOT VALE",
-        "state": "VIC",
-        "postcode": "3032",
-        "country": "Australia"
-      },
-      "lat": -37.77550001,
-      "lon": 144.9231967,
-      "trading_hours": {
-        "MON": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "TUE": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "WED": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "THU": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "FRI": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "SAT": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "SUN": {
-          "open": "00:00",
-          "close": "23:59"
-        }
-      },
-      "services": [
-        "PARCEL_COLLECT"
-      ]
-    },
-    {
       "id": "360081_PO",
       "type": "PO",
       "name": "Ascot Vale Central Post Office",
@@ -221924,6 +221720,56 @@
         "RETURNS_PRINT_AT_POST",
         "TRAVEL_INSURANCE",
         "WESTERN_UNION_MONEY_TRANSFER"
+      ]
+    },
+    {
+      "id": "92846687_UPL",
+      "type": "UPL",
+      "name": "Ascot Vale Central Post Office Parcel Locker",
+      "phone": "1800 422 406",
+      "fax": null,
+      "address": {
+        "line1": "217 Ascot Vale Rd",
+        "line2": null,
+        "suburb": "ASCOT VALE",
+        "state": "VIC",
+        "postcode": "3032",
+        "country": "Australia"
+      },
+      "lat": -37.77569659,
+      "lon": 144.92314805,
+      "trading_hours": {
+        "MON": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "TUE": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "WED": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "THU": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "FRI": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "SAT": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "SUN": {
+          "open": "00:00",
+          "close": "23:59"
+        }
+      },
+      "services": [
+        "PARCEL_COLLECT"
       ]
     },
     {
@@ -228902,7 +228748,7 @@
       ]
     },
     {
-      "id": "49055862_UPL",
+      "id": "60336353_UPL",
       "type": "UPL",
       "name": "BP Reservoir Parcel Locker",
       "phone": "1800 422 406",
@@ -228915,8 +228761,8 @@
         "postcode": "3073",
         "country": "Australia"
       },
-      "lat": -37.6994,
-      "lon": 144.9958,
+      "lat": -37.699389,
+      "lon": 144.995815,
       "trading_hours": {
         "MON": {
           "open": "00:00",
@@ -229666,56 +229512,6 @@
       ]
     },
     {
-      "id": "59379546_UPL",
-      "type": "UPL",
-      "name": "Lalor LPO Parcel Locker",
-      "phone": "1800 422 406",
-      "fax": null,
-      "address": {
-        "line1": "27 May Rd",
-        "line2": null,
-        "suburb": "LALOR",
-        "state": "VIC",
-        "postcode": "3075",
-        "country": "Australia"
-      },
-      "lat": -37.67373077,
-      "lon": 145.0169589,
-      "trading_hours": {
-        "MON": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "TUE": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "WED": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "THU": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "FRI": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "SAT": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "SUN": {
-          "open": "00:00",
-          "close": "23:59"
-        }
-      },
-      "services": [
-        "PARCEL_COLLECT"
-      ]
-    },
-    {
       "id": "89397107_UPL",
       "type": "UPL",
       "name": "Lalor Plaza Parcel Locker",
@@ -229907,6 +229703,56 @@
         "TRAVEL_INSURANCE",
         "WESTERN_UNION_MONEY_TRANSFER",
         "WORKING_WITH_CHILDREN_CHECK_VIC"
+      ]
+    },
+    {
+      "id": "50909976_UPL",
+      "type": "UPL",
+      "name": "Lalor Post Office Parcel Locker",
+      "phone": "1800 422 406",
+      "fax": null,
+      "address": {
+        "line1": "27 May Rd",
+        "line2": null,
+        "suburb": "LALOR",
+        "state": "VIC",
+        "postcode": "3075",
+        "country": "Australia"
+      },
+      "lat": -37.67373077,
+      "lon": 145.01695887,
+      "trading_hours": {
+        "MON": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "TUE": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "WED": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "THU": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "FRI": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "SAT": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "SUN": {
+          "open": "00:00",
+          "close": "23:59"
+        }
+      },
+      "services": [
+        "PARCEL_COLLECT"
       ]
     },
     {
@@ -231458,56 +231304,6 @@
         "TRAVEL_INSURANCE",
         "WESTERN_UNION_MONEY_TRANSFER",
         "WORKING_WITH_CHILDREN_CHECK_VIC"
-      ]
-    },
-    {
-      "id": "57099977_UPL",
-      "type": "UPL",
-      "name": "Simpson Barracks Parcel Locker",
-      "phone": "1800 422 406",
-      "fax": null,
-      "address": {
-        "line1": "Simpson Army Barracks",
-        "line2": "200 Greensborough Rd",
-        "suburb": "MACLEOD",
-        "state": "VIC",
-        "postcode": "3085",
-        "country": "Australia"
-      },
-      "lat": -37.72217957,
-      "lon": 145.0813536,
-      "trading_hours": {
-        "MON": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "TUE": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "WED": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "THU": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "FRI": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "SAT": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "SUN": {
-          "open": "00:00",
-          "close": "23:59"
-        }
-      },
-      "services": [
-        "PARCEL_COLLECT"
       ]
     },
     {
@@ -236802,7 +236598,7 @@
       ]
     },
     {
-      "id": "44251580_UPL",
+      "id": "83436589_UPL",
       "type": "UPL",
       "name": "9 Prospect Street Parcel Locker",
       "phone": "1800 422 406",
@@ -236815,8 +236611,8 @@
         "postcode": "3128",
         "country": "Australia"
       },
-      "lat": -37.8184,
-      "lon": 145.1189,
+      "lat": -37.81839735,
+      "lon": 145.11891571,
       "trading_hours": {
         "MON": {
           "open": "00:00",
@@ -239173,7 +238969,7 @@
       ]
     },
     {
-      "id": "57973695_UPL",
+      "id": "61028439_UPL",
       "type": "UPL",
       "name": "Croydon Central Parcel Locker",
       "phone": "1800 422 406",
@@ -239186,8 +238982,8 @@
         "postcode": "3136",
         "country": "Australia"
       },
-      "lat": -37.7931,
-      "lon": 145.2793,
+      "lat": -37.79305038,
+      "lon": 145.27929173,
       "trading_hours": {
         "MON": {
           "open": "00:00",
@@ -243273,7 +243069,7 @@
       ]
     },
     {
-      "id": "41780156_UPL",
+      "id": "49705333_UPL",
       "type": "UPL",
       "name": "Boronia Junction Parcel Locker",
       "phone": "1800 422 406",
@@ -243286,8 +243082,8 @@
         "postcode": "3155",
         "country": "Australia"
       },
-      "lat": -37.86212,
-      "lon": 145.284692,
+      "lat": -37.86231049,
+      "lon": 145.28472309,
       "trading_hours": {
         "MON": {
           "open": "00:00",
@@ -244014,7 +243810,7 @@
       ]
     },
     {
-      "id": "79537350_UPL",
+      "id": "33259220_UPL",
       "type": "UPL",
       "name": "Caulfield Village Parcel Locker",
       "phone": "1800 422 406",
@@ -244027,8 +243823,8 @@
         "postcode": "3161",
         "country": "Australia"
       },
-      "lat": -37.875441,
-      "lon": 145.038325,
+      "lat": -37.8758917,
+      "lon": 145.037219,
       "trading_hours": {
         "MON": {
           "open": "00:00",
@@ -250625,21 +250421,21 @@
       ]
     },
     {
-      "id": "39347511_UPL",
+      "id": "78875467_UPL",
       "type": "UPL",
-      "name": "Aspendale Gardens SC Parcel Locker",
+      "name": "Aspendale Gardens Shopping Cntr Parcel Locker",
       "phone": "1800 422 406",
       "fax": null,
       "address": {
-        "line1": "11-33 Narelle Dr",
-        "line2": null,
+        "line1": "Aspendale Gardens Shopping Centre",
+        "line2": "11-33 Narelle Dr",
         "suburb": "ASPENDALE GARDENS",
         "state": "VIC",
         "postcode": "3195",
         "country": "Australia"
       },
-      "lat": -38.02248898,
-      "lon": 145.1177303,
+      "lat": -38.02168977,
+      "lon": 145.11745376,
       "trading_hours": {
         "MON": {
           "open": "00:00",
@@ -259207,9 +259003,9 @@
       ]
     },
     {
-      "id": "83308828_UPL",
+      "id": "95994224_UPL",
       "type": "UPL",
-      "name": "East Warrnambool SC Parcel Locker",
+      "name": "East Warrnambool Shopping Cntr Parcel Locker",
       "phone": "1800 422 406",
       "fax": null,
       "address": {
@@ -259220,8 +259016,8 @@
         "postcode": "3280",
         "country": "Australia"
       },
-      "lat": -38.38236578,
-      "lon": 142.5182751,
+      "lat": -38.38264668,
+      "lon": 142.51903479,
       "trading_hours": {
         "MON": {
           "open": "00:00",
@@ -262877,6 +262673,56 @@
       ]
     },
     {
+      "id": "50311500_UPL",
+      "type": "UPL",
+      "name": "Lucas Coltman Plaza Parcel Locker",
+      "phone": "1800 422 406",
+      "fax": null,
+      "address": {
+        "line1": "Coltman Plaza-Lucas Shopping Centre",
+        "line2": "6 Coltman Plza",
+        "suburb": "LUCAS",
+        "state": "VIC",
+        "postcode": "3350",
+        "country": "Australia"
+      },
+      "lat": -37.54340247,
+      "lon": 143.7859109,
+      "trading_hours": {
+        "MON": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "TUE": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "WED": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "THU": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "FRI": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "SAT": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "SUN": {
+          "open": "00:00",
+          "close": "23:59"
+        }
+      },
+      "services": [
+        "PARCEL_COLLECT"
+      ]
+    },
+    {
       "id": "360014_PO",
       "type": "PO",
       "name": "Lucas Post Office",
@@ -262940,56 +262786,6 @@
         "PO_BOXES_INSTALLED",
         "RETURNS_PRINT_AT_POST",
         "TRAVEL_INSURANCE"
-      ]
-    },
-    {
-      "id": "50311500_UPL",
-      "type": "UPL",
-      "name": "Lucas Post Office Parcel Locker",
-      "phone": "1800 422 406",
-      "fax": null,
-      "address": {
-        "line1": "Coltman Plaza-Lucas Shopping Centre",
-        "line2": "6 Coltman Plza",
-        "suburb": "LUCAS",
-        "state": "VIC",
-        "postcode": "3350",
-        "country": "Australia"
-      },
-      "lat": -37.54340247,
-      "lon": 143.7859109,
-      "trading_hours": {
-        "MON": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "TUE": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "WED": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "THU": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "FRI": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "SAT": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "SUN": {
-          "open": "00:00",
-          "close": "23:59"
-        }
-      },
-      "services": [
-        "PARCEL_COLLECT"
       ]
     },
     {
@@ -267280,56 +267076,6 @@
       ]
     },
     {
-      "id": "53382175_UPL",
-      "type": "UPL",
-      "name": "Romsey LPO Parcel Locker",
-      "phone": "1800 422 406",
-      "fax": null,
-      "address": {
-        "line1": "U 1",
-        "line2": "33 Main St",
-        "suburb": "ROMSEY",
-        "state": "VIC",
-        "postcode": "3434",
-        "country": "Australia"
-      },
-      "lat": -37.357106,
-      "lon": 144.743095,
-      "trading_hours": {
-        "MON": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "TUE": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "WED": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "THU": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "FRI": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "SAT": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "SUN": {
-          "open": "00:00",
-          "close": "23:59"
-        }
-      },
-      "services": [
-        "PARCEL_COLLECT"
-      ]
-    },
-    {
       "id": "319513_PO",
       "type": "PO",
       "name": "Romsey Post Office",
@@ -267403,6 +267149,56 @@
         "TRAVEL_INSURANCE",
         "WESTERN_UNION_MONEY_TRANSFER",
         "WORKING_WITH_CHILDREN_CHECK_VIC"
+      ]
+    },
+    {
+      "id": "74122356_UPL",
+      "type": "UPL",
+      "name": "Romsey Post Office Parcel Locker",
+      "phone": "1800 422 406",
+      "fax": null,
+      "address": {
+        "line1": "U 1",
+        "line2": "33 Main St",
+        "suburb": "ROMSEY",
+        "state": "VIC",
+        "postcode": "3434",
+        "country": "Australia"
+      },
+      "lat": -37.35731538,
+      "lon": 144.74315509,
+      "trading_hours": {
+        "MON": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "TUE": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "WED": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "THU": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "FRI": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "SAT": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "SUN": {
+          "open": "00:00",
+          "close": "23:59"
+        }
+      },
+      "services": [
+        "PARCEL_COLLECT"
       ]
     },
     {
@@ -268101,7 +267897,6 @@
         "OPEN_SATURDAY",
         "PARCEL_COLLECT",
         "POST_BILL_PAY",
-        "PO_BOXES_AVAILABLE",
         "PO_BOXES_INSTALLED",
         "RETURNS_PRINT_AT_POST",
         "TRAVEL_INSURANCE",
@@ -270680,56 +270475,6 @@
       ]
     },
     {
-      "id": "51593599_UPL",
-      "type": "UPL",
-      "name": "Mildura Centre Plaza LPO Parcel Locker",
-      "phone": "1800 422 406",
-      "fax": null,
-      "address": {
-        "line1": "829 Fifteenth St",
-        "line2": null,
-        "suburb": "MILDURA",
-        "state": "VIC",
-        "postcode": "3500",
-        "country": "Australia"
-      },
-      "lat": -34.20870667,
-      "lon": 142.139981,
-      "trading_hours": {
-        "MON": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "TUE": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "WED": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "THU": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "FRI": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "SAT": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "SUN": {
-          "open": "00:00",
-          "close": "23:59"
-        }
-      },
-      "services": [
-        "PARCEL_COLLECT"
-      ]
-    },
-    {
       "id": "338255_PO",
       "type": "PO",
       "name": "Mildura Centre Plaza Post Office",
@@ -270793,6 +270538,56 @@
         "PO_BOXES_INSTALLED",
         "RETURNS_PRINT_AT_POST",
         "TRAVEL_INSURANCE"
+      ]
+    },
+    {
+      "id": "85687078_UPL",
+      "type": "UPL",
+      "name": "Mildura Cntr Plaza Post Office Parcel Locker",
+      "phone": "1800 422 406",
+      "fax": null,
+      "address": {
+        "line1": "829 Fifteenth St",
+        "line2": null,
+        "suburb": "MILDURA",
+        "state": "VIC",
+        "postcode": "3500",
+        "country": "Australia"
+      },
+      "lat": -34.20903582,
+      "lon": 142.13966767,
+      "trading_hours": {
+        "MON": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "TUE": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "WED": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "THU": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "FRI": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "SAT": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "SUN": {
+          "open": "00:00",
+          "close": "23:59"
+        }
+      },
+      "services": [
+        "PARCEL_COLLECT"
       ]
     },
     {
@@ -277842,7 +277637,7 @@
       ]
     },
     {
-      "id": "85139461_UPL",
+      "id": "73289368_UPL",
       "type": "UPL",
       "name": "Shepparton Marketplace Parcel Locker",
       "phone": "1800 422 406",
@@ -277855,8 +277650,8 @@
         "postcode": "3630",
         "country": "Australia"
       },
-      "lat": -36.387957,
-      "lon": 145.424168,
+      "lat": -36.38793796,
+      "lon": 145.42350421,
       "trading_hours": {
         "MON": {
           "open": "00:00",
@@ -289076,56 +288871,6 @@
       ]
     },
     {
-      "id": "57930113_UPL",
-      "type": "UPL",
-      "name": "Nar Nar Goon LPO Parcel Locker",
-      "phone": "1800 422 406",
-      "fax": null,
-      "address": {
-        "line1": "1 Nar Nar Goon Rd",
-        "line2": null,
-        "suburb": "NAR NAR GOON",
-        "state": "VIC",
-        "postcode": "3812",
-        "country": "Australia"
-      },
-      "lat": -38.0811,
-      "lon": 145.5701,
-      "trading_hours": {
-        "MON": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "TUE": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "WED": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "THU": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "FRI": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "SAT": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "SUN": {
-          "open": "00:00",
-          "close": "23:59"
-        }
-      },
-      "services": [
-        "PARCEL_COLLECT"
-      ]
-    },
-    {
       "id": "339901_PO",
       "type": "PO",
       "name": "Nar Nar Goon Post Office",
@@ -289188,6 +288933,56 @@
         "PO_BOXES_INSTALLED",
         "RETURNS_PRINT_AT_POST",
         "TRAVEL_INSURANCE"
+      ]
+    },
+    {
+      "id": "99389116_UPL",
+      "type": "UPL",
+      "name": "Nar Nar Goon Post Office Parcel Locker",
+      "phone": "1800 422 406",
+      "fax": null,
+      "address": {
+        "line1": "1 Nar Nar Goon Rd",
+        "line2": null,
+        "suburb": "NAR NAR GOON",
+        "state": "VIC",
+        "postcode": "3812",
+        "country": "Australia"
+      },
+      "lat": -38.08108351,
+      "lon": 145.57007712,
+      "trading_hours": {
+        "MON": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "TUE": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "WED": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "THU": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "FRI": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "SAT": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "SUN": {
+          "open": "00:00",
+          "close": "23:59"
+        }
+      },
+      "services": [
+        "PARCEL_COLLECT"
       ]
     },
     {
@@ -291146,9 +290941,9 @@
       ]
     },
     {
-      "id": "69724189_UPL",
+      "id": "69070471_UPL",
       "type": "UPL",
-      "name": "Morwell Post Shop Parcel Locker",
+      "name": "Morwell Post Office Parcel Locker",
       "phone": "1800 422 406",
       "fax": null,
       "address": {
@@ -291159,8 +290954,8 @@
         "postcode": "3840",
         "country": "Australia"
       },
-      "lat": -38.2364902,
-      "lon": 146.3990675,
+      "lat": -38.23671442,
+      "lon": 146.39907162,
       "trading_hours": {
         "MON": {
           "open": "00:00",
@@ -295212,9 +295007,9 @@
       ]
     },
     {
-      "id": "60913900_UPL",
+      "id": "95504190_UPL",
       "type": "UPL",
-      "name": "Log Cabin Park Accom Parcel Locker",
+      "name": "Log Cabin Park Accommodation Parcel Locker",
       "phone": "1800 422 406",
       "fax": null,
       "address": {
@@ -295225,8 +295020,8 @@
         "postcode": "3910",
         "country": "Australia"
       },
-      "lat": -38.14402059,
-      "lon": 145.1757405,
+      "lat": -38.14352857,
+      "lon": 145.17594219,
       "trading_hours": {
         "MON": {
           "open": "00:00",
@@ -306919,7 +306714,7 @@
       ]
     },
     {
-      "id": "85158601_UPL",
+      "id": "51958763_UPL",
       "type": "UPL",
       "name": "Alkimos Trinity Parcel Locker",
       "phone": "1800 422 406",
@@ -306932,8 +306727,8 @@
         "postcode": "6038",
         "country": "Australia"
       },
-      "lat": -31.62802273,
-      "lon": 115.6918402,
+      "lat": -31.62804848,
+      "lon": 115.6918939,
       "trading_hours": {
         "MON": {
           "open": "00:00",
@@ -307472,56 +307267,6 @@
       ]
     },
     {
-      "id": "89615150_UPL",
-      "type": "UPL",
-      "name": "Maylands LPO Parcel Locker",
-      "phone": "1800 422 406",
-      "fax": null,
-      "address": {
-        "line1": "56-58 Eighth Ave",
-        "line2": null,
-        "suburb": "MAYLANDS",
-        "state": "WA",
-        "postcode": "6051",
-        "country": "Australia"
-      },
-      "lat": -31.92920677,
-      "lon": 115.8929996,
-      "trading_hours": {
-        "MON": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "TUE": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "WED": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "THU": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "FRI": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "SAT": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "SUN": {
-          "open": "00:00",
-          "close": "23:59"
-        }
-      },
-      "services": [
-        "PARCEL_COLLECT"
-      ]
-    },
-    {
       "id": "607881_PO",
       "type": "PO",
       "name": "Maylands Post Office",
@@ -307598,6 +307343,56 @@
         "RETURNS_PRINT_AT_POST",
         "TRAVEL_INSURANCE",
         "WORKING_WITH_CHILDREN_CHECK_WA"
+      ]
+    },
+    {
+      "id": "63201536_UPL",
+      "type": "UPL",
+      "name": "Maylands Post Office Parcel Locker",
+      "phone": "1800 422 406",
+      "fax": null,
+      "address": {
+        "line1": "56-58 Eighth Ave",
+        "line2": null,
+        "suburb": "MAYLANDS",
+        "state": "WA",
+        "postcode": "6051",
+        "country": "Australia"
+      },
+      "lat": -31.92927,
+      "lon": 115.89308,
+      "trading_hours": {
+        "MON": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "TUE": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "WED": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "THU": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "FRI": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "SAT": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "SUN": {
+          "open": "00:00",
+          "close": "23:59"
+        }
+      },
+      "services": [
+        "PARCEL_COLLECT"
       ]
     },
     {
@@ -310796,9 +310591,9 @@
       ]
     },
     {
-      "id": "33151706_UPL",
+      "id": "81640059_UPL",
       "type": "UPL",
-      "name": "Wyatt Grove SC Parcel Locker",
+      "name": "Wyatt Grove Shopping Centre Parcel Locker",
       "phone": "1800 422 406",
       "fax": null,
       "address": {
@@ -310809,8 +310604,8 @@
         "postcode": "6065",
         "country": "Australia"
       },
-      "lat": -31.768752,
-      "lon": 115.819241,
+      "lat": -31.76907448,
+      "lon": 115.81922967,
       "trading_hours": {
         "MON": {
           "open": "00:00",
@@ -312871,7 +312666,7 @@
       ]
     },
     {
-      "id": "93568589_UPL",
+      "id": "52676155_UPL",
       "type": "UPL",
       "name": "Bentley Plaza Parcel Locker",
       "phone": "1800 422 406",
@@ -312884,8 +312679,8 @@
         "postcode": "6102",
         "country": "Australia"
       },
-      "lat": -32.00128704,
-      "lon": 115.9208274,
+      "lat": -32.00171652,
+      "lon": 115.92067694,
       "trading_hours": {
         "MON": {
           "open": "00:00",
@@ -314294,7 +314089,7 @@
       ]
     },
     {
-      "id": "91699313_UPL",
+      "id": "85206215_UPL",
       "type": "UPL",
       "name": "Maddington Parcel Locker",
       "phone": "1800 422 406",
@@ -314307,8 +314102,8 @@
         "postcode": "6109",
         "country": "Australia"
       },
-      "lat": -32.05388593,
-      "lon": 115.978206,
+      "lat": -32.05306,
+      "lon": 115.97833,
       "trading_hours": {
         "MON": {
           "open": "00:00",
@@ -320607,9 +320402,9 @@
       ]
     },
     {
-      "id": "91325126_UPL",
+      "id": "76254277_UPL",
       "type": "UPL",
-      "name": "Pinjarra Junction SC Parcel Locker",
+      "name": "Pinjarra Junction Shopping Cntr Parcel Locker",
       "phone": "1800 422 406",
       "fax": null,
       "address": {
@@ -320620,8 +320415,8 @@
         "postcode": "6208",
         "country": "Australia"
       },
-      "lat": -32.62855898,
-      "lon": 115.87323653,
+      "lat": -32.62857329,
+      "lon": 115.87370933,
       "trading_hours": {
         "MON": {
           "open": "00:00",
@@ -321479,8 +321274,7 @@
         "PARCEL_COLLECT",
         "POST_BILL_PAY",
         "RETURNS_PRINT_AT_POST",
-        "TRAVEL_INSURANCE",
-        "WESTERN_UNION_MONEY_TRANSFER"
+        "TRAVEL_INSURANCE"
       ]
     },
     {
@@ -334078,7 +333872,6 @@
         "OPEN_BEFORE_900AM_WEEKDAYS",
         "PARCEL_COLLECT",
         "POST_BILL_PAY",
-        "PO_BOXES_AVAILABLE",
         "PO_BOXES_INSTALLED",
         "QLD_SECURITY_CLEARANCE_CARD",
         "QLD_WEAPONS_LICENSING",
@@ -337109,9 +336902,9 @@
       ]
     },
     {
-      "id": "67617479_UPL",
+      "id": "64977256_UPL",
       "type": "UPL",
-      "name": "Carnarvon Post Shop Parcel Locker",
+      "name": "Carnarvon Post Office Parcel Locker",
       "phone": "1800 422 406",
       "fax": null,
       "address": {
@@ -337122,8 +336915,8 @@
         "postcode": "6701",
         "country": "Australia"
       },
-      "lat": -24.88320032,
-      "lon": 113.656632,
+      "lat": -24.88325163,
+      "lon": 113.65666317,
       "trading_hours": {
         "MON": {
           "open": "00:00",
