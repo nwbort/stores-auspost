@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T07:46:44Z",
+  "generated_at": "2026-09-06T07:59:28Z",
   "source": "https://digitalapi.auspost.com.au/locations-private/v3/workcentres",
   "count": 5688,
   "count_by_type": {
@@ -71407,7 +71407,7 @@
       "phone": "(02) 6493 8240",
       "fax": "(02)6493 8240",
       "address": {
-        "line1": "Lot 12 Cobargo St",
+        "line1": "2 Bega St",
         "line2": null,
         "suburb": "QUAAMA",
         "state": "NSW",
@@ -103176,15 +103176,15 @@
       "phone": "13 13 18",
       "fax": "(08)8952 0295",
       "address": {
-        "line1": "93 Todd St",
+        "line1": "16 Leichhardt Tce",
         "line2": null,
         "suburb": "ALICE SPRINGS",
         "state": "NT",
         "postcode": "0870",
         "country": "Australia"
       },
-      "lat": -23.70192307,
-      "lon": 133.8824559,
+      "lat": -23.69963624,
+      "lon": 133.8841155,
       "trading_hours": {
         "MON": {
           "open": "08:00",
@@ -123233,59 +123233,6 @@
       ]
     },
     {
-      "id": "420996_PO",
-      "type": "PO",
-      "name": "PACIFIC PINES",
-      "phone": "13 13 18",
-      "fax": null,
-      "address": {
-        "line1": "2 Norris St",
-        "line2": null,
-        "suburb": "PACIFIC PINES",
-        "state": "QLD",
-        "postcode": "4211",
-        "country": "Australia"
-      },
-      "lat": -27.9253,
-      "lon": 153.3055,
-      "trading_hours": {
-        "MON": {
-          "open": "07:00",
-          "close": "22:00"
-        },
-        "TUE": {
-          "open": "07:00",
-          "close": "22:00"
-        },
-        "WED": {
-          "open": "07:00",
-          "close": "22:00"
-        },
-        "THU": {
-          "open": "07:00",
-          "close": "22:00"
-        },
-        "FRI": {
-          "open": "07:00",
-          "close": "22:00"
-        },
-        "SAT": {
-          "open": "07:00",
-          "close": "22:00"
-        },
-        "SUN": {
-          "open": "07:00",
-          "close": "22:00"
-        }
-      },
-      "services": [
-        "OPEN_AFTER_500PM_WEEKDAYS",
-        "OPEN_BEFORE_900AM_WEEKDAYS",
-        "OPEN_SATURDAY",
-        "VENDING"
-      ]
-    },
-    {
       "id": "421067_OS",
       "type": "OS",
       "name": "PACIFIC PINES PO BOX ANNEXE",
@@ -123363,6 +123310,59 @@
       },
       "services": [
         "PARCEL_COLLECT"
+      ]
+    },
+    {
+      "id": "420996_PO",
+      "type": "PO",
+      "name": "Pacific Pines Self Service",
+      "phone": "13 13 18",
+      "fax": null,
+      "address": {
+        "line1": "2 Norris St",
+        "line2": null,
+        "suburb": "PACIFIC PINES",
+        "state": "QLD",
+        "postcode": "4211",
+        "country": "Australia"
+      },
+      "lat": -27.9253,
+      "lon": 153.3055,
+      "trading_hours": {
+        "MON": {
+          "open": "07:00",
+          "close": "22:00"
+        },
+        "TUE": {
+          "open": "07:00",
+          "close": "22:00"
+        },
+        "WED": {
+          "open": "07:00",
+          "close": "22:00"
+        },
+        "THU": {
+          "open": "07:00",
+          "close": "22:00"
+        },
+        "FRI": {
+          "open": "07:00",
+          "close": "22:00"
+        },
+        "SAT": {
+          "open": "07:00",
+          "close": "22:00"
+        },
+        "SUN": {
+          "open": "07:00",
+          "close": "22:00"
+        }
+      },
+      "services": [
+        "OPEN_AFTER_500PM_WEEKDAYS",
+        "OPEN_BEFORE_900AM_WEEKDAYS",
+        "OPEN_SATURDAY",
+        "VENDING"
       ]
     },
     {
@@ -141072,6 +141072,7 @@
         "NATIONAL_POLICE_CERTIFICATE_APPLICATION_FORM_WA",
         "OPEN_AFTER_500PM_WEEKDAYS",
         "OPEN_BEFORE_900AM_WEEKDAYS",
+        "OPEN_SATURDAY",
         "PARCEL_COLLECT",
         "POST_BILL_PAY",
         "PO_BOXES_AVAILABLE",
@@ -188345,6 +188346,7 @@
         "NATIONAL_POLICE_CERTIFICATE_APPLICATION_FORM_QLD",
         "NATIONAL_POLICE_CERTIFICATE_APPLICATION_FORM_WA",
         "OPEN_BEFORE_900AM_WEEKDAYS",
+        "OPEN_SATURDAY",
         "PARCEL_COLLECT",
         "PARCEL_PICKUP_OUTSIDE_STANDARD_HOURS",
         "POST_BILL_PAY",
