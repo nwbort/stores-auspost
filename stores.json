@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T08:24:44Z",
+  "generated_at": "2026-09-08T08:11:21Z",
   "source": "https://digitalapi.auspost.com.au/locations-private/v3/workcentres",
   "count": 5689,
   "count_by_type": {
@@ -43180,29 +43180,26 @@
       "lon": 151.71235453,
       "trading_hours": {
         "MON": {
-          "open": "08:30",
-          "close": "17:30"
+          "open": "09:00",
+          "close": "17:00"
         },
         "TUE": {
-          "open": "08:30",
+          "open": "09:00",
           "close": "17:00"
         },
         "WED": {
-          "open": "08:30",
+          "open": "09:00",
           "close": "17:00"
         },
         "THU": {
-          "open": "08:30",
-          "close": "17:30"
-        },
-        "FRI": {
-          "open": "08:30",
+          "open": "09:00",
           "close": "17:00"
         },
-        "SAT": {
-          "open": "08:30",
-          "close": "12:00"
+        "FRI": {
+          "open": "09:00",
+          "close": "17:00"
         },
+        "SAT": null,
         "SUN": null
       },
       "services": [
@@ -43219,9 +43216,7 @@
         "MONEY_ORDER",
         "NATIONAL_POLICE_CERTIFICATE_APPLICATION_FORM_QLD",
         "NATIONAL_POLICE_CERTIFICATE_APPLICATION_FORM_WA",
-        "OPEN_AFTER_500PM_WEEKDAYS",
         "OPEN_BEFORE_900AM_WEEKDAYS",
-        "OPEN_SATURDAY",
         "PARCEL_COLLECT",
         "POST_BILL_PAY",
         "PO_BOXES_AVAILABLE",
@@ -45447,8 +45442,8 @@
         "postcode": "2320",
         "country": "Australia"
       },
-      "lat": -32.7283,
-      "lon": 151.5571,
+      "lat": -32.72832015,
+      "lon": 151.55708183,
       "trading_hours": {
         "MON": {
           "open": "09:00",
@@ -66038,7 +66033,7 @@
           "close": "17:00"
         },
         "SAT": {
-          "open": "08:00",
+          "open": "09:00",
           "close": "13:00"
         },
         "SUN": null
@@ -67706,8 +67701,8 @@
         "postcode": "2534",
         "country": "Australia"
       },
-      "lat": -34.74796871,
-      "lon": 150.8276646,
+      "lat": -34.74796608,
+      "lon": 150.82766613,
       "trading_hours": {
         "MON": {
           "open": "08:00",
@@ -78918,6 +78913,60 @@
       ]
     },
     {
+      "id": "202550_OS",
+      "type": "OS",
+      "name": "Lavington DC",
+      "phone": "13 13 18",
+      "fax": "(02)6024 8933",
+      "address": {
+        "line1": "54 Catherine Cres",
+        "line2": null,
+        "suburb": "LAVINGTON",
+        "state": "NSW",
+        "postcode": "2641",
+        "country": "Australia"
+      },
+      "lat": -36.041,
+      "lon": 146.9647,
+      "trading_hours": {
+        "MON": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "TUE": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "WED": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "THU": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "FRI": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "SAT": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "SUN": {
+          "open": "00:00",
+          "close": "23:59"
+        }
+      },
+      "services": [
+        "OPEN_AFTER_500PM_WEEKDAYS",
+        "OPEN_BEFORE_900AM_WEEKDAYS",
+        "OPEN_SATURDAY",
+        "PO_BOXES_AVAILABLE",
+        "PO_BOXES_INSTALLED"
+      ]
+    },
+    {
       "id": "237593_PO",
       "type": "PO",
       "name": "Lavington Post Office",
@@ -79041,60 +79090,6 @@
       },
       "services": [
         "PARCEL_COLLECT"
-      ]
-    },
-    {
-      "id": "202550_OS",
-      "type": "OS",
-      "name": "SOUTH WEST NSW",
-      "phone": "13 13 18",
-      "fax": "(02)6024 8933",
-      "address": {
-        "line1": "54 Catherine Cres",
-        "line2": null,
-        "suburb": "LAVINGTON",
-        "state": "NSW",
-        "postcode": "2641",
-        "country": "Australia"
-      },
-      "lat": -36.041,
-      "lon": 146.9647,
-      "trading_hours": {
-        "MON": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "TUE": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "WED": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "THU": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "FRI": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "SAT": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "SUN": {
-          "open": "00:00",
-          "close": "23:59"
-        }
-      },
-      "services": [
-        "OPEN_AFTER_500PM_WEEKDAYS",
-        "OPEN_BEFORE_900AM_WEEKDAYS",
-        "OPEN_SATURDAY",
-        "PO_BOXES_AVAILABLE",
-        "PO_BOXES_INSTALLED"
       ]
     },
     {
@@ -82971,6 +82966,53 @@
       ]
     },
     {
+      "id": "252902_OS",
+      "type": "OS",
+      "name": "Griffith DC",
+      "phone": "13 13 18",
+      "fax": "(02)8332 3854",
+      "address": {
+        "line1": "18 Altin St",
+        "line2": null,
+        "suburb": "GRIFFITH",
+        "state": "NSW",
+        "postcode": "2680",
+        "country": "Australia"
+      },
+      "lat": -34.2895,
+      "lon": 146.0668,
+      "trading_hours": {
+        "MON": {
+          "open": "05:00",
+          "close": "17:00"
+        },
+        "TUE": {
+          "open": "05:00",
+          "close": "17:00"
+        },
+        "WED": {
+          "open": "05:00",
+          "close": "17:00"
+        },
+        "THU": {
+          "open": "05:00",
+          "close": "17:00"
+        },
+        "FRI": {
+          "open": "05:00",
+          "close": "17:00"
+        },
+        "SAT": null,
+        "SUN": null
+      },
+      "services": [
+        "OPEN_BEFORE_900AM_WEEKDAYS",
+        "PARCEL_PICKUP_OUTSIDE_STANDARD_HOURS",
+        "PO_BOXES_AVAILABLE",
+        "PO_BOXES_INSTALLED"
+      ]
+    },
+    {
       "id": "234907_PO",
       "type": "PO",
       "name": "Griffith East Post Office",
@@ -83259,53 +83301,6 @@
         "PO_BOXES_INSTALLED",
         "RETURNS_PRINT_AT_POST",
         "TRAVEL_INSURANCE"
-      ]
-    },
-    {
-      "id": "252902_OS",
-      "type": "OS",
-      "name": "SOUTH WEST NSW",
-      "phone": "13 13 18",
-      "fax": "(02)8332 3854",
-      "address": {
-        "line1": "18 Altin St",
-        "line2": null,
-        "suburb": "GRIFFITH",
-        "state": "NSW",
-        "postcode": "2680",
-        "country": "Australia"
-      },
-      "lat": -34.2895,
-      "lon": 146.0668,
-      "trading_hours": {
-        "MON": {
-          "open": "05:00",
-          "close": "17:00"
-        },
-        "TUE": {
-          "open": "05:00",
-          "close": "17:00"
-        },
-        "WED": {
-          "open": "05:00",
-          "close": "17:00"
-        },
-        "THU": {
-          "open": "05:00",
-          "close": "17:00"
-        },
-        "FRI": {
-          "open": "05:00",
-          "close": "17:00"
-        },
-        "SAT": null,
-        "SUN": null
-      },
-      "services": [
-        "OPEN_BEFORE_900AM_WEEKDAYS",
-        "PARCEL_PICKUP_OUTSIDE_STANDARD_HOURS",
-        "PO_BOXES_AVAILABLE",
-        "PO_BOXES_INSTALLED"
       ]
     },
     {
@@ -87962,60 +87957,6 @@
       ]
     },
     {
-      "id": "268592_OS",
-      "type": "OS",
-      "name": "SYDNEY WEST NSW",
-      "phone": "13 13 18",
-      "fax": null,
-      "address": {
-        "line1": "21 Walker St",
-        "line2": null,
-        "suburb": "SOUTH WINDSOR",
-        "state": "NSW",
-        "postcode": "2756",
-        "country": "Australia"
-      },
-      "lat": -33.6229,
-      "lon": 150.8092,
-      "trading_hours": {
-        "MON": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "TUE": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "WED": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "THU": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "FRI": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "SAT": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "SUN": {
-          "open": "00:00",
-          "close": "23:59"
-        }
-      },
-      "services": [
-        "OPEN_AFTER_500PM_WEEKDAYS",
-        "OPEN_BEFORE_900AM_WEEKDAYS",
-        "OPEN_SATURDAY",
-        "PO_BOXES_AVAILABLE",
-        "PO_BOXES_INSTALLED"
-      ]
-    },
-    {
       "id": "248559_PO",
       "type": "PO",
       "name": "Wilberforce Post Office",
@@ -88196,6 +88137,60 @@
       },
       "services": [
         "PARCEL_COLLECT"
+      ]
+    },
+    {
+      "id": "268592_OS",
+      "type": "OS",
+      "name": "Windsor South DC",
+      "phone": "13 13 18",
+      "fax": null,
+      "address": {
+        "line1": "21 Walker St",
+        "line2": null,
+        "suburb": "SOUTH WINDSOR",
+        "state": "NSW",
+        "postcode": "2756",
+        "country": "Australia"
+      },
+      "lat": -33.6229,
+      "lon": 150.8092,
+      "trading_hours": {
+        "MON": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "TUE": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "WED": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "THU": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "FRI": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "SAT": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "SUN": {
+          "open": "00:00",
+          "close": "23:59"
+        }
+      },
+      "services": [
+        "OPEN_AFTER_500PM_WEEKDAYS",
+        "OPEN_BEFORE_900AM_WEEKDAYS",
+        "OPEN_SATURDAY",
+        "PO_BOXES_AVAILABLE",
+        "PO_BOXES_INSTALLED"
       ]
     },
     {
@@ -103171,55 +103166,6 @@
       ]
     },
     {
-      "id": "509157_DC",
-      "type": "DC",
-      "name": "ALICE SPRINGS NT",
-      "phone": "13 13 18",
-      "fax": "(08)8943 7016",
-      "address": {
-        "line1": "33 Hartley St",
-        "line2": null,
-        "suburb": "ALICE SPRINGS",
-        "state": "NT",
-        "postcode": "0870",
-        "country": "Australia"
-      },
-      "lat": -23.6991,
-      "lon": 133.8819,
-      "trading_hours": {
-        "MON": {
-          "open": "07:30",
-          "close": "18:00"
-        },
-        "TUE": {
-          "open": "07:30",
-          "close": "18:00"
-        },
-        "WED": {
-          "open": "07:30",
-          "close": "18:00"
-        },
-        "THU": {
-          "open": "07:30",
-          "close": "18:00"
-        },
-        "FRI": {
-          "open": "07:30",
-          "close": "18:00"
-        },
-        "SAT": {
-          "open": "09:30",
-          "close": "12:00"
-        },
-        "SUN": null
-      },
-      "services": [
-        "OPEN_AFTER_500PM_WEEKDAYS",
-        "OPEN_BEFORE_900AM_WEEKDAYS",
-        "OPEN_SATURDAY"
-      ]
-    },
-    {
       "id": "516066_PO",
       "type": "PO",
       "name": "Alice Springs CPA",
@@ -103266,6 +103212,55 @@
         }
       },
       "services": [
+        "OPEN_BEFORE_900AM_WEEKDAYS",
+        "OPEN_SATURDAY"
+      ]
+    },
+    {
+      "id": "509157_DC",
+      "type": "DC",
+      "name": "Alice Springs DC",
+      "phone": "13 13 18",
+      "fax": "(08)8943 7016",
+      "address": {
+        "line1": "33 Hartley St",
+        "line2": null,
+        "suburb": "ALICE SPRINGS",
+        "state": "NT",
+        "postcode": "0870",
+        "country": "Australia"
+      },
+      "lat": -23.6991,
+      "lon": 133.8819,
+      "trading_hours": {
+        "MON": {
+          "open": "07:30",
+          "close": "18:00"
+        },
+        "TUE": {
+          "open": "07:30",
+          "close": "18:00"
+        },
+        "WED": {
+          "open": "07:30",
+          "close": "18:00"
+        },
+        "THU": {
+          "open": "07:30",
+          "close": "18:00"
+        },
+        "FRI": {
+          "open": "07:30",
+          "close": "18:00"
+        },
+        "SAT": {
+          "open": "09:30",
+          "close": "12:00"
+        },
+        "SUN": null
+      },
+      "services": [
+        "OPEN_AFTER_500PM_WEEKDAYS",
         "OPEN_BEFORE_900AM_WEEKDAYS",
         "OPEN_SATURDAY"
       ]
@@ -148823,7 +148818,6 @@
         "OPEN_SATURDAY",
         "PARCEL_COLLECT",
         "POST_BILL_PAY",
-        "PO_BOXES_AVAILABLE",
         "PO_BOXES_INSTALLED",
         "RETURNS_PRINT_AT_POST",
         "TRAVEL_INSURANCE",
@@ -150359,7 +150353,7 @@
     {
       "id": "407222_DC",
       "type": "DC",
-      "name": "Gladstone Delivery Centre",
+      "name": "Gladstone DC",
       "phone": "13 13 18",
       "fax": "(07)3026 3470",
       "address": {
@@ -159831,50 +159825,6 @@
       ]
     },
     {
-      "id": "401074_DC",
-      "type": "DC",
-      "name": "FAR NORTH QLD",
-      "phone": "13 13 18",
-      "fax": "(07)3011 4083",
-      "address": {
-        "line1": "29 Black Hawk Bvd",
-        "line2": null,
-        "suburb": "THURINGOWA CENTRAL",
-        "state": "QLD",
-        "postcode": "4817",
-        "country": "Australia"
-      },
-      "lat": -19.322,
-      "lon": 146.721,
-      "trading_hours": {
-        "MON": {
-          "open": "06:00",
-          "close": "16:00"
-        },
-        "TUE": {
-          "open": "06:00",
-          "close": "16:00"
-        },
-        "WED": {
-          "open": "06:00",
-          "close": "16:00"
-        },
-        "THU": {
-          "open": "06:00",
-          "close": "16:00"
-        },
-        "FRI": {
-          "open": "06:00",
-          "close": "16:00"
-        },
-        "SAT": null,
-        "SUN": null
-      },
-      "services": [
-        "OPEN_BEFORE_900AM_WEEKDAYS"
-      ]
-    },
-    {
       "id": "421737_PO",
       "type": "PO",
       "name": "Kirwan Post Office",
@@ -160070,6 +160020,50 @@
       },
       "services": [
         "PARCEL_COLLECT"
+      ]
+    },
+    {
+      "id": "401074_DC",
+      "type": "DC",
+      "name": "Thuringowa DC",
+      "phone": "13 13 18",
+      "fax": "(07)3011 4083",
+      "address": {
+        "line1": "29 Black Hawk Bvd",
+        "line2": null,
+        "suburb": "THURINGOWA CENTRAL",
+        "state": "QLD",
+        "postcode": "4817",
+        "country": "Australia"
+      },
+      "lat": -19.322,
+      "lon": 146.721,
+      "trading_hours": {
+        "MON": {
+          "open": "06:00",
+          "close": "16:00"
+        },
+        "TUE": {
+          "open": "06:00",
+          "close": "16:00"
+        },
+        "WED": {
+          "open": "06:00",
+          "close": "16:00"
+        },
+        "THU": {
+          "open": "06:00",
+          "close": "16:00"
+        },
+        "FRI": {
+          "open": "06:00",
+          "close": "16:00"
+        },
+        "SAT": null,
+        "SUN": null
+      },
+      "services": [
+        "OPEN_BEFORE_900AM_WEEKDAYS"
       ]
     },
     {
@@ -166161,7 +166155,7 @@
     {
       "id": "429210_PO",
       "type": "PO",
-      "name": "Thursday Island Post Office",
+      "name": "Thursday Island LPO",
       "phone": "13 13 18",
       "fax": null,
       "address": {
@@ -172484,7 +172478,6 @@
         "BANK_AT_POST",
         "FOREIGN_CURRENCY",
         "IDENTITY_VERIFICATION_FORM_REQUEST",
-        "INSTANT_PASSPORT_AND_ID_PHOTOS",
         "MONEY_ORDER",
         "NATIONAL_POLICE_CERTIFICATE_APPLICATION_FORM_QLD",
         "NATIONAL_POLICE_CERTIFICATE_APPLICATION_FORM_WA",
@@ -202583,6 +202576,52 @@
       ]
     },
     {
+      "id": "703355_OS",
+      "type": "OS",
+      "name": "Eastern Shore DC - Delivery",
+      "phone": "13 13 18",
+      "fax": "(03)6211 3422",
+      "address": {
+        "line1": "57 Mornington Rd",
+        "line2": null,
+        "suburb": "MORNINGTON",
+        "state": "TAS",
+        "postcode": "7018",
+        "country": "Australia"
+      },
+      "lat": -42.8595,
+      "lon": 147.3989,
+      "trading_hours": {
+        "MON": {
+          "open": "06:00",
+          "close": "13:50"
+        },
+        "TUE": {
+          "open": "06:00",
+          "close": "13:50"
+        },
+        "WED": {
+          "open": "06:00",
+          "close": "13:50"
+        },
+        "THU": {
+          "open": "06:00",
+          "close": "13:50"
+        },
+        "FRI": {
+          "open": "06:00",
+          "close": "13:50"
+        },
+        "SAT": null,
+        "SUN": null
+      },
+      "services": [
+        "OPEN_BEFORE_900AM_WEEKDAYS",
+        "PO_BOXES_AVAILABLE",
+        "PO_BOXES_INSTALLED"
+      ]
+    },
+    {
       "id": "736819_PO",
       "type": "PO",
       "name": "Glebe Hill Post Office",
@@ -202991,52 +203030,6 @@
       },
       "services": [
         "PARCEL_COLLECT"
-      ]
-    },
-    {
-      "id": "703355_OS",
-      "type": "OS",
-      "name": "Tasmania",
-      "phone": "13 13 18",
-      "fax": "(03)6211 3422",
-      "address": {
-        "line1": "57 Mornington Rd",
-        "line2": null,
-        "suburb": "MORNINGTON",
-        "state": "TAS",
-        "postcode": "7018",
-        "country": "Australia"
-      },
-      "lat": -42.8595,
-      "lon": 147.3989,
-      "trading_hours": {
-        "MON": {
-          "open": "06:00",
-          "close": "13:50"
-        },
-        "TUE": {
-          "open": "06:00",
-          "close": "13:50"
-        },
-        "WED": {
-          "open": "06:00",
-          "close": "13:50"
-        },
-        "THU": {
-          "open": "06:00",
-          "close": "13:50"
-        },
-        "FRI": {
-          "open": "06:00",
-          "close": "13:50"
-        },
-        "SAT": null,
-        "SUN": null
-      },
-      "services": [
-        "OPEN_BEFORE_900AM_WEEKDAYS",
-        "PO_BOXES_AVAILABLE",
-        "PO_BOXES_INSTALLED"
       ]
     },
     {
@@ -204007,6 +204000,52 @@
       ]
     },
     {
+      "id": "702520_OS",
+      "type": "OS",
+      "name": "Kingston DC",
+      "phone": "13 13 18",
+      "fax": "(03)6236 8364",
+      "address": {
+        "line1": "32a Browns Rd",
+        "line2": null,
+        "suburb": "KINGSTON",
+        "state": "TAS",
+        "postcode": "7050",
+        "country": "Australia"
+      },
+      "lat": -42.97073796,
+      "lon": 147.3144747,
+      "trading_hours": {
+        "MON": {
+          "open": "06:00",
+          "close": "14:00"
+        },
+        "TUE": {
+          "open": "06:00",
+          "close": "14:00"
+        },
+        "WED": {
+          "open": "06:00",
+          "close": "14:00"
+        },
+        "THU": {
+          "open": "06:00",
+          "close": "14:00"
+        },
+        "FRI": {
+          "open": "06:00",
+          "close": "14:00"
+        },
+        "SAT": null,
+        "SUN": null
+      },
+      "services": [
+        "OPEN_BEFORE_900AM_WEEKDAYS",
+        "PO_BOXES_AVAILABLE",
+        "PO_BOXES_INSTALLED"
+      ]
+    },
+    {
       "id": "35134049_UPL",
       "type": "UPL",
       "name": "Kingston Plaza Parcel Locker",
@@ -204272,52 +204311,6 @@
       ]
     },
     {
-      "id": "702520_OS",
-      "type": "OS",
-      "name": "Tasmania",
-      "phone": "13 13 18",
-      "fax": "(03)6236 8364",
-      "address": {
-        "line1": "32a Browns Rd",
-        "line2": null,
-        "suburb": "KINGSTON",
-        "state": "TAS",
-        "postcode": "7050",
-        "country": "Australia"
-      },
-      "lat": -42.97073796,
-      "lon": 147.3144747,
-      "trading_hours": {
-        "MON": {
-          "open": "06:00",
-          "close": "14:00"
-        },
-        "TUE": {
-          "open": "06:00",
-          "close": "14:00"
-        },
-        "WED": {
-          "open": "06:00",
-          "close": "14:00"
-        },
-        "THU": {
-          "open": "06:00",
-          "close": "14:00"
-        },
-        "FRI": {
-          "open": "06:00",
-          "close": "14:00"
-        },
-        "SAT": null,
-        "SUN": null
-      },
-      "services": [
-        "OPEN_BEFORE_900AM_WEEKDAYS",
-        "PO_BOXES_AVAILABLE",
-        "PO_BOXES_INSTALLED"
-      ]
-    },
-    {
       "id": "731401_PO",
       "type": "PO",
       "name": "Blackmans Bay Post Office",
@@ -204561,9 +204554,59 @@
       ]
     },
     {
+      "id": "49922760_UPL",
+      "type": "UPL",
+      "name": "Huonville Post Office Parcel Locker",
+      "phone": "1800 422 406",
+      "fax": null,
+      "address": {
+        "line1": "38 Main St",
+        "line2": null,
+        "suburb": "HUONVILLE",
+        "state": "TAS",
+        "postcode": "7109",
+        "country": "Australia"
+      },
+      "lat": -43.03073873,
+      "lon": 147.0488605,
+      "trading_hours": {
+        "MON": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "TUE": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "WED": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "THU": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "FRI": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "SAT": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "SUN": {
+          "open": "00:00",
+          "close": "23:59"
+        }
+      },
+      "services": [
+        "PARCEL_COLLECT"
+      ]
+    },
+    {
       "id": "734012_PO",
       "type": "PO",
-      "name": "Huonville Post Office",
+      "name": "Huonville Post Shop",
       "phone": "13 13 18",
       "fax": "(03)6236 8353",
       "address": {
@@ -204628,56 +204671,6 @@
         "RETURNS_PRINT_AT_POST",
         "TRAVEL_INSURANCE",
         "WESTERN_UNION_MONEY_TRANSFER"
-      ]
-    },
-    {
-      "id": "49922760_UPL",
-      "type": "UPL",
-      "name": "Huonville Post Office Parcel Locker",
-      "phone": "1800 422 406",
-      "fax": null,
-      "address": {
-        "line1": "38 Main St",
-        "line2": null,
-        "suburb": "HUONVILLE",
-        "state": "TAS",
-        "postcode": "7109",
-        "country": "Australia"
-      },
-      "lat": -43.03073873,
-      "lon": 147.0488605,
-      "trading_hours": {
-        "MON": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "TUE": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "WED": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "THU": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "FRI": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "SAT": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "SUN": {
-          "open": "00:00",
-          "close": "23:59"
-        }
-      },
-      "services": [
-        "PARCEL_COLLECT"
       ]
     },
     {
@@ -208144,7 +208137,7 @@
     {
       "id": "702272_OS",
       "type": "OS",
-      "name": "Launceston Delivery Centre",
+      "name": "Launceston DC",
       "phone": "13 13 18",
       "fax": "(03)6236 8377",
       "address": {
@@ -210858,7 +210851,7 @@
     {
       "id": "736042_PO",
       "type": "PO",
-      "name": "Perth Post Office",
+      "name": "Perth LPO",
       "phone": "(03) 6398 2216",
       "fax": "(03)6398 2216",
       "address": {
@@ -212383,52 +212376,6 @@
       ]
     },
     {
-      "id": "702627_OS",
-      "type": "OS",
-      "name": "Tasmania",
-      "phone": "13 13 18",
-      "fax": "(03)6236 8313",
-      "address": {
-        "line1": "117 Eastland Dr",
-        "line2": null,
-        "suburb": "ULVERSTONE",
-        "state": "TAS",
-        "postcode": "7315",
-        "country": "Australia"
-      },
-      "lat": -41.1585,
-      "lon": 146.1967,
-      "trading_hours": {
-        "MON": {
-          "open": "05:00",
-          "close": "10:00"
-        },
-        "TUE": {
-          "open": "05:00",
-          "close": "10:00"
-        },
-        "WED": {
-          "open": "05:00",
-          "close": "10:00"
-        },
-        "THU": {
-          "open": "05:00",
-          "close": "10:00"
-        },
-        "FRI": {
-          "open": "05:00",
-          "close": "10:00"
-        },
-        "SAT": null,
-        "SUN": null
-      },
-      "services": [
-        "OPEN_BEFORE_900AM_WEEKDAYS",
-        "PO_BOXES_AVAILABLE",
-        "PO_BOXES_INSTALLED"
-      ]
-    },
-    {
       "id": "760472_PO",
       "type": "PO",
       "name": "Turners Beach Post Office",
@@ -212491,6 +212438,52 @@
         "PO_BOXES_INSTALLED",
         "RETURNS_PRINT_AT_POST",
         "TRAVEL_INSURANCE"
+      ]
+    },
+    {
+      "id": "702627_OS",
+      "type": "OS",
+      "name": "Ulverstone DC",
+      "phone": "13 13 18",
+      "fax": "(03)6236 8313",
+      "address": {
+        "line1": "117 Eastland Dr",
+        "line2": null,
+        "suburb": "ULVERSTONE",
+        "state": "TAS",
+        "postcode": "7315",
+        "country": "Australia"
+      },
+      "lat": -41.1585,
+      "lon": 146.1967,
+      "trading_hours": {
+        "MON": {
+          "open": "05:00",
+          "close": "10:00"
+        },
+        "TUE": {
+          "open": "05:00",
+          "close": "10:00"
+        },
+        "WED": {
+          "open": "05:00",
+          "close": "10:00"
+        },
+        "THU": {
+          "open": "05:00",
+          "close": "10:00"
+        },
+        "FRI": {
+          "open": "05:00",
+          "close": "10:00"
+        },
+        "SAT": null,
+        "SUN": null
+      },
+      "services": [
+        "OPEN_BEFORE_900AM_WEEKDAYS",
+        "PO_BOXES_AVAILABLE",
+        "PO_BOXES_INSTALLED"
       ]
     },
     {
@@ -212899,7 +212892,7 @@
     {
       "id": "702635_OS",
       "type": "OS",
-      "name": "Burnie Delivery Centre",
+      "name": "Burnie DC",
       "phone": "13 13 18",
       "fax": "(03)6236 8333",
       "address": {
@@ -231433,9 +231426,9 @@
       "phone": "1800 422 406",
       "fax": null,
       "address": {
-        "line1": "Simpson Army Barracks",
-        "line2": "200 Greensborough Rd",
-        "suburb": "MACLEOD",
+        "line1": "200 Greensborough Rd",
+        "line2": null,
+        "suburb": "YALLAMBIE",
         "state": "VIC",
         "postcode": "3085",
         "country": "Australia"
@@ -265258,7 +265251,6 @@
         "NATIONAL_POLICE_CERTIFICATE_APPLICATION_FORM_WA",
         "PARCEL_COLLECT",
         "POST_BILL_PAY",
-        "PO_BOXES_AVAILABLE",
         "PO_BOXES_INSTALLED",
         "RETURNS_PRINT_AT_POST",
         "TRAVEL_INSURANCE"
@@ -279919,6 +279911,7 @@
         "OPEN_SATURDAY",
         "PARCEL_COLLECT",
         "POST_BILL_PAY",
+        "PO_BOXES_AVAILABLE",
         "PO_BOXES_INSTALLED",
         "RETURNS_PRINT_AT_POST",
         "TRAVEL_INSURANCE"
@@ -285370,27 +285363,27 @@
       "trading_hours": {
         "MON": {
           "open": "09:00",
-          "close": "17:15"
+          "close": "17:30"
         },
         "TUE": {
           "open": "09:00",
-          "close": "17:15"
+          "close": "17:30"
         },
         "WED": {
           "open": "09:00",
-          "close": "17:15"
+          "close": "17:30"
         },
         "THU": {
           "open": "09:00",
-          "close": "17:15"
+          "close": "17:30"
         },
         "FRI": {
           "open": "09:00",
-          "close": "17:15"
+          "close": "17:30"
         },
         "SAT": {
           "open": "09:00",
-          "close": "11:30"
+          "close": "12:30"
         },
         "SUN": null
       },
@@ -304054,7 +304047,6 @@
         "INSTANT_PASSPORT_AND_ID_PHOTOS",
         "INTERNATIONAL_COURIER",
         "LAND_TITLE_ID_CHECK_EXPRESS_SERVICE",
-        "MARITIME_SECURITY_IDENTITY_CARD",
         "ME_BANK",
         "MONEY_ORDER",
         "NATIONAL_POLICE_CERTIFICATE_APPLICATION_FORM_QLD",
@@ -315514,7 +315506,6 @@
         "OPEN_BEFORE_900AM_WEEKDAYS",
         "PARCEL_COLLECT",
         "POST_BILL_PAY",
-        "PO_BOXES_AVAILABLE",
         "PO_BOXES_INSTALLED",
         "RETURNS_PRINT_AT_POST",
         "TRAVEL_INSURANCE"
