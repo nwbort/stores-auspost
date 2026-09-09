@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-08T08:11:21Z",
+  "generated_at": "2026-09-09T08:15:30Z",
   "source": "https://digitalapi.auspost.com.au/locations-private/v3/workcentres",
-  "count": 5689,
+  "count": 5688,
   "count_by_type": {
-    "PO": 4133,
+    "PO": 4132,
     "UPL": 1431,
     "OS": 89,
     "DC": 36
@@ -3629,106 +3629,6 @@
       ]
     },
     {
-      "id": "67951376_UPL",
-      "type": "UPL",
-      "name": "Tuggeranong Hyperdome Parcel Locker",
-      "phone": "1800 422 406",
-      "fax": null,
-      "address": {
-        "line1": "Shop 75",
-        "line2": "210 Anketell St",
-        "suburb": "GREENWAY",
-        "state": "ACT",
-        "postcode": "2900",
-        "country": "Australia"
-      },
-      "lat": -35.4169683,
-      "lon": 149.066469,
-      "trading_hours": {
-        "MON": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "TUE": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "WED": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "THU": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "FRI": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "SAT": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "SUN": {
-          "open": "00:00",
-          "close": "23:59"
-        }
-      },
-      "services": [
-        "PARCEL_COLLECT"
-      ]
-    },
-    {
-      "id": "44884257_UPL",
-      "type": "UPL",
-      "name": "Tuggeranong Parcel Locker",
-      "phone": "1800 422 406",
-      "fax": null,
-      "address": {
-        "line1": "302-308 Reed St S",
-        "line2": null,
-        "suburb": "GREENWAY",
-        "state": "ACT",
-        "postcode": "2900",
-        "country": "Australia"
-      },
-      "lat": -35.4195388,
-      "lon": 149.069093,
-      "trading_hours": {
-        "MON": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "TUE": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "WED": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "THU": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "FRI": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "SAT": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "SUN": {
-          "open": "00:00",
-          "close": "23:59"
-        }
-      },
-      "services": [
-        "PARCEL_COLLECT"
-      ]
-    },
-    {
       "id": "246457_PO",
       "type": "PO",
       "name": "Tuggeranong Post Office",
@@ -3797,6 +3697,106 @@
         "RETURNS_PRINT_AT_POST",
         "TRAVEL_INSURANCE",
         "WESTERN_UNION_MONEY_TRANSFER"
+      ]
+    },
+    {
+      "id": "44884257_UPL",
+      "type": "UPL",
+      "name": "Tuggeranong Reed Street Parcel Locker",
+      "phone": "1800 422 406",
+      "fax": null,
+      "address": {
+        "line1": "302-308 Reed St S",
+        "line2": null,
+        "suburb": "GREENWAY",
+        "state": "ACT",
+        "postcode": "2900",
+        "country": "Australia"
+      },
+      "lat": -35.4195388,
+      "lon": 149.069093,
+      "trading_hours": {
+        "MON": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "TUE": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "WED": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "THU": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "FRI": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "SAT": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "SUN": {
+          "open": "00:00",
+          "close": "23:59"
+        }
+      },
+      "services": [
+        "PARCEL_COLLECT"
+      ]
+    },
+    {
+      "id": "67951376_UPL",
+      "type": "UPL",
+      "name": "Tuggeranong South Point Shops Parcel Locker",
+      "phone": "1800 422 406",
+      "fax": null,
+      "address": {
+        "line1": "Shop 75",
+        "line2": "210 Anketell St",
+        "suburb": "GREENWAY",
+        "state": "ACT",
+        "postcode": "2900",
+        "country": "Australia"
+      },
+      "lat": -35.4169683,
+      "lon": 149.066469,
+      "trading_hours": {
+        "MON": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "TUE": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "WED": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "THU": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "FRI": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "SAT": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "SUN": {
+          "open": "00:00",
+          "close": "23:59"
+        }
+      },
+      "services": [
+        "PARCEL_COLLECT"
       ]
     },
     {
@@ -4460,8 +4460,8 @@
         "postcode": "2911",
         "country": "Australia"
       },
-      "lat": -35.21881625,
-      "lon": 149.14476157,
+      "lat": -35.2188,
+      "lon": 149.1448,
       "trading_hours": {
         "MON": {
           "open": "00:00",
@@ -4510,8 +4510,8 @@
         "postcode": "2912",
         "country": "Australia"
       },
-      "lat": -35.18073518,
-      "lon": 149.13312034,
+      "lat": -35.18063517,
+      "lon": 149.1329104,
       "trading_hours": {
         "MON": {
           "open": "00:00",
@@ -4785,8 +4785,8 @@
         "postcode": "2914",
         "country": "Australia"
       },
-      "lat": -35.16430431,
-      "lon": 149.13212656,
+      "lat": -35.16479212,
+      "lon": 149.1323228,
       "trading_hours": {
         "MON": {
           "open": "00:00",
@@ -7427,8 +7427,8 @@
         "postcode": "2018",
         "country": "Australia"
       },
-      "lat": -33.91255234,
-      "lon": 151.21035842,
+      "lat": -33.91254691,
+      "lon": 151.21067774,
       "trading_hours": {
         "MON": {
           "open": "00:00",
@@ -17953,8 +17953,8 @@
       "phone": "1800 422 406",
       "fax": null,
       "address": {
-        "line1": "U 6",
-        "line2": "436-484a Victoria Rd",
+        "line1": "U 6b",
+        "line2": "436a Victoria Rd",
         "suburb": "GLADESVILLE",
         "state": "NSW",
         "postcode": "2111",
@@ -25045,8 +25045,8 @@
         "postcode": "2151",
         "country": "Australia"
       },
-      "lat": -33.76897365,
-      "lon": 151.02828376,
+      "lat": -33.76883192,
+      "lon": 151.0298139,
       "trading_hours": {
         "MON": {
           "open": "00:00",
@@ -30319,8 +30319,8 @@
         "postcode": "2179",
         "country": "Australia"
       },
-      "lat": -33.99605158,
-      "lon": 150.7915436,
+      "lat": -33.99636407,
+      "lon": 150.7923983,
       "trading_hours": {
         "MON": {
           "open": "00:00",
@@ -44634,8 +44634,8 @@
         "postcode": "2305",
         "country": "Australia"
       },
-      "lat": -32.9236788,
-      "lon": 151.71300693,
+      "lat": -32.92366583,
+      "lon": 151.7130049,
       "trading_hours": {
         "MON": {
           "open": "00:00",
@@ -45257,8 +45257,8 @@
         "postcode": "2318",
         "country": "Australia"
       },
-      "lat": -32.78283965,
-      "lon": 151.84439143,
+      "lat": -32.78875759,
+      "lon": 151.81819697,
       "trading_hours": {
         "MON": {
           "open": "00:00",
@@ -48031,8 +48031,8 @@
         "postcode": "2335",
         "country": "Australia"
       },
-      "lat": -32.66979332,
-      "lon": 151.34965154,
+      "lat": -32.6693237,
+      "lon": 151.3497284,
       "trading_hours": {
         "MON": {
           "open": "00:00",
@@ -57996,8 +57996,8 @@
         "postcode": "2450",
         "country": "Australia"
       },
-      "lat": -30.31341675,
-      "lon": 153.09974984,
+      "lat": -30.31336522,
+      "lon": 153.1003312,
       "trading_hours": {
         "MON": {
           "open": "00:00",
@@ -66861,8 +66861,8 @@
         "postcode": "2527",
         "country": "Australia"
       },
-      "lat": -34.57356653,
-      "lon": 150.74996952,
+      "lat": -34.57351184,
+      "lon": 150.7499695,
       "trading_hours": {
         "MON": {
           "open": "00:00",
@@ -73444,8 +73444,8 @@
         "postcode": "2567",
         "country": "Australia"
       },
-      "lat": -34.03891119,
-      "lon": 150.72879109,
+      "lat": -34.03892297,
+      "lon": 150.7286898,
       "trading_hours": {
         "MON": {
           "open": "00:00",
@@ -88884,8 +88884,8 @@
         "postcode": "2761",
         "country": "Australia"
       },
-      "lat": -33.74547401,
-      "lon": 150.83581801,
+      "lat": -33.74547672,
+      "lon": 150.8358185,
       "trading_hours": {
         "MON": {
           "open": "00:00",
@@ -90754,7 +90754,7 @@
       "id": "247847_PO",
       "type": "PO",
       "name": "Warrimoo Post Office",
-      "phone": "(02) 4753 6191",
+      "phone": null,
       "fax": "(02)4753 6927",
       "address": {
         "line1": "280 Great Western Hwy",
@@ -98968,7 +98968,7 @@
       "fax": null,
       "address": {
         "line1": "Darwin GPO Plaza",
-        "line2": "U 1",
+        "line2": "Shop 1",
         "suburb": "DARWIN CITY",
         "state": "NT",
         "postcode": "0800",
@@ -100919,23 +100919,23 @@
       "lon": 130.91921928,
       "trading_hours": {
         "MON": {
-          "open": "08:00",
+          "open": "09:00",
           "close": "17:30"
         },
         "TUE": {
-          "open": "08:00",
+          "open": "09:00",
           "close": "17:30"
         },
         "WED": {
-          "open": "08:00",
+          "open": "09:00",
           "close": "17:30"
         },
         "THU": {
-          "open": "08:00",
+          "open": "09:00",
           "close": "17:30"
         },
         "FRI": {
-          "open": "08:00",
+          "open": "09:00",
           "close": "17:30"
         },
         "SAT": null,
@@ -107589,8 +107589,8 @@
         "postcode": "4017",
         "country": "Australia"
       },
-      "lat": -27.32957407,
-      "lon": 153.05697565,
+      "lat": -27.32981961,
+      "lon": 153.0573971,
       "trading_hours": {
         "MON": {
           "open": "00:00",
@@ -108204,8 +108204,8 @@
         "postcode": "4021",
         "country": "Australia"
       },
-      "lat": -27.22537753,
-      "lon": 153.08615327,
+      "lat": -27.2255327,
+      "lon": 153.0863647,
       "trading_hours": {
         "MON": {
           "open": "00:00",
@@ -110426,7 +110426,7 @@
         "country": "Australia"
       },
       "lat": -27.4165623,
-      "lon": 152.94957168,
+      "lon": 152.9495717,
       "trading_hours": {
         "MON": {
           "open": "00:00",
@@ -111440,8 +111440,8 @@
         "postcode": "4067",
         "country": "Australia"
       },
-      "lat": -27.50257884,
-      "lon": 153.00588178,
+      "lat": -27.50237485,
+      "lon": 153.0059691,
       "trading_hours": {
         "MON": {
           "open": "00:00",
@@ -112664,7 +112664,7 @@
         "country": "Australia"
       },
       "lat": -27.5240293,
-      "lon": 152.98099457,
+      "lon": 152.981,
       "trading_hours": {
         "MON": {
           "open": "00:00",
@@ -114159,8 +114159,8 @@
         "postcode": "4104",
         "country": "Australia"
       },
-      "lat": -27.51631144,
-      "lon": 153.01705007,
+      "lat": -27.51629914,
+      "lon": 153.0168374,
       "trading_hours": {
         "MON": {
           "open": "00:00",
@@ -118267,8 +118267,8 @@
         "postcode": "4133",
         "country": "Australia"
       },
-      "lat": -27.67939134,
-      "lon": 153.11814925,
+      "lat": -27.67932178,
+      "lon": 153.1181193,
       "trading_hours": {
         "MON": {
           "open": "00:00",
@@ -119208,8 +119208,8 @@
         "postcode": "4159",
         "country": "Australia"
       },
-      "lat": -27.49116421,
-      "lon": 153.21832006,
+      "lat": -27.49114811,
+      "lon": 153.21866802,
       "trading_hours": {
         "MON": {
           "open": "00:00",
@@ -124094,8 +124094,8 @@
         "postcode": "4214",
         "country": "Australia"
       },
-      "lat": -27.9472868,
-      "lon": 153.3521223,
+      "lat": -27.9471575,
+      "lon": 153.3521398,
       "trading_hours": {
         "MON": {
           "open": "00:00",
@@ -125089,8 +125089,8 @@
         "postcode": "4216",
         "country": "Australia"
       },
-      "lat": -27.93141398,
-      "lon": 153.38777709,
+      "lat": -27.9331133,
+      "lon": 153.3882749,
       "trading_hours": {
         "MON": {
           "open": "00:00",
@@ -127994,8 +127994,8 @@
         "postcode": "4280",
         "country": "Australia"
       },
-      "lat": -27.80928801,
-      "lon": 152.94994807,
+      "lat": -27.80885338,
+      "lon": 152.9494654,
       "trading_hours": {
         "MON": {
           "open": "00:00",
@@ -132468,8 +132468,8 @@
         "postcode": "4350",
         "country": "Australia"
       },
-      "lat": -27.56471955,
-      "lon": 151.9140786,
+      "lat": -27.56472373,
+      "lon": 151.914197,
       "trading_hours": {
         "MON": {
           "open": "00:00",
@@ -140847,8 +140847,8 @@
         "postcode": "4510",
         "country": "Australia"
       },
-      "lat": -27.04182809,
-      "lon": 152.97607926,
+      "lat": -27.0419481,
+      "lon": 152.9745952,
       "trading_hours": {
         "MON": {
           "open": "00:00",
@@ -144758,8 +144758,8 @@
         "postcode": "4566",
         "country": "Australia"
       },
-      "lat": -26.41544799,
-      "lon": 153.04929736,
+      "lat": -26.41424203,
+      "lon": 153.049316,
       "trading_hours": {
         "MON": {
           "open": "00:00",
@@ -160131,7 +160131,7 @@
         "country": "Australia"
       },
       "lat": -19.20148304,
-      "lon": 146.5836364,
+      "lon": 146.58363638,
       "trading_hours": {
         "MON": {
           "open": "08:30",
@@ -169289,8 +169289,8 @@
         "postcode": "5000",
         "country": "Australia"
       },
-      "lat": -34.92346252,
-      "lon": 138.60214836,
+      "lat": -34.92327488,
+      "lon": 138.6021514,
       "trading_hours": {
         "MON": {
           "open": "00:00",
@@ -171207,8 +171207,8 @@
         "postcode": "5022",
         "country": "Australia"
       },
-      "lat": -34.90754575,
-      "lon": 138.50511458,
+      "lat": -34.90732794,
+      "lon": 138.505112,
       "trading_hours": {
         "MON": {
           "open": "00:00",
@@ -178269,8 +178269,8 @@
         "postcode": "5111",
         "country": "Australia"
       },
-      "lat": -34.72781657,
-      "lon": 138.64930986,
+      "lat": -34.72403601,
+      "lon": 138.6413083,
       "trading_hours": {
         "MON": {
           "open": "00:00",
@@ -179565,8 +179565,8 @@
         "postcode": "5120",
         "country": "Australia"
       },
-      "lat": -34.6540827,
-      "lon": 138.54008079,
+      "lat": -34.65386611,
+      "lon": 138.5400236,
       "trading_hours": {
         "MON": {
           "open": "00:00",
@@ -185008,8 +185008,8 @@
         "postcode": "5242",
         "country": "Australia"
       },
-      "lat": -34.99391617,
-      "lon": 138.82170507,
+      "lat": -34.99377326,
+      "lon": 138.821649,
       "trading_hours": {
         "MON": {
           "open": "00:00",
@@ -186202,8 +186202,8 @@
         "postcode": "5255",
         "country": "Australia"
       },
-      "lat": -35.29572842,
-      "lon": 139.03639547,
+      "lat": -35.29593858,
+      "lon": 139.0365171,
       "trading_hours": {
         "MON": {
           "open": "09:00",
@@ -195289,8 +195289,8 @@
         "postcode": "5501",
         "country": "Australia"
       },
-      "lat": -34.59672414,
-      "lon": 138.51657534,
+      "lat": -34.59639967,
+      "lon": 138.5161617,
       "trading_hours": {
         "MON": {
           "open": "00:00",
@@ -219829,8 +219829,8 @@
         "postcode": "3029",
         "country": "Australia"
       },
-      "lat": -37.87553072,
-      "lon": 144.71597483,
+      "lat": -37.87431125,
+      "lon": 144.715991,
       "trading_hours": {
         "MON": {
           "open": "00:00",
@@ -221442,8 +221442,8 @@
         "postcode": "3030",
         "country": "Australia"
       },
-      "lat": -37.9323773,
-      "lon": 144.67709729,
+      "lat": -37.93103616,
+      "lon": 144.6777641,
       "trading_hours": {
         "MON": {
           "open": "00:00",
@@ -221802,8 +221802,8 @@
         "postcode": "3032",
         "country": "Australia"
       },
-      "lat": -37.77569659,
-      "lon": 144.92314805,
+      "lat": -37.77550001,
+      "lon": 144.9231967,
       "trading_hours": {
         "MON": {
           "open": "00:00",
@@ -228943,8 +228943,8 @@
         "postcode": "3073",
         "country": "Australia"
       },
-      "lat": -37.699389,
-      "lon": 144.995815,
+      "lat": -37.69921937,
+      "lon": 144.9956355,
       "trading_hours": {
         "MON": {
           "open": "00:00",
@@ -229834,8 +229834,8 @@
         "postcode": "3075",
         "country": "Australia"
       },
-      "lat": -37.67373077,
-      "lon": 145.01695887,
+      "lat": -37.67359574,
+      "lon": 145.0169989,
       "trading_hours": {
         "MON": {
           "open": "00:00",
@@ -236768,8 +236768,8 @@
         "postcode": "3128",
         "country": "Australia"
       },
-      "lat": -37.81839735,
-      "lon": 145.11891571,
+      "lat": -37.81813819,
+      "lon": 145.1189269,
       "trading_hours": {
         "MON": {
           "open": "00:00",
@@ -239137,8 +239137,8 @@
         "postcode": "3136",
         "country": "Australia"
       },
-      "lat": -37.79305038,
-      "lon": 145.27929173,
+      "lat": -37.7936442,
+      "lon": 145.2787334,
       "trading_hours": {
         "MON": {
           "open": "00:00",
@@ -243234,8 +243234,8 @@
         "postcode": "3155",
         "country": "Australia"
       },
-      "lat": -37.86231049,
-      "lon": 145.28472309,
+      "lat": -37.86211951,
+      "lon": 145.2846924,
       "trading_hours": {
         "MON": {
           "open": "00:00",
@@ -243974,8 +243974,8 @@
         "postcode": "3161",
         "country": "Australia"
       },
-      "lat": -37.8758917,
-      "lon": 145.037219,
+      "lat": -37.87544122,
+      "lon": 145.0383252,
       "trading_hours": {
         "MON": {
           "open": "00:00",
@@ -250580,8 +250580,8 @@
         "postcode": "3195",
         "country": "Australia"
       },
-      "lat": -38.02168977,
-      "lon": 145.11745376,
+      "lat": -38.02248898,
+      "lon": 145.1177303,
       "trading_hours": {
         "MON": {
           "open": "00:00",
@@ -259161,8 +259161,8 @@
         "postcode": "3280",
         "country": "Australia"
       },
-      "lat": -38.38264668,
-      "lon": 142.51903479,
+      "lat": -38.38236578,
+      "lon": 142.5182751,
       "trading_hours": {
         "MON": {
           "open": "00:00",
@@ -267305,8 +267305,8 @@
         "postcode": "3434",
         "country": "Australia"
       },
-      "lat": -37.35731538,
-      "lon": 144.74315509,
+      "lat": -37.35710603,
+      "lon": 144.7430947,
       "trading_hours": {
         "MON": {
           "open": "00:00",
@@ -270689,8 +270689,8 @@
         "postcode": "3500",
         "country": "Australia"
       },
-      "lat": -34.20903582,
-      "lon": 142.13966767,
+      "lat": -34.20870667,
+      "lon": 142.139981,
       "trading_hours": {
         "MON": {
           "open": "00:00",
@@ -277785,8 +277785,8 @@
         "postcode": "3630",
         "country": "Australia"
       },
-      "lat": -36.38793796,
-      "lon": 145.42350421,
+      "lat": -36.38795667,
+      "lon": 145.4241682,
       "trading_hours": {
         "MON": {
           "open": "00:00",
@@ -289079,8 +289079,8 @@
         "postcode": "3812",
         "country": "Australia"
       },
-      "lat": -38.08108351,
-      "lon": 145.57007712,
+      "lat": -38.0811,
+      "lon": 145.5701,
       "trading_hours": {
         "MON": {
           "open": "00:00",
@@ -291084,8 +291084,8 @@
         "postcode": "3840",
         "country": "Australia"
       },
-      "lat": -38.23671442,
-      "lon": 146.39907162,
+      "lat": -38.2364902,
+      "lon": 146.3990675,
       "trading_hours": {
         "MON": {
           "open": "00:00",
@@ -295147,8 +295147,8 @@
         "postcode": "3910",
         "country": "Australia"
       },
-      "lat": -38.14352857,
-      "lon": 145.17594219,
+      "lat": -38.14402059,
+      "lon": 145.1757405,
       "trading_hours": {
         "MON": {
           "open": "00:00",
@@ -297087,8 +297087,8 @@
       "phone": "1800 422 406",
       "fax": null,
       "address": {
-        "line1": "1130-1134 Nepean Hwy",
-        "line2": null,
+        "line1": "Homeco Peninsula Shopping Mall",
+        "line2": "1130-1134 Nepean Hwy",
         "suburb": "MORNINGTON",
         "state": "VIC",
         "postcode": "3931",
@@ -306849,8 +306849,8 @@
         "postcode": "6038",
         "country": "Australia"
       },
-      "lat": -31.62804848,
-      "lon": 115.6918939,
+      "lat": -31.62802273,
+      "lon": 115.6918402,
       "trading_hours": {
         "MON": {
           "open": "00:00",
@@ -307481,8 +307481,8 @@
         "postcode": "6051",
         "country": "Australia"
       },
-      "lat": -31.92927,
-      "lon": 115.89308,
+      "lat": -31.92920677,
+      "lon": 115.8929996,
       "trading_hours": {
         "MON": {
           "open": "00:00",
@@ -310726,8 +310726,8 @@
         "postcode": "6065",
         "country": "Australia"
       },
-      "lat": -31.76907448,
-      "lon": 115.81922967,
+      "lat": -31.76875225,
+      "lon": 115.8192405,
       "trading_hours": {
         "MON": {
           "open": "00:00",
@@ -312801,8 +312801,8 @@
         "postcode": "6102",
         "country": "Australia"
       },
-      "lat": -32.00171652,
-      "lon": 115.92067694,
+      "lat": -32.00128704,
+      "lon": 115.9208274,
       "trading_hours": {
         "MON": {
           "open": "00:00",
@@ -314222,8 +314222,8 @@
         "postcode": "6109",
         "country": "Australia"
       },
-      "lat": -32.05306,
-      "lon": 115.97833,
+      "lat": -32.05388593,
+      "lon": 115.97820596,
       "trading_hours": {
         "MON": {
           "open": "00:00",
@@ -320533,8 +320533,8 @@
         "postcode": "6208",
         "country": "Australia"
       },
-      "lat": -32.62857329,
-      "lon": 115.87370933,
+      "lat": -32.62855898,
+      "lon": 115.87323653,
       "trading_hours": {
         "MON": {
           "open": "00:00",
@@ -326216,59 +326216,6 @@
         "TRAVEL_INSURANCE",
         "WESTERN_UNION_MONEY_TRANSFER",
         "WORKING_WITH_CHILDREN_CHECK_WA"
-      ]
-    },
-    {
-      "id": "660033_PO",
-      "type": "PO",
-      "name": "Arthur River CPA",
-      "phone": "0419 699 485",
-      "fax": null,
-      "address": {
-        "line1": "16949 Albany Hwy",
-        "line2": null,
-        "suburb": "ARTHUR RIVER",
-        "state": "WA",
-        "postcode": "6315",
-        "country": "Australia"
-      },
-      "lat": -33.33787915,
-      "lon": 117.03443918,
-      "trading_hours": {
-        "MON": {
-          "open": "06:00",
-          "close": "18:00"
-        },
-        "TUE": {
-          "open": "06:00",
-          "close": "18:00"
-        },
-        "WED": {
-          "open": "06:00",
-          "close": "18:00"
-        },
-        "THU": {
-          "open": "06:00",
-          "close": "18:00"
-        },
-        "FRI": {
-          "open": "06:00",
-          "close": "18:00"
-        },
-        "SAT": {
-          "open": "06:00",
-          "close": "18:00"
-        },
-        "SUN": {
-          "open": "06:00",
-          "close": "18:00"
-        }
-      },
-      "services": [
-        "OPEN_AFTER_500PM_WEEKDAYS",
-        "OPEN_BEFORE_900AM_WEEKDAYS",
-        "OPEN_SATURDAY",
-        "PARCEL_COLLECT"
       ]
     },
     {
@@ -337022,8 +336969,8 @@
         "postcode": "6701",
         "country": "Australia"
       },
-      "lat": -24.88325163,
-      "lon": 113.65666317,
+      "lat": -24.88320032,
+      "lon": 113.656632,
       "trading_hours": {
         "MON": {
           "open": "00:00",
