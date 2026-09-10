@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T08:15:30Z",
+  "generated_at": "2026-09-10T08:13:12Z",
   "source": "https://digitalapi.auspost.com.au/locations-private/v3/workcentres",
   "count": 5688,
   "count_by_type": {
@@ -29406,8 +29406,8 @@
       "id": "248268_PO",
       "type": "PO",
       "name": "West Hoxton Post Office",
-      "phone": "(02) 9607 9020",
-      "fax": "(02)9825 0746",
+      "phone": "13 13 18",
+      "fax": "(02)8212 8176",
       "address": {
         "line1": "204-208 Fifteenth Ave",
         "line2": null,
@@ -174873,23 +174873,23 @@
       "trading_hours": {
         "MON": {
           "open": "08:30",
-          "close": "17:30"
+          "close": "17:00"
         },
         "TUE": {
           "open": "08:30",
-          "close": "17:30"
+          "close": "17:00"
         },
         "WED": {
           "open": "08:30",
-          "close": "17:30"
+          "close": "17:00"
         },
         "THU": {
           "open": "08:30",
-          "close": "17:30"
+          "close": "17:00"
         },
         "FRI": {
           "open": "08:30",
-          "close": "17:30"
+          "close": "17:00"
         },
         "SAT": {
           "open": "09:00",
@@ -201125,7 +201125,7 @@
       "phone": "1800 422 406",
       "fax": null,
       "address": {
-        "line1": "94 Davey St",
+        "line1": "96-120 Davey St",
         "line2": null,
         "suburb": "HOBART",
         "state": "TAS",
@@ -232565,7 +232565,7 @@
         },
         "SAT": {
           "open": "09:00",
-          "close": "14:00"
+          "close": "13:00"
         },
         "SUN": null
       },
@@ -279356,7 +279356,7 @@
       "fax": null,
       "address": {
         "line1": "Shop 11",
-        "line2": "11 Labuan St",
+        "line2": "1 Labuan St",
         "suburb": "PUCKAPUNYAL",
         "state": "VIC",
         "postcode": "3662",
@@ -279406,7 +279406,7 @@
       "fax": "(03)5793 1300",
       "address": {
         "line1": "Shop 11",
-        "line2": "11 Labuan St",
+        "line2": "1 Labuan St",
         "suburb": "PUCKAPUNYAL",
         "state": "VIC",
         "postcode": "3662",
@@ -308206,6 +308206,7 @@
         "OPEN_SATURDAY",
         "PARCEL_COLLECT",
         "POST_BILL_PAY",
+        "PO_BOXES_AVAILABLE",
         "PO_BOXES_INSTALLED",
         "RETURNS_PRINT_AT_POST",
         "TRAVEL_INSURANCE",
