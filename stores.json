@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-11T08:09:08Z",
+  "generated_at": "2026-09-12T08:01:30Z",
   "source": "https://digitalapi.auspost.com.au/locations-private/v3/workcentres",
-  "count": 5687,
+  "count": 5691,
   "count_by_type": {
-    "PO": 4128,
+    "PO": 4132,
     "UPL": 1433,
     "OS": 89,
     "DC": 37
@@ -45297,8 +45297,8 @@
       "id": "237702_PO",
       "type": "PO",
       "name": "Lemon Tree Passage Post Office",
-      "phone": "(02) 4982 4112",
-      "fax": "(02)4982 4112",
+      "phone": "0401076211",
+      "fax": null,
       "address": {
         "line1": "U 1",
         "line2": "17 Cook Pde",
@@ -45424,6 +45424,72 @@
         "PO_BOXES_INSTALLED",
         "QLD_SECURITY_CLEARANCE_CARD",
         "QLD_WEAPONS_LICENSING",
+        "RETURNS_PRINT_AT_POST",
+        "TRAVEL_INSURANCE"
+      ]
+    },
+    {
+      "id": "241357_PO",
+      "type": "PO",
+      "name": "Maitland North Post Office",
+      "phone": "(02) 4933 6590",
+      "fax": null,
+      "address": {
+        "line1": "20-22 Belmore Rd",
+        "line2": null,
+        "suburb": "LORN",
+        "state": "NSW",
+        "postcode": "2320",
+        "country": "Australia"
+      },
+      "lat": -32.72832015,
+      "lon": 151.55708183,
+      "trading_hours": {
+        "MON": {
+          "open": "09:00",
+          "close": "17:00"
+        },
+        "TUE": {
+          "open": "09:00",
+          "close": "17:00"
+        },
+        "WED": {
+          "open": "09:00",
+          "close": "17:00"
+        },
+        "THU": {
+          "open": "09:00",
+          "close": "17:00"
+        },
+        "FRI": {
+          "open": "09:00",
+          "close": "17:00"
+        },
+        "SAT": {
+          "open": "09:00",
+          "close": "12:00"
+        },
+        "SUN": null
+      },
+      "services": [
+        "100_POINT_CHECK_VERIFICATION",
+        "AUSTRALIAN_PASSPORT",
+        "AUSTRALIA_POST_EVERYDAY_MASTERCARD",
+        "AUSTRALIA_POST_GIFT_CARD_MASTERCARD",
+        "AUSTRALIA_POST_TRAVEL_PLATINUM_MASTERCARD",
+        "BANK_AT_POST",
+        "FOREIGN_CURRENCY",
+        "IDENTITY_VERIFICATION_FORM_REQUEST",
+        "INSTANT_PASSPORT_AND_ID_PHOTOS",
+        "MONEY_ORDER",
+        "NATIONAL_POLICE_CERTIFICATE_APPLICATION_FORM_QLD",
+        "NATIONAL_POLICE_CERTIFICATE_APPLICATION_FORM_WA",
+        "OPEN_BEFORE_900AM_WEEKDAYS",
+        "OPEN_SATURDAY",
+        "PARCEL_COLLECT",
+        "POST_BILL_PAY",
+        "PO_BOXES_AVAILABLE",
+        "PO_BOXES_INSTALLED",
         "RETURNS_PRINT_AT_POST",
         "TRAVEL_INSURANCE"
       ]
@@ -67622,6 +67688,72 @@
       ]
     },
     {
+      "id": "268154_PO",
+      "type": "PO",
+      "name": "Gerringong Post Office",
+      "phone": "(02) 4234 1321",
+      "fax": "(02)4202 8873",
+      "address": {
+        "line1": "U 3",
+        "line2": "146-152 Fern St",
+        "suburb": "GERRINGONG",
+        "state": "NSW",
+        "postcode": "2534",
+        "country": "Australia"
+      },
+      "lat": -34.74796608,
+      "lon": 150.82766613,
+      "trading_hours": {
+        "MON": {
+          "open": "08:00",
+          "close": "17:00"
+        },
+        "TUE": {
+          "open": "08:00",
+          "close": "17:00"
+        },
+        "WED": {
+          "open": "08:00",
+          "close": "17:00"
+        },
+        "THU": {
+          "open": "08:00",
+          "close": "17:00"
+        },
+        "FRI": {
+          "open": "08:00",
+          "close": "17:00"
+        },
+        "SAT": {
+          "open": "08:00",
+          "close": "13:00"
+        },
+        "SUN": null
+      },
+      "services": [
+        "100_POINT_CHECK_VERIFICATION",
+        "AUSTRALIAN_PASSPORT",
+        "AUSTRALIA_POST_EVERYDAY_MASTERCARD",
+        "AUSTRALIA_POST_GIFT_CARD_MASTERCARD",
+        "AUSTRALIA_POST_TRAVEL_PLATINUM_MASTERCARD",
+        "BANK_AT_POST",
+        "FOREIGN_CURRENCY",
+        "IDENTITY_VERIFICATION_FORM_REQUEST",
+        "MONEY_ORDER",
+        "NATIONAL_POLICE_CERTIFICATE_APPLICATION_FORM_QLD",
+        "NATIONAL_POLICE_CERTIFICATE_APPLICATION_FORM_WA",
+        "OPEN_BEFORE_900AM_WEEKDAYS",
+        "OPEN_SATURDAY",
+        "PARCEL_COLLECT",
+        "POST_BILL_PAY",
+        "PO_BOXES_AVAILABLE",
+        "PO_BOXES_INSTALLED",
+        "RETURNS_PRINT_AT_POST",
+        "TRAVEL_INSURANCE",
+        "WESTERN_UNION_MONEY_TRANSFER"
+      ]
+    },
+    {
       "id": "250288_PO",
       "type": "PO",
       "name": "Berry Post Office",
@@ -75782,7 +75914,7 @@
       "id": "246879_PO",
       "type": "PO",
       "name": "Gunning Post Office",
-      "phone": "(08) 4845 1199",
+      "phone": "(02) 4845 1199",
       "fax": "(02)4845 1199",
       "address": {
         "line1": "90 Yass St",
@@ -93420,7 +93552,6 @@
         "OPEN_BEFORE_900AM_WEEKDAYS",
         "PARCEL_COLLECT",
         "POST_BILL_PAY",
-        "PO_BOXES_AVAILABLE",
         "PO_BOXES_INSTALLED",
         "RETURNS_PRINT_AT_POST",
         "TRAVEL_INSURANCE"
@@ -107568,7 +107699,7 @@
       "id": "426343_PO",
       "type": "PO",
       "name": "Taigum Post Office",
-      "phone": "(03) 13 13 18",
+      "phone": "13 13 18",
       "fax": "(07)3865 4687",
       "address": {
         "line1": "Taigum Square",
@@ -157644,7 +157775,7 @@
       "id": "421008_PO",
       "type": "PO",
       "name": "MERINDA CPA",
-      "phone": "(07) 0439 606 212",
+      "phone": "0439 606 212",
       "fax": "(07)4785 2191",
       "address": {
         "line1": "19350 Bruce Hwy",
@@ -194115,6 +194246,7 @@
         "OPEN_BEFORE_900AM_WEEKDAYS",
         "PARCEL_COLLECT",
         "POST_BILL_PAY",
+        "PO_BOXES_AVAILABLE",
         "PO_BOXES_INSTALLED",
         "QLD_SECURITY_CLEARANCE_CARD",
         "QLD_WEAPONS_LICENSING",
@@ -206283,8 +206415,7 @@
         "PO_BOXES_AVAILABLE",
         "PO_BOXES_INSTALLED",
         "RETURNS_PRINT_AT_POST",
-        "TRAVEL_INSURANCE",
-        "WESTERN_UNION_MONEY_TRANSFER"
+        "TRAVEL_INSURANCE"
       ]
     },
     {
@@ -208221,6 +208352,72 @@
       },
       "services": [
         "PARCEL_COLLECT"
+      ]
+    },
+    {
+      "id": "735568_PO",
+      "type": "PO",
+      "name": "Newstead Post Office",
+      "phone": "13 13 18",
+      "fax": "(03)6331 7561",
+      "address": {
+        "line1": "165a-167 Elphin Rd",
+        "line2": null,
+        "suburb": "NEWSTEAD",
+        "state": "TAS",
+        "postcode": "7250",
+        "country": "Australia"
+      },
+      "lat": -41.44127967,
+      "lon": 147.16142899,
+      "trading_hours": {
+        "MON": {
+          "open": "08:00",
+          "close": "18:00"
+        },
+        "TUE": {
+          "open": "08:00",
+          "close": "18:00"
+        },
+        "WED": {
+          "open": "08:00",
+          "close": "18:00"
+        },
+        "THU": {
+          "open": "08:00",
+          "close": "18:00"
+        },
+        "FRI": {
+          "open": "08:00",
+          "close": "18:00"
+        },
+        "SAT": {
+          "open": "08:30",
+          "close": "13:00"
+        },
+        "SUN": null
+      },
+      "services": [
+        "100_POINT_CHECK_VERIFICATION",
+        "AUSTRALIA_POST_EVERYDAY_MASTERCARD",
+        "AUSTRALIA_POST_GIFT_CARD_MASTERCARD",
+        "AUSTRALIA_POST_TRAVEL_PLATINUM_MASTERCARD",
+        "BANK_AT_POST",
+        "FOREIGN_CURRENCY",
+        "IDENTITY_VERIFICATION_FORM_REQUEST",
+        "MONEY_ORDER",
+        "NATIONAL_POLICE_CERTIFICATE_APPLICATION_FORM_QLD",
+        "NATIONAL_POLICE_CERTIFICATE_APPLICATION_FORM_WA",
+        "OPEN_AFTER_500PM_WEEKDAYS",
+        "OPEN_BEFORE_900AM_WEEKDAYS",
+        "OPEN_SATURDAY",
+        "PARCEL_COLLECT",
+        "POST_BILL_PAY",
+        "PO_BOXES_AVAILABLE",
+        "PO_BOXES_INSTALLED",
+        "RETURNS_PRINT_AT_POST",
+        "TRAVEL_INSURANCE",
+        "WESTERN_UNION_MONEY_TRANSFER"
       ]
     },
     {
@@ -214504,8 +214701,7 @@
       "services": [
         "OPEN_AFTER_500PM_WEEKDAYS",
         "OPEN_BEFORE_900AM_WEEKDAYS",
-        "OPEN_SATURDAY",
-        "PARCEL_COLLECT"
+        "OPEN_SATURDAY"
       ]
     },
     {
@@ -214947,7 +215143,6 @@
         "MONEY_ORDER",
         "NATIONAL_POLICE_CERTIFICATE_APPLICATION_FORM_QLD",
         "NATIONAL_POLICE_CERTIFICATE_APPLICATION_FORM_WA",
-        "OPEN_BEFORE_900AM_WEEKDAYS",
         "PARCEL_COLLECT",
         "POST_BILL_PAY",
         "PO_BOXES_AVAILABLE",
@@ -284295,7 +284490,7 @@
       "id": "375961_PO",
       "type": "PO",
       "name": "ELDORADO CPA",
-      "phone": "5725 1778",
+      "phone": "(03) 5725 1778",
       "fax": null,
       "address": {
         "line1": "39 Mackay St",
@@ -308151,7 +308346,6 @@
         "OPEN_SATURDAY",
         "PARCEL_COLLECT",
         "POST_BILL_PAY",
-        "PO_BOXES_AVAILABLE",
         "PO_BOXES_INSTALLED",
         "RETURNS_PRINT_AT_POST",
         "TRAVEL_INSURANCE",
@@ -317127,6 +317321,84 @@
       },
       "services": [
         "PARCEL_COLLECT"
+      ]
+    },
+    {
+      "id": "644113_PO",
+      "type": "PO",
+      "name": "Willetton Post Office",
+      "phone": "13 13 18",
+      "fax": "(08)6253 6429",
+      "address": {
+        "line1": "Southlands Boul",
+        "line2": "Shop 57",
+        "suburb": "WILLETTON",
+        "state": "WA",
+        "postcode": "6155",
+        "country": "Australia"
+      },
+      "lat": -32.05771743,
+      "lon": 115.87995338,
+      "trading_hours": {
+        "MON": {
+          "open": "09:00",
+          "close": "17:00"
+        },
+        "TUE": {
+          "open": "09:00",
+          "close": "17:00"
+        },
+        "WED": {
+          "open": "09:00",
+          "close": "17:00"
+        },
+        "THU": {
+          "open": "09:00",
+          "close": "17:00"
+        },
+        "FRI": {
+          "open": "09:00",
+          "close": "17:00"
+        },
+        "SAT": null,
+        "SUN": null
+      },
+      "services": [
+        "100_POINT_CHECK_VERIFICATION",
+        "ATO_INDIVIDUAL_TFN_SERVICES",
+        "AUSTRALIAN_PASSPORT",
+        "AUSTRALIA_POST_EVERYDAY_MASTERCARD",
+        "AUSTRALIA_POST_GIFT_CARD_MASTERCARD",
+        "AUSTRALIA_POST_TRAVEL_PLATINUM_MASTERCARD",
+        "BANKWEST_ID_VERIFICATION",
+        "BANK_AT_POST",
+        "COUNTRY_AGE_PENSION_FUEL_CARD_WA",
+        "DANGEROUS_GOODS_SECURITY_CARD_WA",
+        "DEPARTMENT_OF_RACING_GAMING_AND_LIQUOR_WA",
+        "FOREIGN_CURRENCY",
+        "IDENTITY_VERIFICATION_FORM_REQUEST",
+        "ID_PHOTOS_EMAIL_DIGITAL_COPY",
+        "INSTANT_PASSPORT_AND_ID_PHOTOS",
+        "INTERNATIONAL_COURIER",
+        "LAND_TITLE_ID_CHECK_EXPRESS_SERVICE",
+        "MARITIME_SECURITY_IDENTITY_CARD",
+        "ME_BANK",
+        "MONEY_ORDER",
+        "NATIONAL_POLICE_CERTIFICATE_APPLICATION_FORM_QLD",
+        "NATIONAL_POLICE_CERTIFICATE_APPLICATION_FORM_WA",
+        "OPEN_BEFORE_900AM_WEEKDAYS",
+        "PARCEL_COLLECT",
+        "PARCEL_PICKUP_OUTSIDE_STANDARD_HOURS",
+        "PHOTOPOINT_DRIVERS_LICENCE_ONLY",
+        "POST_BILL_PAY",
+        "PO_BOXES_AVAILABLE",
+        "PO_BOXES_INSTALLED",
+        "QLD_SECURITY_CLEARANCE_CARD",
+        "QLD_WEAPONS_LICENSING",
+        "RETURNS_PRINT_AT_POST",
+        "TRAVEL_INSURANCE",
+        "WESTERN_UNION_MONEY_TRANSFER",
+        "WORKING_WITH_CHILDREN_CHECK_WA"
       ]
     },
     {
@@ -329353,6 +329625,7 @@
         "OPEN_BEFORE_900AM_WEEKDAYS",
         "PARCEL_COLLECT",
         "POST_BILL_PAY",
+        "PO_BOXES_AVAILABLE",
         "PO_BOXES_INSTALLED",
         "QLD_SECURITY_CLEARANCE_CARD",
         "QLD_WEAPONS_LICENSING",
