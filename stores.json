@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T08:01:30Z",
+  "generated_at": "2026-09-13T08:24:01Z",
   "source": "https://digitalapi.auspost.com.au/locations-private/v3/workcentres",
   "count": 5691,
   "count_by_type": {
@@ -186279,7 +186279,6 @@
       },
       "services": [
         "OPEN_BEFORE_900AM_WEEKDAYS",
-        "OPEN_SATURDAY",
         "PARCEL_COLLECT"
       ]
     },
@@ -188438,7 +188437,6 @@
         "NATIONAL_POLICE_CERTIFICATE_APPLICATION_FORM_QLD",
         "NATIONAL_POLICE_CERTIFICATE_APPLICATION_FORM_WA",
         "OPEN_BEFORE_900AM_WEEKDAYS",
-        "OPEN_SATURDAY",
         "PARCEL_COLLECT",
         "PARCEL_PICKUP_OUTSIDE_STANDARD_HOURS",
         "POST_BILL_PAY",
