@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T08:45:29Z",
+  "generated_at": "2026-09-16T08:41:40Z",
   "source": "https://digitalapi.auspost.com.au/locations-private/v3/workcentres",
   "count": 5691,
   "count_by_type": {
@@ -47245,26 +47245,29 @@
       "lon": 150.35497635,
       "trading_hours": {
         "MON": {
-          "open": "14:30",
+          "open": "09:00",
           "close": "17:00"
         },
         "TUE": {
-          "open": "14:30",
+          "open": "09:00",
           "close": "17:00"
         },
         "WED": {
-          "open": "14:30",
+          "open": "09:00",
           "close": "17:00"
         },
         "THU": {
-          "open": "14:30",
+          "open": "09:00",
           "close": "17:00"
         },
         "FRI": {
-          "open": "14:30",
+          "open": "09:00",
           "close": "17:00"
         },
-        "SAT": null,
+        "SAT": {
+          "open": "09:00",
+          "close": "12:00"
+        },
         "SUN": null
       },
       "services": [
@@ -47280,6 +47283,7 @@
         "NATIONAL_POLICE_CERTIFICATE_APPLICATION_FORM_QLD",
         "NATIONAL_POLICE_CERTIFICATE_APPLICATION_FORM_WA",
         "OPEN_BEFORE_900AM_WEEKDAYS",
+        "OPEN_SATURDAY",
         "PARCEL_COLLECT",
         "POST_BILL_PAY",
         "PO_BOXES_AVAILABLE",
@@ -99487,7 +99491,7 @@
       "phone": "13 13 18",
       "fax": "(08)8943 7026",
       "address": {
-        "line1": "354 Stuart Hwy",
+        "line1": "352 Stuart Hwy",
         "line2": null,
         "suburb": "WINNELLIE",
         "state": "NT",
@@ -99564,7 +99568,7 @@
       "phone": "1800 422 406",
       "fax": null,
       "address": {
-        "line1": "354 Stuart Hwy",
+        "line1": "352 Stuart Hwy",
         "line2": null,
         "suburb": "WINNELLIE",
         "state": "NT",
@@ -109517,7 +109521,7 @@
       "phone": "1800 422 406",
       "fax": null,
       "address": {
-        "line1": "Gallipoli (Barracks) Enoggera",
+        "line1": "Gallipoli Army Barracks",
         "line2": "300 Samford Rd",
         "suburb": "ENOGGERA",
         "state": "QLD",
@@ -110906,7 +110910,7 @@
       "phone": "(07) 3300 5380",
       "fax": "(07)3300 5380",
       "address": {
-        "line1": "The Gap Village",
+        "line1": "The Gap Village Shopping Centre",
         "line2": "Shop 38a",
         "suburb": "THE GAP",
         "state": "QLD",
@@ -139906,7 +139910,7 @@
       "phone": "13 13 18",
       "fax": "(07)3002 5000",
       "address": {
-        "line1": "Morayfield S/c",
+        "line1": "Morayfield Shopping Centre",
         "line2": "Shop 82",
         "suburb": "MORAYFIELD",
         "state": "QLD",
@@ -139977,7 +139981,7 @@
       "phone": "1800 422 406",
       "fax": null,
       "address": {
-        "line1": "Morayfield S/c",
+        "line1": "Morayfield Shopping Centre",
         "line2": "Shop 82",
         "suburb": "MORAYFIELD",
         "state": "QLD",
@@ -160178,7 +160182,7 @@
         "country": "Australia"
       },
       "lat": -19.20148304,
-      "lon": 146.58363638,
+      "lon": 146.5836364,
       "trading_hours": {
         "MON": {
           "open": "08:30",
@@ -172891,7 +172895,6 @@
         "MONEY_ORDER",
         "NATIONAL_POLICE_CERTIFICATE_APPLICATION_FORM_QLD",
         "NATIONAL_POLICE_CERTIFICATE_APPLICATION_FORM_WA",
-        "OPEN_BEFORE_900AM_WEEKDAYS",
         "PARCEL_COLLECT",
         "POST_BILL_PAY",
         "PO_BOXES_AVAILABLE",
@@ -186249,8 +186252,8 @@
         "postcode": "5255",
         "country": "Australia"
       },
-      "lat": -35.29593858,
-      "lon": 139.0365171,
+      "lat": -35.29572842,
+      "lon": 139.03639547,
       "trading_hours": {
         "MON": {
           "open": "09:00",
@@ -231468,8 +231471,8 @@
       "phone": "1800 422 406",
       "fax": null,
       "address": {
-        "line1": "200 Greensborough Rd",
-        "line2": null,
+        "line1": "Simpson Army Barracks",
+        "line2": "200 Greensborough Rd",
         "suburb": "YALLAMBIE",
         "state": "VIC",
         "postcode": "3085",
@@ -282436,7 +282439,7 @@
       "type": "PO",
       "name": "Corryong Post Office",
       "phone": "13 13 18",
-      "fax": null,
+      "fax": "(02)6076 1351",
       "address": {
         "line1": "44 Hanson St",
         "line2": null,
@@ -296475,7 +296478,6 @@
         "OPEN_SATURDAY",
         "PARCEL_COLLECT",
         "POST_BILL_PAY",
-        "PO_BOXES_AVAILABLE",
         "PO_BOXES_INSTALLED",
         "RETURNS_PRINT_AT_POST",
         "TRAVEL_INSURANCE"
@@ -317412,7 +317414,7 @@
         "country": "Australia"
       },
       "lat": -32.05771743,
-      "lon": 115.8799534,
+      "lon": 115.87995338,
       "trading_hours": {
         "MON": {
           "open": "00:00",
@@ -329621,7 +329623,6 @@
         "OPEN_BEFORE_900AM_WEEKDAYS",
         "PARCEL_COLLECT",
         "POST_BILL_PAY",
-        "PO_BOXES_AVAILABLE",
         "PO_BOXES_INSTALLED",
         "QLD_SECURITY_CLEARANCE_CARD",
         "QLD_WEAPONS_LICENSING",
