@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-18T08:20:44Z",
+  "generated_at": "2026-09-19T08:07:28Z",
   "source": "https://digitalapi.auspost.com.au/locations-private/v3/workcentres",
-  "count": 5694,
+  "count": 5695,
   "count_by_type": {
-    "PO": 4132,
+    "PO": 4133,
     "UPL": 1436,
     "OS": 89,
     "DC": 37
@@ -44958,7 +44958,6 @@
         "OPEN_SATURDAY",
         "PARCEL_COLLECT",
         "POST_BILL_PAY",
-        "PO_BOXES_AVAILABLE",
         "PO_BOXES_INSTALLED",
         "RETURNS_PRINT_AT_POST",
         "TRAVEL_INSURANCE",
@@ -77858,8 +77857,8 @@
       "phone": "13 13 18",
       "fax": null,
       "address": {
-        "line1": "Ski Tube Building",
-        "line2": "Shop 4 Kosciuszko Road",
+        "line1": "Shop 4",
+        "line2": "9938 Kosciuszko Rd",
         "suburb": "PERISHER VALLEY",
         "state": "NSW",
         "postcode": "2624",
@@ -103234,8 +103233,8 @@
         "postcode": "0870",
         "country": "Australia"
       },
-      "lat": -23.69963624,
-      "lon": 133.8841155,
+      "lat": -23.701923,
+      "lon": 133.882456,
       "trading_hours": {
         "MON": {
           "open": "08:00",
@@ -134264,7 +134263,6 @@
         "OPEN_BEFORE_900AM_WEEKDAYS",
         "PARCEL_COLLECT",
         "POST_BILL_PAY",
-        "PO_BOXES_AVAILABLE",
         "PO_BOXES_INSTALLED",
         "QLD_SECURITY_CLEARANCE_CARD",
         "QLD_WEAPONS_LICENSING",
@@ -148923,6 +148921,7 @@
         "OPEN_SATURDAY",
         "PARCEL_COLLECT",
         "POST_BILL_PAY",
+        "PO_BOXES_AVAILABLE",
         "PO_BOXES_INSTALLED",
         "RETURNS_PRINT_AT_POST",
         "TRAVEL_INSURANCE",
@@ -194336,7 +194335,6 @@
         "OPEN_BEFORE_900AM_WEEKDAYS",
         "PARCEL_COLLECT",
         "POST_BILL_PAY",
-        "PO_BOXES_AVAILABLE",
         "PO_BOXES_INSTALLED",
         "QLD_SECURITY_CLEARANCE_CARD",
         "QLD_WEAPONS_LICENSING",
@@ -267860,6 +267858,54 @@
       ]
     },
     {
+      "id": "309091_PO",
+      "type": "PO",
+      "name": "NEWHAM CPA",
+      "phone": "13 13 18",
+      "fax": null,
+      "address": {
+        "line1": "2 Dons Rd",
+        "line2": null,
+        "suburb": "NEWHAM",
+        "state": "VIC",
+        "postcode": "3442",
+        "country": "Australia"
+      },
+      "lat": -37.31132406,
+      "lon": 144.59300715,
+      "trading_hours": {
+        "MON": {
+          "open": "08:30",
+          "close": "14:00"
+        },
+        "TUE": null,
+        "WED": {
+          "open": "08:30",
+          "close": "14:00"
+        },
+        "THU": {
+          "open": "08:30",
+          "close": "14:00"
+        },
+        "FRI": {
+          "open": "08:00",
+          "close": "15:00"
+        },
+        "SAT": {
+          "open": "08:00",
+          "close": "14:00"
+        },
+        "SUN": {
+          "open": "08:00",
+          "close": "14:00"
+        }
+      },
+      "services": [
+        "OPEN_BEFORE_900AM_WEEKDAYS",
+        "OPEN_SATURDAY"
+      ]
+    },
+    {
       "id": "332937_PO",
       "type": "PO",
       "name": "Woodend Post Office",
@@ -283258,7 +283304,6 @@
         "BANK_AT_POST",
         "NATIONAL_POLICE_CERTIFICATE_APPLICATION_FORM_QLD",
         "NATIONAL_POLICE_CERTIFICATE_APPLICATION_FORM_WA",
-        "OPEN_AFTER_500PM_WEEKDAYS",
         "OPEN_BEFORE_900AM_WEEKDAYS",
         "PARCEL_COLLECT",
         "POST_BILL_PAY",
@@ -293235,7 +293280,6 @@
         "MONEY_ORDER",
         "NATIONAL_POLICE_CERTIFICATE_APPLICATION_FORM_QLD",
         "NATIONAL_POLICE_CERTIFICATE_APPLICATION_FORM_WA",
-        "OPEN_AFTER_500PM_WEEKDAYS",
         "OPEN_BEFORE_900AM_WEEKDAYS",
         "OPEN_SATURDAY",
         "PARCEL_COLLECT",
@@ -293474,7 +293518,6 @@
         "MONEY_ORDER",
         "NATIONAL_POLICE_CERTIFICATE_APPLICATION_FORM_QLD",
         "NATIONAL_POLICE_CERTIFICATE_APPLICATION_FORM_WA",
-        "OPEN_AFTER_500PM_WEEKDAYS",
         "OPEN_BEFORE_900AM_WEEKDAYS",
         "OPEN_SATURDAY",
         "PARCEL_COLLECT",
@@ -309540,7 +309583,7 @@
       "fax": "(08)9212 5694",
       "address": {
         "line1": "Mirrabooka Sq S/c",
-        "line2": "Shop 90",
+        "line2": "Shop 57",
         "suburb": "MIRRABOOKA",
         "state": "WA",
         "postcode": "6061",
@@ -309622,7 +309665,7 @@
       "fax": null,
       "address": {
         "line1": "Mirrabooka Sq S/c",
-        "line2": "Shop 90",
+        "line2": "Shop 57",
         "suburb": "MIRRABOOKA",
         "state": "WA",
         "postcode": "6061",
@@ -315758,6 +315801,7 @@
         "OPEN_BEFORE_900AM_WEEKDAYS",
         "PARCEL_COLLECT",
         "POST_BILL_PAY",
+        "PO_BOXES_AVAILABLE",
         "PO_BOXES_INSTALLED",
         "RETURNS_PRINT_AT_POST",
         "TRAVEL_INSURANCE"
