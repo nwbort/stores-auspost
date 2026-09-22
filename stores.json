@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-20T08:40:26Z",
+  "generated_at": "2026-09-22T08:39:42Z",
   "source": "https://digitalapi.auspost.com.au/locations-private/v3/workcentres",
-  "count": 5695,
+  "count": 5699,
   "count_by_type": {
-    "PO": 4133,
-    "UPL": 1436,
+    "PO": 4134,
+    "UPL": 1439,
     "OS": 89,
     "DC": 37
   },
@@ -14521,6 +14521,7 @@
         "NATIONAL_POLICE_CERTIFICATE_APPLICATION_FORM_WA",
         "OPEN_BEFORE_900AM_WEEKDAYS",
         "PARCEL_COLLECT",
+        "PARCEL_PICKUP_OUTSIDE_STANDARD_HOURS",
         "POST_BILL_PAY",
         "PO_BOXES_AVAILABLE",
         "PO_BOXES_INSTALLED",
@@ -181167,6 +181168,7 @@
         "OPEN_SATURDAY",
         "PARCEL_COLLECT",
         "POST_BILL_PAY",
+        "PO_BOXES_AVAILABLE",
         "PO_BOXES_INSTALLED",
         "RETURNS_PRINT_AT_POST",
         "TRAVEL_INSURANCE"
@@ -222075,6 +222077,58 @@
       ]
     },
     {
+      "id": "367259_PO",
+      "type": "PO",
+      "name": "Highpoint Self Service",
+      "phone": "13 13 18",
+      "fax": null,
+      "address": {
+        "line1": "Highpoint Shopping Centre",
+        "line2": "120-200 Rosamond Rd",
+        "suburb": "MARIBYRNONG",
+        "state": "VIC",
+        "postcode": "3032",
+        "country": "Australia"
+      },
+      "lat": -37.77291133,
+      "lon": 144.88636926,
+      "trading_hours": {
+        "MON": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "TUE": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "WED": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "THU": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "FRI": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "SAT": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "SUN": {
+          "open": "00:00",
+          "close": "23:59"
+        }
+      },
+      "services": [
+        "OPEN_AFTER_500PM_WEEKDAYS",
+        "OPEN_BEFORE_900AM_WEEKDAYS",
+        "OPEN_SATURDAY"
+      ]
+    },
+    {
       "id": "335580_PO",
       "type": "PO",
       "name": "Keilor East Post Office",
@@ -262572,7 +262626,6 @@
         "OPEN_BEFORE_900AM_WEEKDAYS",
         "PARCEL_COLLECT",
         "POST_BILL_PAY",
-        "PO_BOXES_AVAILABLE",
         "PO_BOXES_INSTALLED",
         "RETURNS_PRINT_AT_POST",
         "TRAVEL_INSURANCE",
@@ -287889,6 +287942,56 @@
       ]
     },
     {
+      "id": "49571437_UPL",
+      "type": "UPL",
+      "name": "Narre Warren North Post Office Parcel Locker",
+      "phone": "1800 422 406",
+      "fax": null,
+      "address": {
+        "line1": "Shop 3",
+        "line2": "1 Oakview Bvd",
+        "suburb": "NARRE WARREN NORTH",
+        "state": "VIC",
+        "postcode": "3804",
+        "country": "Australia"
+      },
+      "lat": -37.98069401,
+      "lon": 145.3170756,
+      "trading_hours": {
+        "MON": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "TUE": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "WED": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "THU": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "FRI": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "SAT": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "SUN": {
+          "open": "00:00",
+          "close": "23:59"
+        }
+      },
+      "services": [
+        "PARCEL_COLLECT"
+      ]
+    },
+    {
       "id": "99677011_UPL",
       "type": "UPL",
       "name": "Casey Central Parcel Locker",
@@ -294394,7 +294497,6 @@
         "OPEN_BEFORE_900AM_WEEKDAYS",
         "PARCEL_COLLECT",
         "POST_BILL_PAY",
-        "PO_BOXES_AVAILABLE",
         "PO_BOXES_INSTALLED",
         "RETURNS_PRINT_AT_POST",
         "TRAVEL_INSURANCE"
@@ -294879,7 +294981,6 @@
         "OPEN_BEFORE_900AM_WEEKDAYS",
         "PARCEL_COLLECT",
         "POST_BILL_PAY",
-        "PO_BOXES_AVAILABLE",
         "PO_BOXES_INSTALLED",
         "QLD_SECURITY_CLEARANCE_CARD",
         "QLD_WEAPONS_LICENSING",
@@ -299095,6 +299196,56 @@
         "TRAVEL_INSURANCE",
         "WESTERN_UNION_MONEY_TRANSFER",
         "WORKING_WITH_CHILDREN_CHECK_VIC"
+      ]
+    },
+    {
+      "id": "97586349_UPL",
+      "type": "UPL",
+      "name": "Lynbrook BP Parcel Locker",
+      "phone": "1800 422 406",
+      "fax": null,
+      "address": {
+        "line1": "550 South Gippsland Hwy",
+        "line2": null,
+        "suburb": "LYNBROOK",
+        "state": "VIC",
+        "postcode": "3975",
+        "country": "Australia"
+      },
+      "lat": -38.04356372,
+      "lon": 145.2513787,
+      "trading_hours": {
+        "MON": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "TUE": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "WED": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "THU": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "FRI": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "SAT": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "SUN": {
+          "open": "00:00",
+          "close": "23:59"
+        }
+      },
+      "services": [
+        "PARCEL_COLLECT"
       ]
     },
     {
@@ -306815,6 +306966,56 @@
       },
       "lat": -31.638482,
       "lon": 115.692776,
+      "trading_hours": {
+        "MON": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "TUE": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "WED": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "THU": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "FRI": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "SAT": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "SUN": {
+          "open": "00:00",
+          "close": "23:59"
+        }
+      },
+      "services": [
+        "PARCEL_COLLECT"
+      ]
+    },
+    {
+      "id": "87205958_UPL",
+      "type": "UPL",
+      "name": "The Lukin Centre Parcel Locker",
+      "phone": "1800 422 406",
+      "fax": null,
+      "address": {
+        "line1": "2 Captiva App",
+        "line2": null,
+        "suburb": "BUTLER",
+        "state": "WA",
+        "postcode": "6036",
+        "country": "Australia"
+      },
+      "lat": -31.65268232,
+      "lon": 115.7133434,
       "trading_hours": {
         "MON": {
           "open": "00:00",
@@ -325479,7 +325680,6 @@
         "OPEN_BEFORE_900AM_WEEKDAYS",
         "PARCEL_COLLECT",
         "POST_BILL_PAY",
-        "PO_BOXES_AVAILABLE",
         "PO_BOXES_INSTALLED",
         "RETURNS_PRINT_AT_POST",
         "TRAVEL_INSURANCE"
