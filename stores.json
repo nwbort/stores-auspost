@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-22T08:39:42Z",
+  "generated_at": "2026-09-23T08:39:49Z",
   "source": "https://digitalapi.auspost.com.au/locations-private/v3/workcentres",
-  "count": 5699,
+  "count": 5700,
   "count_by_type": {
-    "PO": 4134,
-    "UPL": 1439,
+    "PO": 4133,
+    "UPL": 1441,
     "OS": 89,
     "DC": 37
   },
@@ -35795,56 +35795,6 @@
       ]
     },
     {
-      "id": "290431_PO",
-      "type": "PO",
-      "name": "Jannali CPA",
-      "phone": "(02) 9528 9335",
-      "fax": null,
-      "address": {
-        "line1": "547 Box Rd",
-        "line2": null,
-        "suburb": "JANNALI",
-        "state": "NSW",
-        "postcode": "2226",
-        "country": "Australia"
-      },
-      "lat": -34.01604534,
-      "lon": 151.06619952,
-      "trading_hours": {
-        "MON": {
-          "open": "08:30",
-          "close": "18:30"
-        },
-        "TUE": {
-          "open": "08:30",
-          "close": "18:30"
-        },
-        "WED": {
-          "open": "08:30",
-          "close": "18:30"
-        },
-        "THU": {
-          "open": "08:30",
-          "close": "18:30"
-        },
-        "FRI": {
-          "open": "08:30",
-          "close": "18:30"
-        },
-        "SAT": {
-          "open": "09:00",
-          "close": "13:30"
-        },
-        "SUN": null
-      },
-      "services": [
-        "OPEN_AFTER_500PM_WEEKDAYS",
-        "OPEN_BEFORE_900AM_WEEKDAYS",
-        "OPEN_SATURDAY",
-        "PARCEL_COLLECT"
-      ]
-    },
-    {
       "id": "268656_PO",
       "type": "PO",
       "name": "Gymea Post Office",
@@ -45492,8 +45442,8 @@
         "postcode": "2320",
         "country": "Australia"
       },
-      "lat": -32.72832015,
-      "lon": 151.55708183,
+      "lat": -32.72842426,
+      "lon": 151.55717599,
       "trading_hours": {
         "MON": {
           "open": "09:00",
@@ -67754,8 +67704,8 @@
         "postcode": "2534",
         "country": "Australia"
       },
-      "lat": -34.74796608,
-      "lon": 150.82766613,
+      "lat": -34.74789272,
+      "lon": 150.82715682,
       "trading_hours": {
         "MON": {
           "open": "08:00",
@@ -71024,12 +70974,7 @@
           "close": "19:00"
         }
       },
-      "services": [
-        "OPEN_AFTER_500PM_WEEKDAYS",
-        "OPEN_BEFORE_900AM_WEEKDAYS",
-        "OPEN_SATURDAY",
-        "PARCEL_COLLECT"
-      ]
+      "services": []
     },
     {
       "id": "84119685_UPL",
@@ -77016,6 +76961,56 @@
       },
       "lat": -35.385677,
       "lon": 149.20062,
+      "trading_hours": {
+        "MON": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "TUE": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "WED": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "THU": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "FRI": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "SAT": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "SUN": {
+          "open": "00:00",
+          "close": "23:59"
+        }
+      },
+      "services": [
+        "PARCEL_COLLECT"
+      ]
+    },
+    {
+      "id": "96165446_UPL",
+      "type": "UPL",
+      "name": "Jerrabomberra Village Parcel Locker",
+      "phone": "1800 422 406",
+      "fax": null,
+      "address": {
+        "line1": "2 Limestone Dr",
+        "line2": null,
+        "suburb": "JERRABOMBERRA",
+        "state": "NSW",
+        "postcode": "2619",
+        "country": "Australia"
+      },
+      "lat": -35.38103,
+      "lon": 149.200547,
       "trading_hours": {
         "MON": {
           "open": "00:00",
@@ -111212,7 +111207,7 @@
       "phone": "13 13 18",
       "fax": "(07)3011 4006",
       "address": {
-        "line1": "Paddington Central S/c",
+        "line1": "Paddington Central Shopping Centre",
         "line2": "Shop 23",
         "suburb": "PADDINGTON",
         "state": "QLD",
@@ -111282,7 +111277,7 @@
       "phone": "1800 422 406",
       "fax": null,
       "address": {
-        "line1": "Paddington Central S/c",
+        "line1": "Paddington Central Shopping Centre",
         "line2": "Shop 23",
         "suburb": "PADDINGTON",
         "state": "QLD",
@@ -119558,7 +119553,7 @@
       "phone": "13 13 18",
       "fax": "(07)3002 4607",
       "address": {
-        "line1": "Cleveland Central",
+        "line1": "Cleveland Central (Coles)",
         "line2": "Shop 85",
         "suburb": "CLEVELAND",
         "state": "QLD",
@@ -119635,7 +119630,7 @@
       "phone": "1800 422 406",
       "fax": null,
       "address": {
-        "line1": "Cleveland Central",
+        "line1": "Cleveland Central (Coles)",
         "line2": "Shop 85",
         "suburb": "CLEVELAND",
         "state": "QLD",
@@ -119685,7 +119680,7 @@
       "phone": "1800 422 406",
       "fax": null,
       "address": {
-        "line1": "Cleveland Shopping Centre",
+        "line1": "Cleveland Central (Woolworths)",
         "line2": "67-107 Middle St",
         "suburb": "CLEVELAND",
         "state": "QLD",
@@ -120211,7 +120206,7 @@
       "phone": "13 13 18",
       "fax": "(07)3899 5484",
       "address": {
-        "line1": "Cannon Hill Kmart Plaza",
+        "line1": "Cannon Hill Plaza",
         "line2": "Shop 22",
         "suburb": "CANNON HILL",
         "state": "QLD",
@@ -120286,7 +120281,7 @@
       "phone": "1800 422 406",
       "fax": null,
       "address": {
-        "line1": "Cannon Hill Kmart Plaza",
+        "line1": "Cannon Hill Plaza",
         "line2": "1909 Creek Rd",
         "suburb": "CANNON HILL",
         "state": "QLD",
@@ -121231,7 +121226,7 @@
       "fax": null,
       "address": {
         "line1": "Shop 11",
-        "line2": "216-222 Stratton Tce",
+        "line2": "222 Stratton Tce",
         "suburb": "MANLY",
         "state": "QLD",
         "postcode": "4179",
@@ -139613,6 +139608,56 @@
       ]
     },
     {
+      "id": "89765091_UPL",
+      "type": "UPL",
+      "name": "Murrumba Downs Shopping Centre Parcel Locker",
+      "phone": "1800 422 406",
+      "fax": null,
+      "address": {
+        "line1": "Shop 21a",
+        "line2": "2 Goodrich Rd W",
+        "suburb": "MURRUMBA DOWNS",
+        "state": "QLD",
+        "postcode": "4503",
+        "country": "Australia"
+      },
+      "lat": -27.27221283,
+      "lon": 153.0166428,
+      "trading_hours": {
+        "MON": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "TUE": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "WED": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "THU": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "FRI": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "SAT": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "SUN": {
+          "open": "00:00",
+          "close": "23:59"
+        }
+      },
+      "services": [
+        "PARCEL_COLLECT"
+      ]
+    },
+    {
       "id": "442124_PO",
       "type": "PO",
       "name": "Narangba Post Office",
@@ -148922,7 +148967,6 @@
         "OPEN_SATURDAY",
         "PARCEL_COLLECT",
         "POST_BILL_PAY",
-        "PO_BOXES_AVAILABLE",
         "PO_BOXES_INSTALLED",
         "RETURNS_PRINT_AT_POST",
         "TRAVEL_INSURANCE",
@@ -151615,8 +151659,8 @@
         "postcode": "4701",
         "country": "Australia"
       },
-      "lat": -23.32723703,
-      "lon": 150.51736801,
+      "lat": -23.31963383,
+      "lon": 150.5215597,
       "trading_hours": {
         "MON": {
           "open": "09:00",
@@ -159181,8 +159225,8 @@
         "postcode": "4814",
         "country": "Australia"
       },
-      "lat": -19.2745311,
-      "lon": 146.7593652,
+      "lat": -19.27444636,
+      "lon": 146.75938004,
       "trading_hours": {
         "MON": {
           "open": "09:00",
@@ -176766,7 +176810,7 @@
     {
       "id": "96681270_UPL",
       "type": "UPL",
-      "name": "Greenacres Central Parcel Locker",
+      "name": "Greenacres Central Post Office Parcel Locker",
       "phone": "1800 422 406",
       "fax": null,
       "address": {
@@ -200785,8 +200829,8 @@
         "postcode": "5725",
         "country": "Australia"
       },
-      "lat": -30.56106227,
-      "lon": 136.8979615,
+      "lat": -30.56179353,
+      "lon": 136.8969728,
       "trading_hours": {
         "MON": {
           "open": "00:00",
@@ -222831,19 +222875,19 @@
     {
       "id": "35411253_UPL",
       "type": "UPL",
-      "name": "Derby Villas Parcel Locker",
+      "name": "1 Chester St Parcel Locker",
       "phone": "1800 422 406",
       "fax": null,
       "address": {
-        "line1": "88 Holmes Rd",
+        "line1": "1 Chester St",
         "line2": null,
         "suburb": "MOONEE PONDS",
         "state": "VIC",
         "postcode": "3039",
         "country": "Australia"
       },
-      "lat": -37.76500755,
-      "lon": 144.9124114,
+      "lat": -37.76562457,
+      "lon": 144.9134038,
       "trading_hours": {
         "MON": {
           "open": "00:00",
@@ -240494,7 +240538,7 @@
       "phone": "1800 422 406",
       "fax": null,
       "address": {
-        "line1": "96 Toorak Rd",
+        "line1": "96-100 Toorak Rd",
         "line2": null,
         "suburb": "SOUTH YARRA",
         "state": "VIC",
@@ -283610,7 +283654,6 @@
         "OPEN_SATURDAY",
         "PARCEL_COLLECT",
         "POST_BILL_PAY",
-        "PO_BOXES_AVAILABLE",
         "PO_BOXES_INSTALLED",
         "RETURNS_PRINT_AT_POST",
         "TRAVEL_INSURANCE"
@@ -304496,6 +304539,7 @@
         "INSTANT_PASSPORT_AND_ID_PHOTOS",
         "INTERNATIONAL_COURIER",
         "LAND_TITLE_ID_CHECK_EXPRESS_SERVICE",
+        "MARITIME_SECURITY_IDENTITY_CARD",
         "ME_BANK",
         "MONEY_ORDER",
         "NATIONAL_POLICE_CERTIFICATE_APPLICATION_FORM_QLD",
@@ -306054,7 +306098,7 @@
       "phone": "1800 422 406",
       "fax": null,
       "address": {
-        "line1": "Lakeside Shopping Centre",
+        "line1": "Lakeside Joondallup Shopping Centre",
         "line2": "420 Joondalup Dr",
         "suburb": "JOONDALUP",
         "state": "WA",
@@ -306154,7 +306198,7 @@
       "phone": "13 13 18",
       "fax": "(08)9212 5646",
       "address": {
-        "line1": "Lakeside Shopping Centre",
+        "line1": "Lakeside Joondallup Shopping Centre",
         "line2": "Shop 140",
         "suburb": "JOONDALUP",
         "state": "WA",
@@ -317401,7 +317445,6 @@
         "OPEN_SATURDAY",
         "PARCEL_COLLECT",
         "POST_BILL_PAY",
-        "PO_BOXES_AVAILABLE",
         "PO_BOXES_INSTALLED",
         "RETURNS_PRINT_AT_POST",
         "TRAVEL_INSURANCE"
@@ -334428,7 +334471,6 @@
         "OPEN_BEFORE_900AM_WEEKDAYS",
         "PARCEL_COLLECT",
         "POST_BILL_PAY",
-        "PO_BOXES_AVAILABLE",
         "PO_BOXES_INSTALLED",
         "QLD_SECURITY_CLEARANCE_CARD",
         "QLD_WEAPONS_LICENSING",
