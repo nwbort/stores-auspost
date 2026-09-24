@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-23T08:39:49Z",
+  "generated_at": "2026-09-24T08:33:13Z",
   "source": "https://digitalapi.auspost.com.au/locations-private/v3/workcentres",
-  "count": 5700,
+  "count": 5701,
   "count_by_type": {
     "PO": 4133,
-    "UPL": 1441,
+    "UPL": 1442,
     "OS": 89,
     "DC": 37
   },
@@ -16777,7 +16777,7 @@
       "phone": "(02) 9982 6872",
       "fax": "(02)9971 6141",
       "address": {
-        "line1": "1107 Pittwater Rd",
+        "line1": "1109 Pittwater Rd",
         "line2": null,
         "suburb": "COLLAROY",
         "state": "NSW",
@@ -21120,8 +21120,8 @@
       "id": "267602_PO",
       "type": "PO",
       "name": "Burwood North Post Office",
-      "phone": "(02) 8068 3587",
-      "fax": "(02)8964 9584",
+      "phone": null,
+      "fax": null,
       "address": {
         "line1": "Shop 333",
         "line2": "98a-114 Burwood Rd",
@@ -57480,7 +57480,7 @@
       "phone": "(02) 6652 3200",
       "fax": "(02)6651 5523",
       "address": {
-        "line1": "354 Harbour Dr",
+        "line1": "350 Harbour Dr",
         "line2": null,
         "suburb": "COFFS HARBOUR",
         "state": "NSW",
@@ -86478,7 +86478,6 @@
         "OPEN_BEFORE_900AM_WEEKDAYS",
         "PARCEL_COLLECT",
         "POST_BILL_PAY",
-        "PO_BOXES_AVAILABLE",
         "PO_BOXES_INSTALLED",
         "RETURNS_PRINT_AT_POST",
         "TRAVEL_INSURANCE",
@@ -109232,6 +109231,56 @@
         "QLD_WEAPONS_LICENSING",
         "RETURNS_PRINT_AT_POST",
         "TRAVEL_INSURANCE"
+      ]
+    },
+    {
+      "id": "77901785_UPL",
+      "type": "UPL",
+      "name": "The Village Carseldine Parcel Locker",
+      "phone": "1800 422 406",
+      "fax": null,
+      "address": {
+        "line1": "520 Beams Rd",
+        "line2": null,
+        "suburb": "CARSELDINE",
+        "state": "QLD",
+        "postcode": "4034",
+        "country": "Australia"
+      },
+      "lat": -27.34823769,
+      "lon": 153.0252187,
+      "trading_hours": {
+        "MON": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "TUE": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "WED": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "THU": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "FRI": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "SAT": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "SUN": {
+          "open": "00:00",
+          "close": "23:59"
+        }
+      },
+      "services": [
+        "PARCEL_COLLECT"
       ]
     },
     {
@@ -132320,9 +132369,9 @@
       "phone": "(07) 4636 5171",
       "fax": "(07)4636 5172",
       "address": {
-        "line1": "G Block Usq Campus",
+        "line1": "University Of Southern Queensland",
         "line2": "487-535 West Street",
-        "suburb": "TOOWOOMBA",
+        "suburb": "DARLING HEIGHTS",
         "state": "QLD",
         "postcode": "4350",
         "country": "Australia"
@@ -156680,23 +156729,23 @@
       "lon": 148.11741957,
       "trading_hours": {
         "MON": {
-          "open": "09:00",
+          "open": "13:00",
           "close": "17:00"
         },
         "TUE": {
-          "open": "09:00",
+          "open": "13:00",
           "close": "17:00"
         },
         "WED": {
-          "open": "09:00",
+          "open": "13:00",
           "close": "17:00"
         },
         "THU": {
-          "open": "09:00",
+          "open": "13:00",
           "close": "17:00"
         },
         "FRI": {
-          "open": "09:00",
+          "open": "13:00",
           "close": "17:00"
         },
         "SAT": null,
@@ -161335,7 +161384,7 @@
       "fax": "(07)4638 6446",
       "address": {
         "line1": "Shop 3",
-        "line2": "27 Simpson St",
+        "line2": "29 Simpson St",
         "suburb": "MOUNT ISA CITY",
         "state": "QLD",
         "postcode": "4825",
@@ -201012,7 +201061,7 @@
       "phone": "(08) 8675 2020",
       "fax": "(08)7009 4421",
       "address": {
-        "line1": "U 11",
+        "line1": "Shop 11",
         "line2": "25 Black Oak Dr",
         "suburb": "LEIGH CREEK",
         "state": "SA",
@@ -212183,7 +212232,7 @@
       "type": "PO",
       "name": "Don Post Office",
       "phone": "(03) 6424 1425",
-      "fax": "(03)6423 4799",
+      "fax": null,
       "address": {
         "line1": "6 Forth Rd",
         "line2": null,
@@ -212197,23 +212246,23 @@
       "trading_hours": {
         "MON": {
           "open": "06:00",
-          "close": "15:30"
+          "close": "17:00"
         },
         "TUE": {
           "open": "06:00",
-          "close": "15:30"
+          "close": "17:00"
         },
         "WED": {
           "open": "06:00",
-          "close": "15:30"
+          "close": "17:00"
         },
         "THU": {
           "open": "06:00",
-          "close": "15:30"
+          "close": "17:00"
         },
         "FRI": {
           "open": "06:00",
-          "close": "15:30"
+          "close": "17:00"
         },
         "SAT": null,
         "SUN": null
@@ -321174,6 +321223,7 @@
         "OPEN_BEFORE_900AM_WEEKDAYS",
         "PARCEL_COLLECT",
         "POST_BILL_PAY",
+        "PO_BOXES_AVAILABLE",
         "PO_BOXES_INSTALLED",
         "QLD_SECURITY_CLEARANCE_CARD",
         "QLD_WEAPONS_LICENSING",
@@ -331642,7 +331692,6 @@
         "NATIONAL_POLICE_CERTIFICATE_APPLICATION_FORM_QLD",
         "NATIONAL_POLICE_CERTIFICATE_APPLICATION_FORM_WA",
         "OPEN_BEFORE_900AM_WEEKDAYS",
-        "OPEN_SATURDAY",
         "PARCEL_COLLECT",
         "PARCEL_PICKUP_OUTSIDE_STANDARD_HOURS",
         "PHOTOPOINT_DRIVERS_LICENCE_ONLY",
@@ -336252,7 +336301,6 @@
         "OPEN_BEFORE_900AM_WEEKDAYS",
         "PARCEL_COLLECT",
         "POST_BILL_PAY",
-        "PO_BOXES_AVAILABLE",
         "PO_BOXES_INSTALLED",
         "QLD_SECURITY_CLEARANCE_CARD",
         "QLD_WEAPONS_LICENSING",
