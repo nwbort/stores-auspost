@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T08:33:13Z",
+  "generated_at": "2026-09-25T08:54:56Z",
   "source": "https://digitalapi.auspost.com.au/locations-private/v3/workcentres",
   "count": 5701,
   "count_by_type": {
@@ -51047,24 +51047,24 @@
       "lon": 151.84784419,
       "trading_hours": {
         "MON": {
-          "open": "14:00",
-          "close": "15:00"
+          "open": "08:30",
+          "close": "15:30"
         },
         "TUE": {
-          "open": "14:00",
-          "close": "15:00"
+          "open": "08:30",
+          "close": "15:30"
         },
         "WED": {
-          "open": "14:00",
-          "close": "15:00"
+          "open": "08:30",
+          "close": "15:30"
         },
         "THU": {
-          "open": "14:00",
-          "close": "15:00"
+          "open": "08:30",
+          "close": "15:30"
         },
         "FRI": {
-          "open": "14:00",
-          "close": "15:00"
+          "open": "08:30",
+          "close": "15:30"
         },
         "SAT": null,
         "SUN": null
@@ -68727,31 +68727,31 @@
       "trading_hours": {
         "MON": {
           "open": "05:00",
-          "close": "23:00"
+          "close": "22:00"
         },
         "TUE": {
           "open": "05:00",
-          "close": "23:00"
+          "close": "22:00"
         },
         "WED": {
           "open": "05:00",
-          "close": "23:00"
+          "close": "22:00"
         },
         "THU": {
           "open": "05:00",
-          "close": "23:00"
+          "close": "22:00"
         },
         "FRI": {
           "open": "05:00",
-          "close": "23:00"
+          "close": "22:00"
         },
         "SAT": {
           "open": "05:00",
-          "close": "23:00"
+          "close": "22:00"
         },
         "SUN": {
-          "open": "07:00",
-          "close": "20:00"
+          "open": "05:00",
+          "close": "22:00"
         }
       },
       "services": [
@@ -75848,7 +75848,6 @@
         }
       },
       "services": [
-        "OPEN_AFTER_500PM_WEEKDAYS",
         "OPEN_BEFORE_900AM_WEEKDAYS",
         "PARCEL_COLLECT"
       ]
@@ -156716,7 +156715,7 @@
       "type": "PO",
       "name": "Glenden Post Office",
       "phone": "(07) 4958 9252",
-      "fax": "(07)4958 9252",
+      "fax": null,
       "address": {
         "line1": "Lot 9 Perry Dr",
         "line2": null,
@@ -185298,37 +185297,29 @@
       "trading_hours": {
         "MON": {
           "open": "09:00",
-          "close": "17:30"
+          "close": "17:00"
         },
         "TUE": {
           "open": "09:00",
-          "close": "17:30"
+          "close": "17:00"
         },
         "WED": {
           "open": "09:00",
-          "close": "17:30"
+          "close": "17:00"
         },
         "THU": {
           "open": "09:00",
-          "close": "17:30"
+          "close": "17:00"
         },
         "FRI": {
           "open": "09:00",
-          "close": "17:30"
+          "close": "17:00"
         },
-        "SAT": {
-          "open": "09:00",
-          "close": "16:00"
-        },
-        "SUN": {
-          "open": "10:00",
-          "close": "15:00"
-        }
+        "SAT": null,
+        "SUN": null
       },
       "services": [
-        "OPEN_AFTER_500PM_WEEKDAYS",
         "OPEN_BEFORE_900AM_WEEKDAYS",
-        "OPEN_SATURDAY",
         "PARCEL_COLLECT"
       ]
     },
@@ -189976,6 +189967,7 @@
         "OPEN_BEFORE_900AM_WEEKDAYS",
         "PARCEL_COLLECT",
         "POST_BILL_PAY",
+        "PO_BOXES_AVAILABLE",
         "PO_BOXES_INSTALLED",
         "RETURNS_PRINT_AT_POST",
         "TRAVEL_INSURANCE",
@@ -208545,7 +208537,7 @@
       "phone": "13 13 18",
       "fax": "(03)6331 7561",
       "address": {
-        "line1": "165a-167 Elphin Rd",
+        "line1": "165a Elphin Rd",
         "line2": null,
         "suburb": "NEWSTEAD",
         "state": "TAS",
@@ -257809,6 +257801,8 @@
         }
       },
       "services": [
+        "OPEN_AFTER_500PM_WEEKDAYS",
+        "OPEN_BEFORE_900AM_WEEKDAYS",
         "PARCEL_COLLECT"
       ]
     },
@@ -302294,7 +302288,6 @@
         "NATIONAL_POLICE_CERTIFICATE_APPLICATION_FORM_QLD",
         "NATIONAL_POLICE_CERTIFICATE_APPLICATION_FORM_WA",
         "OPEN_BEFORE_900AM_WEEKDAYS",
-        "OPEN_SATURDAY",
         "PARCEL_COLLECT",
         "POST_BILL_PAY",
         "PO_BOXES_AVAILABLE",
@@ -302489,7 +302482,7 @@
       "id": "642206_PO",
       "type": "PO",
       "name": "Shenton Park Post Office",
-      "phone": "13 13 18",
+      "phone": "0403 779 888",
       "fax": "(08)9380 4998",
       "address": {
         "line1": "Shenton Park S/c",
@@ -321223,7 +321216,6 @@
         "OPEN_BEFORE_900AM_WEEKDAYS",
         "PARCEL_COLLECT",
         "POST_BILL_PAY",
-        "PO_BOXES_AVAILABLE",
         "PO_BOXES_INSTALLED",
         "QLD_SECURITY_CLEARANCE_CARD",
         "QLD_WEAPONS_LICENSING",
