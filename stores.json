@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T08:54:56Z",
+  "generated_at": "2026-09-26T08:41:15Z",
   "source": "https://digitalapi.auspost.com.au/locations-private/v3/workcentres",
   "count": 5701,
   "count_by_type": {
@@ -75848,7 +75848,6 @@
         }
       },
       "services": [
-        "OPEN_BEFORE_900AM_WEEKDAYS",
         "PARCEL_COLLECT"
       ]
     },
@@ -283445,6 +283444,7 @@
         "BANK_AT_POST",
         "NATIONAL_POLICE_CERTIFICATE_APPLICATION_FORM_QLD",
         "NATIONAL_POLICE_CERTIFICATE_APPLICATION_FORM_WA",
+        "OPEN_AFTER_500PM_WEEKDAYS",
         "OPEN_BEFORE_900AM_WEEKDAYS",
         "PARCEL_COLLECT",
         "POST_BILL_PAY",
@@ -293470,6 +293470,7 @@
         "MONEY_ORDER",
         "NATIONAL_POLICE_CERTIFICATE_APPLICATION_FORM_QLD",
         "NATIONAL_POLICE_CERTIFICATE_APPLICATION_FORM_WA",
+        "OPEN_AFTER_500PM_WEEKDAYS",
         "OPEN_BEFORE_900AM_WEEKDAYS",
         "OPEN_SATURDAY",
         "PARCEL_COLLECT",
@@ -293708,6 +293709,7 @@
         "MONEY_ORDER",
         "NATIONAL_POLICE_CERTIFICATE_APPLICATION_FORM_QLD",
         "NATIONAL_POLICE_CERTIFICATE_APPLICATION_FORM_WA",
+        "OPEN_AFTER_500PM_WEEKDAYS",
         "OPEN_BEFORE_900AM_WEEKDAYS",
         "OPEN_SATURDAY",
         "PARCEL_COLLECT",
@@ -313685,7 +313687,6 @@
         "OPEN_SATURDAY",
         "PARCEL_COLLECT",
         "POST_BILL_PAY",
-        "PO_BOXES_AVAILABLE",
         "PO_BOXES_INSTALLED",
         "RETURNS_PRINT_AT_POST",
         "TRAVEL_INSURANCE",
