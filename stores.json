@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T09:47:48Z",
+  "generated_at": "2026-10-01T10:13:34Z",
   "source": "https://digitalapi.auspost.com.au/locations-private/v3/workcentres",
   "count": 5707,
   "count_by_type": {
@@ -149625,7 +149625,6 @@
         "OPEN_SATURDAY",
         "PARCEL_COLLECT",
         "POST_BILL_PAY",
-        "PO_BOXES_AVAILABLE",
         "PO_BOXES_INSTALLED",
         "RETURNS_PRINT_AT_POST",
         "TRAVEL_INSURANCE",
@@ -168915,8 +168914,8 @@
           "close": "16:00"
         },
         "FRI": {
-          "open": "09:00",
-          "close": "12:00"
+          "open": "13:00",
+          "close": "16:00"
         },
         "SAT": null,
         "SUN": null
@@ -168931,7 +168930,6 @@
         "IDENTITY_VERIFICATION_FORM_REQUEST",
         "MONEY_ORDER",
         "NATIONAL_POLICE_CERTIFICATE_APPLICATION_FORM_WA",
-        "OPEN_BEFORE_900AM_WEEKDAYS",
         "PARCEL_COLLECT",
         "POST_BILL_PAY",
         "PO_BOXES_AVAILABLE",
@@ -175204,7 +175202,6 @@
         "NATIONAL_POLICE_CERTIFICATE_APPLICATION_FORM_QLD",
         "NATIONAL_POLICE_CERTIFICATE_APPLICATION_FORM_WA",
         "OPEN_BEFORE_900AM_WEEKDAYS",
-        "OPEN_SATURDAY",
         "PARCEL_COLLECT",
         "POST_BILL_PAY",
         "PO_BOXES_AVAILABLE",
@@ -190595,7 +190592,6 @@
         "OPEN_BEFORE_900AM_WEEKDAYS",
         "PARCEL_COLLECT",
         "POST_BILL_PAY",
-        "PO_BOXES_AVAILABLE",
         "PO_BOXES_INSTALLED",
         "RETURNS_PRINT_AT_POST",
         "TRAVEL_INSURANCE",
@@ -222861,38 +222857,30 @@
       "lon": 144.88636926,
       "trading_hours": {
         "MON": {
-          "open": "00:00",
-          "close": "23:59"
+          "open": "07:00",
+          "close": "10:00"
         },
         "TUE": {
-          "open": "00:00",
-          "close": "23:59"
+          "open": "07:00",
+          "close": "10:00"
         },
         "WED": {
-          "open": "00:00",
-          "close": "23:59"
+          "open": "07:00",
+          "close": "10:00"
         },
         "THU": {
-          "open": "00:00",
-          "close": "23:59"
+          "open": "07:00",
+          "close": "10:00"
         },
         "FRI": {
-          "open": "00:00",
-          "close": "23:59"
+          "open": "07:00",
+          "close": "10:00"
         },
-        "SAT": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "SUN": {
-          "open": "00:00",
-          "close": "23:59"
-        }
+        "SAT": null,
+        "SUN": null
       },
       "services": [
-        "OPEN_AFTER_500PM_WEEKDAYS",
-        "OPEN_BEFORE_900AM_WEEKDAYS",
-        "OPEN_SATURDAY"
+        "OPEN_BEFORE_900AM_WEEKDAYS"
       ]
     },
     {
@@ -223419,7 +223407,7 @@
     {
       "id": "31546589_UPL",
       "type": "UPL",
-      "name": "Taylors Lakes Watergardens PL",
+      "name": "Taylors Lakes Watergardens Parcel Locker",
       "phone": "1800 422 406",
       "fax": null,
       "address": {
@@ -309660,14 +309648,23 @@
       },
       "services": [
         "100_POINT_CHECK_VERIFICATION",
+        "ATO_INDIVIDUAL_TFN_SERVICES",
+        "AUSTRALIAN_MARITIME_SAFETY_AUTHORITY",
+        "AUSTRALIAN_PASSPORT",
         "AUSTRALIA_POST_EVERYDAY_MASTERCARD",
         "AUSTRALIA_POST_GIFT_CARD_MASTERCARD",
         "AUSTRALIA_POST_TRAVEL_PLATINUM_MASTERCARD",
+        "BANKWEST_ID_VERIFICATION",
         "BANK_AT_POST",
+        "BRITISH_PASSPORT",
         "COUNTRY_AGE_PENSION_FUEL_CARD_WA",
+        "DANGEROUS_GOODS_SECURITY_CARD_WA",
         "FOREIGN_CURRENCY",
         "IDENTITY_VERIFICATION_FORM_REQUEST",
+        "ID_PHOTOS_EMAIL_DIGITAL_COPY",
         "INSTANT_PASSPORT_AND_ID_PHOTOS",
+        "MARITIME_SECURITY_IDENTITY_CARD",
+        "ME_BANK",
         "MONEY_ORDER",
         "NATIONAL_POLICE_CERTIFICATE_APPLICATION_FORM_QLD",
         "NATIONAL_POLICE_CERTIFICATE_APPLICATION_FORM_WA",
@@ -309677,7 +309674,9 @@
         "POST_BILL_PAY",
         "PO_BOXES_AVAILABLE",
         "PO_BOXES_INSTALLED",
+        "QLD_SECURITY_CLEARANCE_CARD",
         "RETURNS_PRINT_AT_POST",
+        "SOUTH_AUSTRALIAN_POLICE",
         "TRAVEL_INSURANCE",
         "WESTERN_UNION_MONEY_TRANSFER",
         "WORKING_WITH_CHILDREN_CHECK_WA"
@@ -311109,6 +311108,7 @@
         "INSTANT_PASSPORT_AND_ID_PHOTOS",
         "INTERNATIONAL_COURIER",
         "LAND_TITLE_ID_CHECK_EXPRESS_SERVICE",
+        "MARITIME_SECURITY_IDENTITY_CARD",
         "ME_BANK",
         "MONEY_ORDER",
         "NATIONAL_POLICE_CERTIFICATE_APPLICATION_FORM_QLD",
