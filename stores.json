@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-01T10:13:34Z",
+  "generated_at": "2026-10-02T09:50:05Z",
   "source": "https://digitalapi.auspost.com.au/locations-private/v3/workcentres",
-  "count": 5707,
+  "count": 5708,
   "count_by_type": {
     "PO": 4132,
-    "UPL": 1449,
+    "UPL": 1450,
     "OS": 89,
     "DC": 37
   },
@@ -62743,8 +62743,8 @@
         "postcode": "2480",
         "country": "Australia"
       },
-      "lat": -28.81072854,
-      "lon": 153.30498902,
+      "lat": -28.81060103,
+      "lon": 153.30510011,
       "trading_hours": {
         "MON": {
           "open": "09:00",
@@ -138851,23 +138851,23 @@
       "lon": 148.2272709,
       "trading_hours": {
         "MON": {
-          "open": "14:00",
+          "open": "13:00",
           "close": "17:00"
         },
         "TUE": {
-          "open": "14:00",
+          "open": "13:00",
           "close": "17:00"
         },
         "WED": {
-          "open": "14:00",
+          "open": "13:00",
           "close": "17:00"
         },
         "THU": {
-          "open": "14:00",
+          "open": "13:00",
           "close": "17:00"
         },
         "FRI": {
-          "open": "14:00",
+          "open": "13:00",
           "close": "17:00"
         },
         "SAT": null,
@@ -149212,7 +149212,6 @@
         "MONEY_ORDER",
         "NATIONAL_POLICE_CERTIFICATE_APPLICATION_FORM_WA",
         "OPEN_BEFORE_900AM_WEEKDAYS",
-        "OPEN_SATURDAY",
         "PARCEL_COLLECT",
         "PARCEL_PICKUP_OUTSIDE_STANDARD_HOURS",
         "POST_BILL_PAY",
@@ -158344,7 +158343,6 @@
         "MONEY_ORDER",
         "NATIONAL_POLICE_CERTIFICATE_APPLICATION_FORM_WA",
         "OPEN_BEFORE_900AM_WEEKDAYS",
-        "PARCEL_COLLECT",
         "POST_BILL_PAY",
         "PO_BOXES_AVAILABLE",
         "PO_BOXES_INSTALLED",
@@ -205586,10 +205584,7 @@
         },
         "SUN": null
       },
-      "services": [
-        "OPEN_BEFORE_900AM_WEEKDAYS",
-        "OPEN_SATURDAY"
-      ]
+      "services": []
     },
     {
       "id": "732471_PO",
@@ -215187,23 +215182,23 @@
       "trading_hours": {
         "MON": {
           "open": "10:00",
-          "close": "17:00"
+          "close": "17:30"
         },
         "TUE": {
           "open": "10:00",
-          "close": "17:00"
+          "close": "17:30"
         },
         "WED": {
           "open": "10:00",
-          "close": "17:00"
+          "close": "17:30"
         },
         "THU": {
           "open": "10:00",
-          "close": "17:00"
+          "close": "17:30"
         },
         "FRI": {
           "open": "10:00",
-          "close": "17:00"
+          "close": "17:30"
         },
         "SAT": null,
         "SUN": null
@@ -215219,6 +215214,7 @@
         "MONEY_ORDER",
         "NATIONAL_POLICE_CERTIFICATE_APPLICATION_FORM_QLD",
         "NATIONAL_POLICE_CERTIFICATE_APPLICATION_FORM_WA",
+        "OPEN_AFTER_500PM_WEEKDAYS",
         "PARCEL_COLLECT",
         "POST_BILL_PAY",
         "PO_BOXES_AVAILABLE",
@@ -225568,8 +225564,8 @@
       "phone": "1800 422 406",
       "fax": null,
       "address": {
-        "line1": "Rmit Building 55",
-        "line2": "58-80 Cardigan St",
+        "line1": "61-89 Lygon St",
+        "line2": null,
         "suburb": "CARLTON",
         "state": "VIC",
         "postcode": "3053",
@@ -262488,6 +262484,56 @@
         "TRAVEL_INSURANCE",
         "WESTERN_UNION_MONEY_TRANSFER",
         "WORKING_WITH_CHILDREN_CHECK_VIC"
+      ]
+    },
+    {
+      "id": "64349206_UPL",
+      "type": "UPL",
+      "name": "Bannockburn Shopping Centre Parcel Locker",
+      "phone": "1800 422 406",
+      "fax": null,
+      "address": {
+        "line1": "Bannockburn Central Shopping Centre",
+        "line2": "17 McPhillips Rd",
+        "suburb": "BANNOCKBURN",
+        "state": "VIC",
+        "postcode": "3331",
+        "country": "Australia"
+      },
+      "lat": -38.04350986,
+      "lon": 144.170748,
+      "trading_hours": {
+        "MON": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "TUE": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "WED": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "THU": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "FRI": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "SAT": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "SUN": {
+          "open": "00:00",
+          "close": "23:59"
+        }
+      },
+      "services": [
+        "PARCEL_COLLECT"
       ]
     },
     {
@@ -309649,21 +309695,16 @@
       "services": [
         "100_POINT_CHECK_VERIFICATION",
         "ATO_INDIVIDUAL_TFN_SERVICES",
-        "AUSTRALIAN_MARITIME_SAFETY_AUTHORITY",
-        "AUSTRALIAN_PASSPORT",
         "AUSTRALIA_POST_EVERYDAY_MASTERCARD",
         "AUSTRALIA_POST_GIFT_CARD_MASTERCARD",
         "AUSTRALIA_POST_TRAVEL_PLATINUM_MASTERCARD",
         "BANKWEST_ID_VERIFICATION",
         "BANK_AT_POST",
-        "BRITISH_PASSPORT",
         "COUNTRY_AGE_PENSION_FUEL_CARD_WA",
-        "DANGEROUS_GOODS_SECURITY_CARD_WA",
         "FOREIGN_CURRENCY",
         "IDENTITY_VERIFICATION_FORM_REQUEST",
         "ID_PHOTOS_EMAIL_DIGITAL_COPY",
         "INSTANT_PASSPORT_AND_ID_PHOTOS",
-        "MARITIME_SECURITY_IDENTITY_CARD",
         "ME_BANK",
         "MONEY_ORDER",
         "NATIONAL_POLICE_CERTIFICATE_APPLICATION_FORM_QLD",
@@ -309676,7 +309717,6 @@
         "PO_BOXES_INSTALLED",
         "QLD_SECURITY_CLEARANCE_CARD",
         "RETURNS_PRINT_AT_POST",
-        "SOUTH_AUSTRALIAN_POLICE",
         "TRAVEL_INSURANCE",
         "WESTERN_UNION_MONEY_TRANSFER",
         "WORKING_WITH_CHILDREN_CHECK_WA"
