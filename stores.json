@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T09:50:05Z",
+  "generated_at": "2026-10-03T09:14:55Z",
   "source": "https://digitalapi.auspost.com.au/locations-private/v3/workcentres",
   "count": 5708,
   "count_by_type": {
@@ -14048,7 +14048,6 @@
         "OPEN_BEFORE_900AM_WEEKDAYS",
         "PARCEL_COLLECT",
         "POST_BILL_PAY",
-        "PO_BOXES_AVAILABLE",
         "PO_BOXES_INSTALLED",
         "RETURNS_PRINT_AT_POST",
         "TRAVEL_INSURANCE",
@@ -82693,24 +82692,24 @@
       "lon": 147.38585977,
       "trading_hours": {
         "MON": {
-          "open": "09:00",
-          "close": "15:00"
+          "open": "08:00",
+          "close": "14:00"
         },
         "TUE": {
-          "open": "09:00",
-          "close": "15:00"
+          "open": "08:00",
+          "close": "14:00"
         },
         "WED": {
-          "open": "09:00",
-          "close": "15:00"
+          "open": "08:00",
+          "close": "14:00"
         },
         "THU": {
-          "open": "09:00",
-          "close": "15:00"
+          "open": "08:00",
+          "close": "14:00"
         },
         "FRI": {
-          "open": "09:00",
-          "close": "15:00"
+          "open": "08:00",
+          "close": "14:00"
         },
         "SAT": null,
         "SUN": null
@@ -109202,7 +109201,6 @@
         "MONEY_ORDER",
         "NATIONAL_POLICE_CERTIFICATE_APPLICATION_FORM_WA",
         "OPEN_BEFORE_900AM_WEEKDAYS",
-        "OPEN_SATURDAY",
         "PARCEL_COLLECT",
         "PARCEL_PICKUP_OUTSIDE_STANDARD_HOURS",
         "POST_BILL_PAY",
@@ -141393,7 +141391,6 @@
         "MONEY_ORDER",
         "NATIONAL_POLICE_CERTIFICATE_APPLICATION_FORM_WA",
         "OPEN_BEFORE_900AM_WEEKDAYS",
-        "OPEN_SATURDAY",
         "PARCEL_COLLECT",
         "PARCEL_PICKUP_OUTSIDE_STANDARD_HOURS",
         "POST_BILL_PAY",
@@ -240326,7 +240323,6 @@
         "OPEN_SATURDAY",
         "PARCEL_COLLECT",
         "POST_BILL_PAY",
-        "PO_BOXES_AVAILABLE",
         "PO_BOXES_INSTALLED",
         "QLD_SECURITY_CLEARANCE_CARD",
         "QLD_WEAPONS_LICENSING",
@@ -254192,7 +254188,6 @@
         "OPEN_SATURDAY",
         "PARCEL_COLLECT",
         "POST_BILL_PAY",
-        "PO_BOXES_AVAILABLE",
         "PO_BOXES_INSTALLED",
         "RETURNS_PRINT_AT_POST",
         "TRAVEL_INSURANCE",
@@ -275983,6 +275978,7 @@
         "OPEN_BEFORE_900AM_WEEKDAYS",
         "PARCEL_COLLECT",
         "POST_BILL_PAY",
+        "PO_BOXES_AVAILABLE",
         "PO_BOXES_INSTALLED",
         "RETURNS_PRINT_AT_POST",
         "TRAVEL_INSURANCE",
@@ -308809,7 +308805,6 @@
         "MONEY_ORDER",
         "NATIONAL_POLICE_CERTIFICATE_APPLICATION_FORM_QLD",
         "NATIONAL_POLICE_CERTIFICATE_APPLICATION_FORM_WA",
-        "OPEN_BEFORE_900AM_WEEKDAYS",
         "PARCEL_COLLECT",
         "PARCEL_PICKUP_OUTSIDE_STANDARD_HOURS",
         "POST_BILL_PAY",
@@ -313876,7 +313871,6 @@
         "NATIONAL_POLICE_CERTIFICATE_APPLICATION_FORM_WA",
         "OPEN_BEFORE_900AM_WEEKDAYS",
         "PARCEL_COLLECT",
-        "PARCEL_PICKUP_OUTSIDE_STANDARD_HOURS",
         "PHOTOPOINT_DRIVERS_LICENCE_ONLY",
         "POST_BILL_PAY",
         "PO_BOXES_AVAILABLE",
@@ -335534,9 +335528,9 @@
       ]
     },
     {
-      "id": "622790_PO",
+      "id": "660439_PO",
       "type": "PO",
-      "name": "Eneabba CPA",
+      "name": "Eneabba LPO",
       "phone": "13 13 18",
       "fax": null,
       "address": {
@@ -335552,29 +335546,46 @@
       "trading_hours": {
         "MON": {
           "open": "09:00",
-          "close": "13:00"
+          "close": "17:00"
         },
         "TUE": {
           "open": "09:00",
-          "close": "13:00"
+          "close": "17:00"
         },
         "WED": {
           "open": "09:00",
-          "close": "13:00"
+          "close": "17:00"
         },
         "THU": {
           "open": "09:00",
-          "close": "13:00"
+          "close": "17:00"
         },
         "FRI": {
           "open": "09:00",
-          "close": "13:00"
+          "close": "17:00"
         },
         "SAT": null,
         "SUN": null
       },
       "services": [
-        "OPEN_BEFORE_900AM_WEEKDAYS"
+        "100_POINT_CHECK_VERIFICATION",
+        "AUSTRALIA_POST_EVERYDAY_MASTERCARD",
+        "AUSTRALIA_POST_GIFT_CARD_MASTERCARD",
+        "AUSTRALIA_POST_TRAVEL_PLATINUM_MASTERCARD",
+        "BANK_AT_POST",
+        "COUNTRY_AGE_PENSION_FUEL_CARD_WA",
+        "FOREIGN_CURRENCY",
+        "IDENTITY_VERIFICATION_FORM_REQUEST",
+        "INTERNATIONAL_COURIER",
+        "MONEY_ORDER",
+        "NATIONAL_POLICE_CERTIFICATE_APPLICATION_FORM_QLD",
+        "NATIONAL_POLICE_CERTIFICATE_APPLICATION_FORM_WA",
+        "OPEN_BEFORE_900AM_WEEKDAYS",
+        "POST_BILL_PAY",
+        "PO_BOXES_AVAILABLE",
+        "PO_BOXES_INSTALLED",
+        "RETURNS_PRINT_AT_POST",
+        "TRAVEL_INSURANCE"
       ]
     },
     {
