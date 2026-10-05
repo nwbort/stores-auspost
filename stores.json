@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-04T09:53:48Z",
+  "generated_at": "2026-10-05T10:32:19Z",
   "source": "https://digitalapi.auspost.com.au/locations-private/v3/workcentres",
-  "count": 5707,
+  "count": 5709,
   "count_by_type": {
-    "PO": 4131,
+    "PO": 4133,
     "UPL": 1450,
     "OS": 89,
     "DC": 37
@@ -45629,7 +45629,7 @@
       "id": "237702_PO",
       "type": "PO",
       "name": "Lemon Tree Passage Post Office",
-      "phone": "0401076211",
+      "phone": "0401 076 211",
       "fax": null,
       "address": {
         "line1": "U 1",
@@ -216367,7 +216367,7 @@
       "phone": "1800 422 406",
       "fax": null,
       "address": {
-        "line1": "277 William St",
+        "line1": "G 277 William St",
         "line2": null,
         "suburb": "MELBOURNE",
         "state": "VIC",
@@ -255335,6 +255335,59 @@
         "POST_BILL_PAY",
         "RETURNS_PRINT_AT_POST",
         "TRAVEL_INSURANCE"
+      ]
+    },
+    {
+      "id": "361578_PO",
+      "type": "PO",
+      "name": "Batesford CPA",
+      "phone": "0414 318 576",
+      "fax": null,
+      "address": {
+        "line1": "495 Ballarat Rd",
+        "line2": null,
+        "suburb": "BATESFORD",
+        "state": "VIC",
+        "postcode": "3213",
+        "country": "Australia"
+      },
+      "lat": -38.09606201,
+      "lon": 144.30026414,
+      "trading_hours": {
+        "MON": {
+          "open": "07:00",
+          "close": "18:00"
+        },
+        "TUE": {
+          "open": "07:00",
+          "close": "18:00"
+        },
+        "WED": {
+          "open": "07:00",
+          "close": "18:00"
+        },
+        "THU": {
+          "open": "07:00",
+          "close": "18:00"
+        },
+        "FRI": {
+          "open": "07:00",
+          "close": "18:00"
+        },
+        "SAT": {
+          "open": "09:00",
+          "close": "17:00"
+        },
+        "SUN": {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      },
+      "services": [
+        "OPEN_AFTER_500PM_WEEKDAYS",
+        "OPEN_BEFORE_900AM_WEEKDAYS",
+        "OPEN_SATURDAY",
+        "PARCEL_COLLECT"
       ]
     },
     {
@@ -301510,6 +301563,53 @@
       },
       "services": [
         "PARCEL_COLLECT"
+      ]
+    },
+    {
+      "id": "315651_PO",
+      "type": "PO",
+      "name": "CLYDE NORTH PARCELS",
+      "phone": "13 13 18",
+      "fax": "(03)8633 1955",
+      "address": {
+        "line1": "52a Titan Dr",
+        "line2": null,
+        "suburb": "CLYDE NORTH",
+        "state": "VIC",
+        "postcode": "3978",
+        "country": "Australia"
+      },
+      "lat": -38.091469,
+      "lon": 145.344426,
+      "trading_hours": {
+        "MON": {
+          "open": "09:00",
+          "close": "17:00"
+        },
+        "TUE": {
+          "open": "09:00",
+          "close": "17:00"
+        },
+        "WED": {
+          "open": "09:00",
+          "close": "17:00"
+        },
+        "THU": {
+          "open": "09:00",
+          "close": "17:00"
+        },
+        "FRI": {
+          "open": "09:00",
+          "close": "17:00"
+        },
+        "SAT": null,
+        "SUN": null
+      },
+      "services": [
+        "INTERNATIONAL_COURIER",
+        "OPEN_BEFORE_900AM_WEEKDAYS",
+        "PARCEL_COLLECT",
+        "VENDING"
       ]
     },
     {
