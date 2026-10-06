@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-05T10:32:19Z",
+  "generated_at": "2026-10-06T10:21:45Z",
   "source": "https://digitalapi.auspost.com.au/locations-private/v3/workcentres",
-  "count": 5709,
+  "count": 5710,
   "count_by_type": {
-    "PO": 4133,
+    "PO": 4134,
     "UPL": 1450,
     "OS": 89,
     "DC": 37
@@ -62734,6 +62734,51 @@
       ]
     },
     {
+      "id": "290562_PO",
+      "type": "PO",
+      "name": "Lismore Heights CPA",
+      "phone": "(02) 6628 3792",
+      "fax": null,
+      "address": {
+        "line1": "426 Ballina Rd",
+        "line2": null,
+        "suburb": "LISMORE HEIGHTS",
+        "state": "NSW",
+        "postcode": "2480",
+        "country": "Australia"
+      },
+      "lat": -28.81068067,
+      "lon": 153.30530649,
+      "trading_hours": {
+        "MON": {
+          "open": "08:00",
+          "close": "12:00"
+        },
+        "TUE": {
+          "open": "08:00",
+          "close": "12:00"
+        },
+        "WED": {
+          "open": "08:00",
+          "close": "12:00"
+        },
+        "THU": {
+          "open": "08:00",
+          "close": "12:00"
+        },
+        "FRI": {
+          "open": "08:00",
+          "close": "12:00"
+        },
+        "SAT": null,
+        "SUN": null
+      },
+      "services": [
+        "OPEN_BEFORE_900AM_WEEKDAYS",
+        "PARCEL_COLLECT"
+      ]
+    },
+    {
       "id": "216477_PO",
       "type": "PO",
       "name": "Lismore Post Office",
@@ -74134,6 +74179,7 @@
         "BANK_AT_POST",
         "NATIONAL_POLICE_CERTIFICATE_APPLICATION_FORM_QLD",
         "NATIONAL_POLICE_CERTIFICATE_APPLICATION_FORM_WA",
+        "OPEN_BEFORE_900AM_WEEKDAYS",
         "PARCEL_COLLECT",
         "POST_BILL_PAY",
         "PO_BOXES_AVAILABLE",
@@ -162263,7 +162309,7 @@
     {
       "id": "81220790_UPL",
       "type": "UPL",
-      "name": "Mount Isa Camooweal St  Parcel Locker",
+      "name": "Mount Isa Camooweal St Parcel Locker",
       "phone": "1800 422 406",
       "fax": null,
       "address": {
@@ -185780,6 +185826,7 @@
         "SUN": null
       },
       "services": [
+        "OPEN_AFTER_500PM_WEEKDAYS",
         "PARCEL_COLLECT"
       ]
     },
@@ -242719,7 +242766,7 @@
         },
         "SAT": {
           "open": "09:00",
-          "close": "17:00"
+          "close": "12:00"
         },
         "SUN": null
       },
@@ -259042,38 +259089,29 @@
       "lon": 143.83863381,
       "trading_hours": {
         "MON": {
-          "open": "09:00",
-          "close": "18:00"
+          "open": "10:00",
+          "close": "16:00"
         },
         "TUE": {
-          "open": "09:00",
-          "close": "18:00"
+          "open": "10:00",
+          "close": "16:00"
         },
         "WED": {
-          "open": "09:00",
-          "close": "18:00"
+          "open": "10:00",
+          "close": "16:00"
         },
         "THU": {
-          "open": "09:00",
-          "close": "18:00"
+          "open": "10:00",
+          "close": "16:00"
         },
         "FRI": {
-          "open": "09:00",
-          "close": "18:00"
+          "open": "10:00",
+          "close": "16:00"
         },
-        "SAT": {
-          "open": "09:00",
-          "close": "18:00"
-        },
-        "SUN": {
-          "open": "09:00",
-          "close": "18:00"
-        }
+        "SAT": null,
+        "SUN": null
       },
       "services": [
-        "OPEN_AFTER_500PM_WEEKDAYS",
-        "OPEN_BEFORE_900AM_WEEKDAYS",
-        "OPEN_SATURDAY",
         "PARCEL_COLLECT"
       ]
     },
@@ -259434,7 +259472,6 @@
         "QLD_WEAPONS_LICENSING",
         "RETURNS_PRINT_AT_POST",
         "TRAVEL_INSURANCE",
-        "WESTERN_UNION_MONEY_TRANSFER",
         "WORKING_WITH_CHILDREN_CHECK_VIC"
       ]
     },
@@ -301570,7 +301607,7 @@
       "type": "PO",
       "name": "CLYDE NORTH PARCELS",
       "phone": "13 13 18",
-      "fax": "(03)8633 1955",
+      "fax": null,
       "address": {
         "line1": "52a Titan Dr",
         "line2": null,
@@ -301583,23 +301620,23 @@
       "lon": 145.344426,
       "trading_hours": {
         "MON": {
-          "open": "09:00",
+          "open": "08:00",
           "close": "17:00"
         },
         "TUE": {
-          "open": "09:00",
+          "open": "08:00",
           "close": "17:00"
         },
         "WED": {
-          "open": "09:00",
+          "open": "08:00",
           "close": "17:00"
         },
         "THU": {
-          "open": "09:00",
+          "open": "08:00",
           "close": "17:00"
         },
         "FRI": {
-          "open": "09:00",
+          "open": "08:00",
           "close": "17:00"
         },
         "SAT": null,
@@ -315148,6 +315185,7 @@
         "OPEN_SATURDAY",
         "PARCEL_COLLECT",
         "POST_BILL_PAY",
+        "PO_BOXES_AVAILABLE",
         "PO_BOXES_INSTALLED",
         "RETURNS_PRINT_AT_POST",
         "TRAVEL_INSURANCE",
