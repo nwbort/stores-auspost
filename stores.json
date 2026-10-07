@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-06T10:21:45Z",
+  "generated_at": "2026-10-07T10:21:18Z",
   "source": "https://digitalapi.auspost.com.au/locations-private/v3/workcentres",
-  "count": 5710,
+  "count": 5712,
   "count_by_type": {
-    "PO": 4134,
-    "UPL": 1450,
+    "PO": 4135,
+    "UPL": 1451,
     "OS": 89,
     "DC": 37
   },
@@ -70787,6 +70787,7 @@
         "OPEN_BEFORE_900AM_WEEKDAYS",
         "PARCEL_COLLECT",
         "POST_BILL_PAY",
+        "PO_BOXES_AVAILABLE",
         "PO_BOXES_INSTALLED",
         "RETURNS_PRINT_AT_POST",
         "TRAVEL_INSURANCE"
@@ -90678,8 +90679,8 @@
       "phone": "13 13 18",
       "fax": "(02)8394 1301",
       "address": {
-        "line1": "Shop 33",
-        "line2": "49 North Pde",
+        "line1": "Mount Druitt Shopping Centre",
+        "line2": "Shop 33",
         "suburb": "MOUNT DRUITT",
         "state": "NSW",
         "postcode": "2770",
@@ -90830,8 +90831,8 @@
       "phone": "1800 422 406",
       "fax": null,
       "address": {
-        "line1": "L 1 49 North Pde",
-        "line2": null,
+        "line1": "Mount Druitt Shopping Centre",
+        "line2": "L 1 49 North Pde",
         "suburb": "MOUNT DRUITT",
         "state": "NSW",
         "postcode": "2770",
@@ -93613,6 +93614,56 @@
       "services": [
         "PO_BOXES_AVAILABLE",
         "PO_BOXES_INSTALLED"
+      ]
+    },
+    {
+      "id": "77172077_UPL",
+      "type": "UPL",
+      "name": "Orange Central Square Parcel Locker",
+      "phone": "1800 422 406",
+      "fax": null,
+      "address": {
+        "line1": "Orange Central Square",
+        "line2": "229-237 Summer St",
+        "suburb": "ORANGE",
+        "state": "NSW",
+        "postcode": "2800",
+        "country": "Australia"
+      },
+      "lat": -33.28382964,
+      "lon": 149.10026268,
+      "trading_hours": {
+        "MON": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "TUE": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "WED": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "THU": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "FRI": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "SAT": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "SUN": {
+          "open": "00:00",
+          "close": "23:59"
+        }
+      },
+      "services": [
+        "PARCEL_COLLECT"
       ]
     },
     {
@@ -101891,7 +101942,6 @@
         "OPEN_SATURDAY",
         "PARCEL_COLLECT",
         "POST_BILL_PAY",
-        "PO_BOXES_AVAILABLE",
         "PO_BOXES_INSTALLED",
         "RETURNS_PRINT_AT_POST",
         "TRAVEL_INSURANCE",
@@ -124738,7 +124788,7 @@
       "type": "DC",
       "name": "Arundel Delivery Centre",
       "phone": "13 13 18",
-      "fax": "(07)5500 5875",
+      "fax": null,
       "address": {
         "line1": "9-11 Telford Pl",
         "line2": null,
@@ -152688,8 +152738,8 @@
         "postcode": "4701",
         "country": "Australia"
       },
-      "lat": -23.31963383,
-      "lon": 150.5215597,
+      "lat": -23.32417038,
+      "lon": 150.51808778,
       "trading_hours": {
         "MON": {
           "open": "09:00",
@@ -158017,6 +158067,55 @@
       ]
     },
     {
+      "id": "400015_PO",
+      "type": "PO",
+      "name": "Bucasia CPA",
+      "phone": "(07) 4954 6655",
+      "fax": null,
+      "address": {
+        "line1": "Shop 4",
+        "line2": "44-52 Downie Ave",
+        "suburb": "BUCASIA",
+        "state": "QLD",
+        "postcode": "4750",
+        "country": "Australia"
+      },
+      "lat": -21.03639054,
+      "lon": 149.15743381,
+      "trading_hours": {
+        "MON": {
+          "open": "08:30",
+          "close": "17:30"
+        },
+        "TUE": {
+          "open": "08:30",
+          "close": "17:30"
+        },
+        "WED": {
+          "open": "08:30",
+          "close": "17:30"
+        },
+        "THU": {
+          "open": "08:30",
+          "close": "17:30"
+        },
+        "FRI": {
+          "open": "08:30",
+          "close": "17:30"
+        },
+        "SAT": {
+          "open": "08:30",
+          "close": "12:30"
+        },
+        "SUN": null
+      },
+      "services": [
+        "OPEN_AFTER_500PM_WEEKDAYS",
+        "OPEN_BEFORE_900AM_WEEKDAYS",
+        "OPEN_SATURDAY"
+      ]
+    },
+    {
       "id": "446096_PO",
       "type": "PO",
       "name": "Walkerston Post Office",
@@ -160519,7 +160618,7 @@
       "phone": "1800 422 406",
       "fax": null,
       "address": {
-        "line1": "22 Crowder St",
+        "line1": "441 Ingham Rd",
         "line2": null,
         "suburb": "GARBUTT",
         "state": "QLD",
@@ -242575,8 +242674,8 @@
         "postcode": "3145",
         "country": "Australia"
       },
-      "lat": -37.88878571,
-      "lon": 145.08194042,
+      "lat": -37.8862,
+      "lon": 145.0847,
       "trading_hours": {
         "MON": {
           "open": "09:00",
@@ -242625,8 +242724,8 @@
         "postcode": "3145",
         "country": "Australia"
       },
-      "lat": -37.8875685,
-      "lon": 145.08037757,
+      "lat": -37.8862,
+      "lon": 145.0847,
       "trading_hours": {
         "MON": {
           "open": "00:00",
@@ -259966,7 +260065,7 @@
       "type": "PO",
       "name": "Noorat Post Office",
       "phone": "(03) 5592 5308",
-      "fax": "(03)5592 1575",
+      "fax": null,
       "address": {
         "line1": "19 Terang-Mortlake Rd",
         "line2": null,
@@ -262621,7 +262720,6 @@
         "OPEN_BEFORE_900AM_WEEKDAYS",
         "PARCEL_COLLECT",
         "POST_BILL_PAY",
-        "PO_BOXES_AVAILABLE",
         "PO_BOXES_INSTALLED",
         "RETURNS_PRINT_AT_POST",
         "TRAVEL_INSURANCE"
@@ -285972,8 +286070,8 @@
       "id": "375873_PO",
       "type": "PO",
       "name": "Bright Post Office",
-      "phone": "0476 790 397",
-      "fax": "(03)5755 2135",
+      "phone": "13 13 18",
+      "fax": null,
       "address": {
         "line1": "Shop 2",
         "line2": "82 Gavan St",
@@ -286006,7 +286104,7 @@
           "close": "17:00"
         },
         "SAT": {
-          "open": "09:00",
+          "open": "10:00",
           "close": "12:00"
         },
         "SUN": null
@@ -297108,7 +297206,7 @@
       "phone": "(03) 5978 6209",
       "fax": "(03)5978 5188",
       "address": {
-        "line1": "Shop 7a",
+        "line1": "Shop 8",
         "line2": "75-99 Baxter-Tooradin Rd",
         "suburb": "PEARCEDALE",
         "state": "VIC",
@@ -301616,8 +301714,8 @@
         "postcode": "3978",
         "country": "Australia"
       },
-      "lat": -38.091469,
-      "lon": 145.344426,
+      "lat": -38.09308645,
+      "lon": 145.3436295,
       "trading_hours": {
         "MON": {
           "open": "08:00",
@@ -305175,7 +305273,7 @@
       "phone": "13 13 18",
       "fax": "(08)9212 5620",
       "address": {
-        "line1": "Floreat Forum S/c",
+        "line1": "Floreat Forum Shopping Mall",
         "line2": "Shop 88",
         "suburb": "FLOREAT",
         "state": "WA",
@@ -305253,7 +305351,7 @@
       "phone": "1800 422 406",
       "fax": null,
       "address": {
-        "line1": "Floreat Forum S/c",
+        "line1": "Floreat Forum Shopping Mall",
         "line2": "Shop 88",
         "suburb": "FLOREAT",
         "state": "WA",
@@ -318203,7 +318301,7 @@
       "phone": "(08) 9367 2561",
       "fax": "(08)9367 2561",
       "address": {
-        "line1": "Preston St Shopping Centre",
+        "line1": "Como Centre",
         "line2": "Shop 4",
         "suburb": "COMO",
         "state": "WA",
@@ -318942,7 +319040,7 @@
       "phone": "1800 422 406",
       "fax": null,
       "address": {
-        "line1": "Garden City Shopping Centre",
+        "line1": "Westfield Booragoon",
         "line2": "Shop 125",
         "suburb": "BOORAGOON",
         "state": "WA",
@@ -332208,7 +332306,6 @@
         "OPEN_BEFORE_900AM_WEEKDAYS",
         "PARCEL_COLLECT",
         "POST_BILL_PAY",
-        "PO_BOXES_AVAILABLE",
         "PO_BOXES_INSTALLED",
         "RETURNS_PRINT_AT_POST",
         "TRAVEL_INSURANCE"
@@ -337896,6 +337993,7 @@
         "OPEN_BEFORE_900AM_WEEKDAYS",
         "PARCEL_COLLECT",
         "POST_BILL_PAY",
+        "PO_BOXES_AVAILABLE",
         "PO_BOXES_INSTALLED",
         "QLD_SECURITY_CLEARANCE_CARD",
         "QLD_WEAPONS_LICENSING",
