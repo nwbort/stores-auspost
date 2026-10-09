@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-08T10:39:35Z",
+  "generated_at": "2026-10-09T10:38:39Z",
   "source": "https://digitalapi.auspost.com.au/locations-private/v3/workcentres",
-  "count": 5715,
+  "count": 5716,
   "count_by_type": {
     "PO": 4135,
-    "UPL": 1454,
+    "UPL": 1455,
     "OS": 89,
     "DC": 37
   },
@@ -6005,6 +6005,56 @@
         },
         "SAT": null,
         "SUN": null
+      },
+      "services": [
+        "PARCEL_COLLECT"
+      ]
+    },
+    {
+      "id": "96353714_UPL",
+      "type": "UPL",
+      "name": "Central Park Parcel Locker",
+      "phone": "1800 422 406",
+      "fax": null,
+      "address": {
+        "line1": "Lg 28 Broadway",
+        "line2": null,
+        "suburb": "CHIPPENDALE",
+        "state": "NSW",
+        "postcode": "2008",
+        "country": "Australia"
+      },
+      "lat": -33.88473881,
+      "lon": 151.2006047,
+      "trading_hours": {
+        "MON": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "TUE": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "WED": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "THU": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "FRI": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "SAT": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "SUN": {
+          "open": "00:00",
+          "close": "23:59"
+        }
       },
       "services": [
         "PARCEL_COLLECT"
@@ -81591,23 +81641,23 @@
       "trading_hours": {
         "MON": {
           "open": "15:30",
-          "close": "17:00"
+          "close": "17:30"
         },
         "TUE": {
           "open": "09:00",
-          "close": "17:00"
+          "close": "17:30"
         },
         "WED": {
           "open": "15:30",
-          "close": "17:00"
+          "close": "17:30"
         },
         "THU": {
           "open": "09:00",
-          "close": "17:00"
+          "close": "17:30"
         },
         "FRI": {
           "open": "15:30",
-          "close": "17:00"
+          "close": "17:30"
         },
         "SAT": null,
         "SUN": null
@@ -81622,6 +81672,7 @@
         "MONEY_ORDER",
         "NATIONAL_POLICE_CERTIFICATE_APPLICATION_FORM_QLD",
         "NATIONAL_POLICE_CERTIFICATE_APPLICATION_FORM_WA",
+        "OPEN_AFTER_500PM_WEEKDAYS",
         "OPEN_BEFORE_900AM_WEEKDAYS",
         "PARCEL_COLLECT",
         "POST_BILL_PAY",
@@ -151670,7 +151721,7 @@
     {
       "id": "407222_DC",
       "type": "DC",
-      "name": "Gladstone DC",
+      "name": "Gladstone Delivery Centre",
       "phone": "13 13 18",
       "fax": "(07)3026 3470",
       "address": {
@@ -167668,8 +167719,8 @@
         "postcode": "4875",
         "country": "Australia"
       },
-      "lat": -9.50835239,
-      "lon": 143.53022651,
+      "lat": -9.505325,
+      "lon": 143.546953,
       "trading_hours": {
         "MON": {
           "open": "14:00",
@@ -187556,7 +187607,6 @@
         "OPEN_BEFORE_900AM_WEEKDAYS",
         "PARCEL_COLLECT",
         "POST_BILL_PAY",
-        "PO_BOXES_AVAILABLE",
         "PO_BOXES_INSTALLED",
         "RETURNS_PRINT_AT_POST",
         "TRAVEL_INSURANCE",
@@ -192555,7 +192605,6 @@
         "OPEN_BEFORE_900AM_WEEKDAYS",
         "PARCEL_COLLECT",
         "POST_BILL_PAY",
-        "PO_BOXES_AVAILABLE",
         "PO_BOXES_INSTALLED",
         "QLD_SECURITY_CLEARANCE_CARD",
         "QLD_WEAPONS_LICENSING",
@@ -209752,7 +209801,7 @@
     {
       "id": "702272_OS",
       "type": "OS",
-      "name": "Launceston DC",
+      "name": "Launceston Delivery Centre",
       "phone": "13 13 18",
       "fax": "(03)6236 8377",
       "address": {
@@ -214513,7 +214562,7 @@
     {
       "id": "702635_OS",
       "type": "OS",
-      "name": "Burnie DC",
+      "name": "Burnie Delivery Centre",
       "phone": "13 13 18",
       "fax": "(03)6236 8333",
       "address": {
@@ -250502,8 +250551,8 @@
         "postcode": "3186",
         "country": "Australia"
       },
-      "lat": -37.90596212,
-      "lon": 145.00447341,
+      "lat": -37.90586389,
+      "lon": 145.00449617,
       "trading_hours": {
         "MON": {
           "open": "13:00",
@@ -250529,7 +250578,8 @@
         "SUN": null
       },
       "services": [
-        "OPEN_AFTER_500PM_WEEKDAYS"
+        "OPEN_AFTER_500PM_WEEKDAYS",
+        "PARCEL_COLLECT"
       ]
     },
     {
@@ -250546,8 +250596,8 @@
         "postcode": "3186",
         "country": "Australia"
       },
-      "lat": -37.90586389,
-      "lon": 145.00449617,
+      "lat": -37.90596212,
+      "lon": 145.00447341,
       "trading_hours": {
         "MON": {
           "open": "09:00",
@@ -250594,7 +250644,6 @@
         "NATIONAL_POLICE_CERTIFICATE_APPLICATION_FORM_QLD",
         "NATIONAL_POLICE_CERTIFICATE_APPLICATION_FORM_WA",
         "OPEN_BEFORE_900AM_WEEKDAYS",
-        "PARCEL_COLLECT",
         "POST_BILL_PAY",
         "PO_BOXES_AVAILABLE",
         "PO_BOXES_INSTALLED",
@@ -272123,7 +272172,6 @@
         "OPEN_SATURDAY",
         "PARCEL_COLLECT",
         "POST_BILL_PAY",
-        "PO_BOXES_AVAILABLE",
         "PO_BOXES_INSTALLED",
         "RETURNS_PRINT_AT_POST",
         "TRAVEL_INSURANCE"
@@ -308640,33 +308688,30 @@
       "lon": 115.78918565,
       "trading_hours": {
         "MON": {
-          "open": "08:00",
-          "close": "18:00"
+          "open": "09:00",
+          "close": "17:30"
         },
         "TUE": {
-          "open": "08:00",
-          "close": "18:00"
+          "open": "09:00",
+          "close": "17:30"
         },
         "WED": {
-          "open": "08:00",
-          "close": "18:00"
+          "open": "09:00",
+          "close": "17:30"
         },
         "THU": {
-          "open": "08:00",
-          "close": "18:00"
+          "open": "09:00",
+          "close": "17:30"
         },
         "FRI": {
-          "open": "08:00",
-          "close": "18:00"
+          "open": "09:00",
+          "close": "17:30"
         },
         "SAT": {
-          "open": "08:00",
-          "close": "17:00"
+          "open": "09:00",
+          "close": "16:00"
         },
-        "SUN": {
-          "open": "11:00",
-          "close": "17:00"
-        }
+        "SUN": null
       },
       "services": [
         "OPEN_AFTER_500PM_WEEKDAYS",
@@ -336352,6 +336397,7 @@
         "OPEN_BEFORE_900AM_WEEKDAYS",
         "PARCEL_COLLECT",
         "POST_BILL_PAY",
+        "PO_BOXES_AVAILABLE",
         "PO_BOXES_INSTALLED",
         "QLD_SECURITY_CLEARANCE_CARD",
         "QLD_WEAPONS_LICENSING",
