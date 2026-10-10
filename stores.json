@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T10:38:39Z",
+  "generated_at": "2026-10-10T09:56:07Z",
   "source": "https://digitalapi.auspost.com.au/locations-private/v3/workcentres",
   "count": 5716,
   "count_by_type": {
@@ -76638,7 +76638,6 @@
         "MONEY_ORDER",
         "NATIONAL_POLICE_CERTIFICATE_APPLICATION_FORM_QLD",
         "NATIONAL_POLICE_CERTIFICATE_APPLICATION_FORM_WA",
-        "OPEN_BEFORE_900AM_WEEKDAYS",
         "PARCEL_COLLECT",
         "PARCEL_PICKUP_OUTSIDE_STANDARD_HOURS",
         "POST_BILL_PAY",
@@ -90855,7 +90854,7 @@
       "id": "240135_PO",
       "type": "PO",
       "name": "Mount Druitt Village Post Office",
-      "phone": "(02) 9625 3373",
+      "phone": null,
       "fax": "(02)9625 7442",
       "address": {
         "line1": "31 Mount Druitt Rd",
@@ -99021,7 +99020,7 @@
       "phone": "(08) 8087 6910",
       "fax": "(08)8087 6910",
       "address": {
-        "line1": "158 Patton St",
+        "line1": "84 Patton St",
         "line2": null,
         "suburb": "BROKEN HILL",
         "state": "NSW",
@@ -176549,7 +176548,6 @@
         "MONEY_ORDER",
         "NATIONAL_POLICE_CERTIFICATE_APPLICATION_FORM_QLD",
         "NATIONAL_POLICE_CERTIFICATE_APPLICATION_FORM_WA",
-        "OPEN_AFTER_500PM_WEEKDAYS",
         "OPEN_BEFORE_900AM_WEEKDAYS",
         "OPEN_SATURDAY",
         "PARCEL_COLLECT",
@@ -185679,7 +185677,6 @@
         "OPEN_SATURDAY",
         "PARCEL_COLLECT",
         "POST_BILL_PAY",
-        "PO_BOXES_AVAILABLE",
         "PO_BOXES_INSTALLED",
         "RETURNS_PRINT_AT_POST",
         "TRAVEL_INSURANCE"
@@ -193653,7 +193650,6 @@
         "NATIONAL_POLICE_CERTIFICATE_APPLICATION_FORM_WA",
         "PARCEL_COLLECT",
         "POST_BILL_PAY",
-        "PO_BOXES_AVAILABLE",
         "PO_BOXES_INSTALLED",
         "RETURNS_PRINT_AT_POST",
         "TRAVEL_INSURANCE"
@@ -338198,7 +338194,6 @@
         "OPEN_BEFORE_900AM_WEEKDAYS",
         "PARCEL_COLLECT",
         "POST_BILL_PAY",
-        "PO_BOXES_AVAILABLE",
         "PO_BOXES_INSTALLED",
         "QLD_SECURITY_CLEARANCE_CARD",
         "QLD_WEAPONS_LICENSING",
@@ -339696,7 +339691,6 @@
         "OPEN_BEFORE_900AM_WEEKDAYS",
         "PARCEL_COLLECT",
         "POST_BILL_PAY",
-        "PO_BOXES_AVAILABLE",
         "PO_BOXES_INSTALLED",
         "QLD_SECURITY_CLEARANCE_CARD",
         "QLD_WEAPONS_LICENSING",
