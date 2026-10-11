@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T09:56:07Z",
+  "generated_at": "2026-10-11T10:05:32Z",
   "source": "https://digitalapi.auspost.com.au/locations-private/v3/workcentres",
   "count": 5716,
   "count_by_type": {
@@ -270168,7 +270168,6 @@
         "OPEN_SATURDAY",
         "PARCEL_COLLECT",
         "POST_BILL_PAY",
-        "PO_BOXES_AVAILABLE",
         "PO_BOXES_INSTALLED",
         "RETURNS_PRINT_AT_POST",
         "TRAVEL_INSURANCE"
@@ -298532,6 +298531,7 @@
         "OPEN_SATURDAY",
         "PARCEL_COLLECT",
         "POST_BILL_PAY",
+        "PO_BOXES_AVAILABLE",
         "PO_BOXES_INSTALLED",
         "RETURNS_PRINT_AT_POST",
         "TRAVEL_INSURANCE"
