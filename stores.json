@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-12T10:53:47Z",
+  "generated_at": "2026-10-13T10:41:35Z",
   "source": "https://digitalapi.auspost.com.au/locations-private/v3/workcentres",
-  "count": 5719,
+  "count": 5720,
   "count_by_type": {
     "PO": 4135,
-    "UPL": 1458,
+    "UPL": 1459,
     "OS": 89,
     "DC": 37
   },
@@ -40548,15 +40548,15 @@
       "phone": "1800 422 406",
       "fax": null,
       "address": {
-        "line1": "G 342-344 The Entrance Rd",
+        "line1": "342-344 The Entrance Rd",
         "line2": null,
         "suburb": "LONG JETTY",
         "state": "NSW",
         "postcode": "2261",
         "country": "Australia"
       },
-      "lat": -33.35983779,
-      "lon": 151.4838916,
+      "lat": -33.35986039,
+      "lon": 151.48384265,
       "trading_hours": {
         "MON": {
           "open": "00:00",
@@ -76688,6 +76688,7 @@
         "MONEY_ORDER",
         "NATIONAL_POLICE_CERTIFICATE_APPLICATION_FORM_QLD",
         "NATIONAL_POLICE_CERTIFICATE_APPLICATION_FORM_WA",
+        "OPEN_BEFORE_900AM_WEEKDAYS",
         "PARCEL_COLLECT",
         "PARCEL_PICKUP_OUTSIDE_STANDARD_HOURS",
         "POST_BILL_PAY",
@@ -80732,7 +80733,6 @@
         "OPEN_BEFORE_900AM_WEEKDAYS",
         "PARCEL_COLLECT",
         "POST_BILL_PAY",
-        "PO_BOXES_AVAILABLE",
         "PO_BOXES_INSTALLED",
         "RETURNS_PRINT_AT_POST",
         "TRAVEL_INSURANCE",
@@ -111825,27 +111825,27 @@
       "lon": 153.00499018,
       "trading_hours": {
         "MON": {
-          "open": "08:00",
+          "open": "09:00",
           "close": "17:00"
         },
         "TUE": {
-          "open": "08:00",
+          "open": "09:00",
           "close": "17:00"
         },
         "WED": {
-          "open": "08:00",
+          "open": "09:00",
           "close": "17:00"
         },
         "THU": {
-          "open": "08:00",
+          "open": "09:00",
           "close": "17:00"
         },
         "FRI": {
-          "open": "08:00",
+          "open": "09:00",
           "close": "17:00"
         },
         "SAT": {
-          "open": "08:00",
+          "open": "09:00",
           "close": "16:00"
         },
         "SUN": null
@@ -153523,10 +153523,7 @@
           "close": "11:30"
         },
         "SAT": null,
-        "SUN": {
-          "open": "08:30",
-          "close": "11:30"
-        }
+        "SUN": null
       },
       "services": [
         "OPEN_AFTER_500PM_WEEKDAYS",
@@ -174683,7 +174680,7 @@
       "fax": "(08)8277 7477",
       "address": {
         "line1": "Park Holme Shopping Centre",
-        "line2": "Shop 4",
+        "line2": "Shop 10",
         "suburb": "PARK HOLME",
         "state": "SA",
         "postcode": "5043",
@@ -178412,6 +178409,7 @@
         "NATIONAL_POLICE_CERTIFICATE_APPLICATION_FORM_WA",
         "OPEN_BEFORE_900AM_WEEKDAYS",
         "PARCEL_COLLECT",
+        "PARCEL_PICKUP_OUTSIDE_STANDARD_HOURS",
         "POST_BILL_PAY",
         "PO_BOXES_AVAILABLE",
         "PO_BOXES_INSTALLED",
@@ -193651,7 +193649,7 @@
       "id": "543531_PO",
       "type": "PO",
       "name": "Truro Post Office",
-      "phone": "(08) 8564 0237",
+      "phone": "(08) 8664 0172",
       "fax": "(08)8564 0237",
       "address": {
         "line1": "45-47 Moorundie St",
@@ -194670,7 +194668,7 @@
       "id": "538329_PO",
       "type": "PO",
       "name": "MINTARO CPA",
-      "phone": "0498 998 778",
+      "phone": "0427 616 270",
       "fax": null,
       "address": {
         "line1": "2 Burra St",
@@ -216801,6 +216799,7 @@
       "services": [
         "DAMAGED_PARCEL_ASSESSMENT",
         "NATIONAL_POLICE_CERTIFICATE_APPLICATION_FORM_QLD",
+        "OPEN_BEFORE_900AM_WEEKDAYS",
         "PARCEL_COLLECT",
         "PO_BOXES_AVAILABLE",
         "PO_BOXES_INSTALLED"
@@ -276661,6 +276660,56 @@
       ]
     },
     {
+      "id": "96000909_UPL",
+      "type": "UPL",
+      "name": "California Gully LPO Parcel Locker",
+      "phone": "1800 422 406",
+      "fax": null,
+      "address": {
+        "line1": "313 Eaglehawk Rd",
+        "line2": null,
+        "suburb": "CALIFORNIA GULLY",
+        "state": "VIC",
+        "postcode": "3556",
+        "country": "Australia"
+      },
+      "lat": -36.73142498,
+      "lon": 144.2572424,
+      "trading_hours": {
+        "MON": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "TUE": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "WED": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "THU": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "FRI": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "SAT": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "SUN": {
+          "open": "00:00",
+          "close": "23:59"
+        }
+      },
+      "services": [
+        "PARCEL_COLLECT"
+      ]
+    },
+    {
       "id": "328559_PO",
       "type": "PO",
       "name": "California Gully Post Office",
@@ -314006,7 +314055,6 @@
         "ID_PHOTOS_EMAIL_DIGITAL_COPY",
         "INSTANT_PASSPORT_AND_ID_PHOTOS",
         "LAND_TITLE_ID_CHECK_EXPRESS_SERVICE",
-        "MARITIME_SECURITY_IDENTITY_CARD",
         "ME_BANK",
         "MONEY_ORDER",
         "NATIONAL_POLICE_CERTIFICATE_APPLICATION_FORM_QLD",
@@ -314670,7 +314718,7 @@
       "type": "OS",
       "name": "MALAGA DC",
       "phone": "13 13 18",
-      "fax": "(08)9209 3249",
+      "fax": null,
       "address": {
         "line1": "71 Kent Way",
         "line2": null,
@@ -325221,7 +325269,7 @@
       "id": "660383_PO",
       "type": "PO",
       "name": "Bunbury East Post Office",
-      "phone": "(08) 9721 2545",
+      "phone": "13 13 18",
       "fax": null,
       "address": {
         "line1": "Bunbury Forum",
@@ -328687,8 +328735,8 @@
       "id": "633246_PO",
       "type": "PO",
       "name": "Cuballing Post Office",
-      "phone": "(08) 9883 6026",
-      "fax": "(08)9883 6473",
+      "phone": "(08) 08 9887 5507",
+      "fax": null,
       "address": {
         "line1": "121 Ridley St",
         "line2": null,
@@ -335721,7 +335769,7 @@
       "id": "660914_PO",
       "type": "PO",
       "name": "Muchea Post Office",
-      "phone": null,
+      "phone": "13 13 18",
       "fax": null,
       "address": {
         "line1": "176 Brand Hwy",
@@ -336543,7 +336591,6 @@
         "OPEN_BEFORE_900AM_WEEKDAYS",
         "PARCEL_COLLECT",
         "POST_BILL_PAY",
-        "PO_BOXES_AVAILABLE",
         "PO_BOXES_INSTALLED",
         "QLD_SECURITY_CLEARANCE_CARD",
         "QLD_WEAPONS_LICENSING",
@@ -337127,7 +337174,6 @@
         "INSTANT_PASSPORT_AND_ID_PHOTOS",
         "LAND_TITLE_ID_CHECK_EXPRESS_SERVICE",
         "LICENCE_TO_PERFORM_HIGH_RISK_WORK_VIC_L2_L4_AND_RENEWALS",
-        "MARITIME_SECURITY_IDENTITY_CARD",
         "ME_BANK",
         "MONEY_ORDER",
         "NATIONAL_POLICE_CERTIFICATE_APPLICATION_FORM_QLD",
@@ -339376,7 +339422,7 @@
       "type": "PO",
       "name": "Meekatharra Post Office",
       "phone": "(08) 9981 1030",
-      "fax": "(08)9981 1447",
+      "fax": null,
       "address": {
         "line1": "62 Main St",
         "line2": null,
