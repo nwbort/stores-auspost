@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T08:47:52Z",
+  "generated_at": "2026-10-15T08:24:03Z",
   "source": "https://digitalapi.auspost.com.au/locations-private/v3/workcentres",
   "count": 5721,
   "count_by_type": {
@@ -28178,6 +28178,56 @@
         "PO_BOXES_INSTALLED",
         "RETURNS_PRINT_AT_POST",
         "TRAVEL_INSURANCE"
+      ]
+    },
+    {
+      "id": "31562451_UPL",
+      "type": "UPL",
+      "name": "Glenfield BP Parcel Locker",
+      "phone": "1800 422 406",
+      "fax": null,
+      "address": {
+        "line1": "530 Campbelltown Rd",
+        "line2": null,
+        "suburb": "GLENFIELD",
+        "state": "NSW",
+        "postcode": "2167",
+        "country": "Australia"
+      },
+      "lat": -33.96345872,
+      "lon": 150.8807339,
+      "trading_hours": {
+        "MON": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "TUE": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "WED": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "THU": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "FRI": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "SAT": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "SUN": {
+          "open": "00:00",
+          "close": "23:59"
+        }
+      },
+      "services": [
+        "PARCEL_COLLECT"
       ]
     },
     {
@@ -129982,23 +130032,23 @@
       "lon": 152.75907067,
       "trading_hours": {
         "MON": {
-          "open": "06:30",
+          "open": "07:00",
           "close": "17:30"
         },
         "TUE": {
-          "open": "06:30",
+          "open": "07:00",
           "close": "17:30"
         },
         "WED": {
-          "open": "06:30",
+          "open": "07:00",
           "close": "17:30"
         },
         "THU": {
-          "open": "06:30",
+          "open": "07:00",
           "close": "17:30"
         },
         "FRI": {
-          "open": "06:30",
+          "open": "07:00",
           "close": "17:00"
         },
         "SAT": {
@@ -130566,56 +130616,6 @@
       },
       "lat": -27.6378,
       "lon": 152.696,
-      "trading_hours": {
-        "MON": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "TUE": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "WED": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "THU": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "FRI": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "SAT": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "SUN": {
-          "open": "00:00",
-          "close": "23:59"
-        }
-      },
-      "services": [
-        "PARCEL_COLLECT"
-      ]
-    },
-    {
-      "id": "40157791_UPL",
-      "type": "UPL",
-      "name": "Ripley Town Centre Parcel Locker",
-      "phone": "1800 422 406",
-      "fax": null,
-      "address": {
-        "line1": "676 Ripley Rd",
-        "line2": null,
-        "suburb": "RIPLEY",
-        "state": "QLD",
-        "postcode": "4306",
-        "country": "Australia"
-      },
-      "lat": -27.68371803,
-      "lon": 152.801562,
       "trading_hours": {
         "MON": {
           "open": "00:00",
@@ -262832,6 +262832,7 @@
         "OPEN_BEFORE_900AM_WEEKDAYS",
         "PARCEL_COLLECT",
         "POST_BILL_PAY",
+        "PO_BOXES_AVAILABLE",
         "PO_BOXES_INSTALLED",
         "RETURNS_PRINT_AT_POST",
         "TRAVEL_INSURANCE"
@@ -300266,8 +300267,8 @@
         "postcode": "3978",
         "country": "Australia"
       },
-      "lat": -38.09308645,
-      "lon": 145.3436295,
+      "lat": -38.091826,
+      "lon": 145.344454,
       "trading_hours": {
         "MON": {
           "open": "08:00",
@@ -300313,8 +300314,8 @@
         "postcode": "3978",
         "country": "Australia"
       },
-      "lat": -38.09308645,
-      "lon": 145.3436295,
+      "lat": -38.091826,
+      "lon": 145.344454,
       "trading_hours": {
         "MON": {
           "open": "00:00",
@@ -335234,6 +335235,7 @@
         "INSTANT_PASSPORT_AND_ID_PHOTOS",
         "LAND_TITLE_ID_CHECK_EXPRESS_SERVICE",
         "LICENCE_TO_PERFORM_HIGH_RISK_WORK_VIC_L2_L4_AND_RENEWALS",
+        "MARITIME_SECURITY_IDENTITY_CARD",
         "ME_BANK",
         "MONEY_ORDER",
         "NATIONAL_POLICE_CERTIFICATE_APPLICATION_FORM_QLD",
