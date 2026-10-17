@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T08:16:00Z",
+  "generated_at": "2026-10-17T07:53:24Z",
   "source": "https://digitalapi.auspost.com.au/locations-private/v3/workcentres",
   "count": 5722,
   "count_by_type": {
@@ -133896,37 +133896,36 @@
       "lon": 151.56683001,
       "trading_hours": {
         "MON": {
-          "open": "08:00",
-          "close": "20:30"
+          "open": "10:00",
+          "close": "20:00"
         },
         "TUE": {
-          "open": "08:00",
-          "close": "20:30"
+          "open": "10:00",
+          "close": "20:00"
         },
         "WED": {
-          "open": "08:00",
-          "close": "20:30"
+          "open": "10:00",
+          "close": "20:00"
         },
         "THU": {
-          "open": "08:00",
-          "close": "20:30"
+          "open": "10:00",
+          "close": "20:00"
         },
         "FRI": {
-          "open": "08:00",
-          "close": "20:30"
+          "open": "10:00",
+          "close": "20:00"
         },
         "SAT": {
-          "open": "08:00",
-          "close": "20:30"
+          "open": "10:00",
+          "close": "20:00"
         },
         "SUN": {
-          "open": "08:00",
-          "close": "20:30"
+          "open": "10:00",
+          "close": "20:00"
         }
       },
       "services": [
         "OPEN_AFTER_500PM_WEEKDAYS",
-        "OPEN_BEFORE_900AM_WEEKDAYS",
         "OPEN_SATURDAY"
       ]
     },
@@ -177352,7 +177351,6 @@
         "MONEY_ORDER",
         "NATIONAL_POLICE_CERTIFICATE_APPLICATION_FORM_QLD",
         "NATIONAL_POLICE_CERTIFICATE_APPLICATION_FORM_WA",
-        "OPEN_BEFORE_900AM_WEEKDAYS",
         "PARCEL_COLLECT",
         "PARCEL_PICKUP_OUTSIDE_STANDARD_HOURS",
         "POST_BILL_PAY",
@@ -200789,7 +200787,6 @@
         "OPEN_BEFORE_900AM_WEEKDAYS",
         "PARCEL_COLLECT",
         "POST_BILL_PAY",
-        "PO_BOXES_AVAILABLE",
         "PO_BOXES_INSTALLED",
         "RETURNS_PRINT_AT_POST",
         "TRAVEL_INSURANCE"
@@ -313851,7 +313848,6 @@
         "OPEN_SATURDAY",
         "PARCEL_COLLECT",
         "POST_BILL_PAY",
-        "PO_BOXES_AVAILABLE",
         "PO_BOXES_INSTALLED",
         "RETURNS_PRINT_AT_POST",
         "TRAVEL_INSURANCE"
@@ -333794,7 +333790,7 @@
       "id": "637124_PO",
       "type": "PO",
       "name": "Kununoppin CPA",
-      "phone": "0428 832 132",
+      "phone": "13 13 18",
       "fax": null,
       "address": {
         "line1": "Lot 13 Wilson St",
