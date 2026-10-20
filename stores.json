@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T08:57:25Z",
+  "generated_at": "2026-10-20T08:37:55Z",
   "source": "https://digitalapi.auspost.com.au/locations-private/v3/workcentres",
   "count": 5724,
   "count_by_type": {
@@ -83440,8 +83440,8 @@
         "postcode": "2680",
         "country": "Australia"
       },
-      "lat": -34.25475784,
-      "lon": 145.9912066,
+      "lat": -34.25496266,
+      "lon": 145.99108992,
       "trading_hours": {
         "MON": {
           "open": "14:00",
@@ -83466,9 +83466,7 @@
         "SAT": null,
         "SUN": null
       },
-      "services": [
-        "PARCEL_COLLECT"
-      ]
+      "services": []
     },
     {
       "id": "246449_PO",
@@ -194474,23 +194472,23 @@
       "lon": 138.64524982,
       "trading_hours": {
         "MON": {
-          "open": "09:00",
+          "open": "13:30",
           "close": "17:00"
         },
         "TUE": {
-          "open": "09:00",
+          "open": "13:30",
           "close": "17:00"
         },
         "WED": {
-          "open": "09:00",
+          "open": "13:30",
           "close": "17:00"
         },
         "THU": {
-          "open": "09:00",
+          "open": "13:30",
           "close": "17:00"
         },
         "FRI": {
-          "open": "09:00",
+          "open": "13:30",
           "close": "17:00"
         },
         "SAT": null,
@@ -215608,12 +215606,36 @@
         "SUN": null
       },
       "services": [
+        "100_POINT_CHECK_VERIFICATION",
+        "ATO_INDIVIDUAL_TFN_SERVICES",
+        "AUSTRALIAN_PASSPORT",
+        "AUSTRALIA_POST_EVERYDAY_MASTERCARD",
+        "AUSTRALIA_POST_GIFT_CARD_MASTERCARD",
+        "AUSTRALIA_POST_TRAVEL_PLATINUM_MASTERCARD",
+        "BANKWEST_ID_VERIFICATION",
+        "BANK_AT_POST",
         "DAMAGED_PARCEL_ASSESSMENT",
+        "FOREIGN_CURRENCY",
+        "IDENTITY_VERIFICATION_FORM_REQUEST",
+        "ID_PHOTOS_EMAIL_DIGITAL_COPY",
+        "INSTANT_PASSPORT_AND_ID_PHOTOS",
+        "INTERNATIONAL_COURIER",
+        "LAND_TITLE_ID_CHECK_EXPRESS_SERVICE",
+        "LICENCE_TO_PERFORM_HIGH_RISK_WORK_VIC_L2_L4_AND_RENEWALS",
+        "ME_BANK",
+        "MONEY_ORDER",
         "NATIONAL_POLICE_CERTIFICATE_APPLICATION_FORM_QLD",
+        "NATIONAL_POLICE_CERTIFICATE_APPLICATION_FORM_WA",
         "OPEN_BEFORE_900AM_WEEKDAYS",
         "PARCEL_COLLECT",
+        "POST_BILL_PAY",
         "PO_BOXES_AVAILABLE",
-        "PO_BOXES_INSTALLED"
+        "PO_BOXES_INSTALLED",
+        "QLD_SECURITY_CLEARANCE_CARD",
+        "QLD_WEAPONS_LICENSING",
+        "RETURNS_PRINT_AT_POST",
+        "TRAVEL_INSURANCE",
+        "WORKING_WITH_CHILDREN_CHECK_VIC"
       ]
     },
     {
@@ -253642,7 +253664,6 @@
         "OPEN_SATURDAY",
         "PARCEL_COLLECT",
         "POST_BILL_PAY",
-        "PO_BOXES_AVAILABLE",
         "PO_BOXES_INSTALLED",
         "RETURNS_PRINT_AT_POST",
         "TRAVEL_INSURANCE"
@@ -279544,7 +279565,7 @@
       "id": "335521_PO",
       "type": "PO",
       "name": "Katamatite Post Office",
-      "phone": "(03) 5865 1202",
+      "phone": "13 13 18",
       "fax": null,
       "address": {
         "line1": "20 Beek St",
@@ -338090,6 +338111,7 @@
         "OPEN_BEFORE_900AM_WEEKDAYS",
         "PARCEL_COLLECT",
         "POST_BILL_PAY",
+        "PO_BOXES_AVAILABLE",
         "PO_BOXES_INSTALLED",
         "QLD_SECURITY_CLEARANCE_CARD",
         "QLD_WEAPONS_LICENSING",
