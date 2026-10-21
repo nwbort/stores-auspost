@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-20T08:37:55Z",
+  "generated_at": "2026-10-21T08:39:07Z",
   "source": "https://digitalapi.auspost.com.au/locations-private/v3/workcentres",
-  "count": 5724,
+  "count": 5725,
   "count_by_type": {
-    "PO": 4135,
+    "PO": 4136,
     "UPL": 1463,
     "OS": 89,
     "DC": 37
@@ -10109,8 +10109,8 @@
         "postcode": "2037",
         "country": "Australia"
       },
-      "lat": -33.88369748,
-      "lon": 151.19387622,
+      "lat": -33.88377,
+      "lon": 151.194878,
       "trading_hours": {
         "MON": {
           "open": "06:30",
@@ -13274,8 +13274,8 @@
         "postcode": "2067",
         "country": "Australia"
       },
-      "lat": -33.79676326,
-      "lon": 151.18135759,
+      "lat": -33.7978226,
+      "lon": 151.181122,
       "trading_hours": {
         "MON": {
           "open": "00:00",
@@ -19130,8 +19130,8 @@
         "postcode": "2114",
         "country": "Australia"
       },
-      "lat": -33.80709581,
-      "lon": 151.08884612,
+      "lat": -33.80722,
+      "lon": 151.08905,
       "trading_hours": {
         "MON": {
           "open": "00:00",
@@ -39397,7 +39397,7 @@
       "phone": "13 13 18",
       "fax": "(02)4352 5371",
       "address": {
-        "line1": "Westfield Shopping Centre",
+        "line1": "Tuggerah Shopping Centre",
         "line2": "Shop 1063",
         "suburb": "TUGGERAH",
         "state": "NSW",
@@ -39469,7 +39469,7 @@
       "phone": "1800 422 406",
       "fax": null,
       "address": {
-        "line1": "Westfield Shopping Centre",
+        "line1": "Tuggerah Shopping Centre",
         "line2": "50 Wyong Rd",
         "suburb": "TUGGERAH",
         "state": "NSW",
@@ -40283,8 +40283,8 @@
         "postcode": "2261",
         "country": "Australia"
       },
-      "lat": -33.35986039,
-      "lon": 151.48384265,
+      "lat": -33.35983779,
+      "lon": 151.4838916,
       "trading_hours": {
         "MON": {
           "open": "00:00",
@@ -93677,6 +93677,7 @@
         "OPEN_BEFORE_900AM_WEEKDAYS",
         "PARCEL_COLLECT",
         "POST_BILL_PAY",
+        "PO_BOXES_AVAILABLE",
         "PO_BOXES_INSTALLED",
         "RETURNS_PRINT_AT_POST",
         "TRAVEL_INSURANCE"
@@ -106766,6 +106767,56 @@
       ]
     },
     {
+      "id": "87932597_UPL",
+      "type": "UPL",
+      "name": "Hamilton Portside Parcel Locker",
+      "phone": "1800 422 406",
+      "fax": null,
+      "address": {
+        "line1": "35a Hercules St",
+        "line2": null,
+        "suburb": "HAMILTON",
+        "state": "QLD",
+        "postcode": "4007",
+        "country": "Australia"
+      },
+      "lat": -27.4398481,
+      "lon": 153.069804,
+      "trading_hours": {
+        "MON": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "TUE": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "WED": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "THU": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "FRI": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "SAT": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "SUN": {
+          "open": "00:00",
+          "close": "23:59"
+        }
+      },
+      "services": [
+        "PARCEL_COLLECT"
+      ]
+    },
+    {
       "id": "423863_PO",
       "type": "PO",
       "name": "Clayfield Post Office",
@@ -112517,7 +112568,7 @@
       "phone": "(07) 3376 1355",
       "fax": "(07)3376 4358",
       "address": {
-        "line1": "Metro Middle Park",
+        "line1": "Middle Park Shopping Centre",
         "line2": "Shop 25",
         "suburb": "MIDDLE PARK",
         "state": "QLD",
@@ -119792,7 +119843,7 @@
       "phone": "13 13 18",
       "fax": "(07)3002 4607",
       "address": {
-        "line1": "Cleveland Central (Coles)",
+        "line1": "Cleveland Central",
         "line2": "Shop 85",
         "suburb": "CLEVELAND",
         "state": "QLD",
@@ -119870,7 +119921,7 @@
       "phone": "1800 422 406",
       "fax": null,
       "address": {
-        "line1": "Cleveland Central (Coles)",
+        "line1": "Cleveland Central",
         "line2": "Shop 85",
         "suburb": "CLEVELAND",
         "state": "QLD",
@@ -119920,7 +119971,7 @@
       "phone": "1800 422 406",
       "fax": null,
       "address": {
-        "line1": "Cleveland Central (Woolworths)",
+        "line1": "Cleveland Central",
         "line2": "67-107 Middle St",
         "suburb": "CLEVELAND",
         "state": "QLD",
@@ -125009,8 +125060,8 @@
         "postcode": "4215",
         "country": "Australia"
       },
-      "lat": -27.9681184,
-      "lon": 153.41052538,
+      "lat": -27.967928,
+      "lon": 153.410413,
       "trading_hours": {
         "MON": {
           "open": "00:00",
@@ -127100,8 +127151,8 @@
         "postcode": "4221",
         "country": "Australia"
       },
-      "lat": -28.12027636,
-      "lon": 153.4527266,
+      "lat": -28.119874,
+      "lon": 153.45169,
       "trading_hours": {
         "MON": {
           "open": "00:00",
@@ -130076,8 +130127,8 @@
         "postcode": "4305",
         "country": "Australia"
       },
-      "lat": -27.61383335,
-      "lon": 152.75907067,
+      "lat": -27.614,
+      "lon": 152.7592,
       "trading_hours": {
         "MON": {
           "open": "07:00",
@@ -130596,6 +130647,51 @@
         "PO_BOXES_INSTALLED",
         "RETURNS_PRINT_AT_POST",
         "TRAVEL_INSURANCE"
+      ]
+    },
+    {
+      "id": "436031_PO",
+      "type": "PO",
+      "name": "Peak Crossing CPA",
+      "phone": "(07) 5467 2282",
+      "fax": null,
+      "address": {
+        "line1": "25 Fassifern St",
+        "line2": null,
+        "suburb": "PEAK CROSSING",
+        "state": "QLD",
+        "postcode": "4306",
+        "country": "Australia"
+      },
+      "lat": -27.78409369,
+      "lon": 152.73006095,
+      "trading_hours": {
+        "MON": {
+          "open": "08:30",
+          "close": "17:30"
+        },
+        "TUE": {
+          "open": "08:30",
+          "close": "17:30"
+        },
+        "WED": {
+          "open": "08:30",
+          "close": "17:30"
+        },
+        "THU": {
+          "open": "08:30",
+          "close": "17:30"
+        },
+        "FRI": {
+          "open": "08:30",
+          "close": "17:30"
+        },
+        "SAT": null,
+        "SUN": null
+      },
+      "services": [
+        "OPEN_AFTER_500PM_WEEKDAYS",
+        "OPEN_BEFORE_900AM_WEEKDAYS"
       ]
     },
     {
@@ -149375,7 +149471,6 @@
         "OPEN_SATURDAY",
         "PARCEL_COLLECT",
         "POST_BILL_PAY",
-        "PO_BOXES_AVAILABLE",
         "PO_BOXES_INSTALLED",
         "RETURNS_PRINT_AT_POST",
         "TRAVEL_INSURANCE"
@@ -168363,6 +168458,7 @@
         "OPEN_BEFORE_900AM_WEEKDAYS",
         "PARCEL_COLLECT",
         "POST_BILL_PAY",
+        "PO_BOXES_AVAILABLE",
         "PO_BOXES_INSTALLED",
         "RETURNS_PRINT_AT_POST",
         "TRAVEL_INSURANCE"
@@ -194801,7 +194897,6 @@
         "OPEN_BEFORE_900AM_WEEKDAYS",
         "PARCEL_COLLECT",
         "POST_BILL_PAY",
-        "PO_BOXES_AVAILABLE",
         "PO_BOXES_INSTALLED",
         "QLD_SECURITY_CLEARANCE_CARD",
         "QLD_WEAPONS_LICENSING",
@@ -197895,6 +197990,7 @@
         "NATIONAL_POLICE_CERTIFICATE_APPLICATION_FORM_QLD",
         "NATIONAL_POLICE_CERTIFICATE_APPLICATION_FORM_WA",
         "OPEN_BEFORE_900AM_WEEKDAYS",
+        "OPEN_SATURDAY",
         "PARCEL_COLLECT",
         "POST_BILL_PAY",
         "PO_BOXES_AVAILABLE",
@@ -207170,7 +207266,7 @@
       "phone": "(03) 6257 1129",
       "fax": "(03)6257 1129",
       "address": {
-        "line1": "5 Charles St",
+        "line1": "3 Charles St",
         "line2": null,
         "suburb": "ORFORD",
         "state": "TAS",
@@ -223680,7 +223776,7 @@
       "phone": "13 13 18",
       "fax": "(03)9330 1426",
       "address": {
-        "line1": "Westfield Airport West",
+        "line1": "Airport West Shopping Centre",
         "line2": "Shop 78",
         "suburb": "AIRPORT WEST",
         "state": "VIC",
@@ -223755,7 +223851,7 @@
       "phone": "1800 422 406",
       "fax": null,
       "address": {
-        "line1": "Westfield Airport West",
+        "line1": "Airport West Shopping Centre",
         "line2": "29-35 Louis St",
         "suburb": "AIRPORT WEST",
         "state": "VIC",
@@ -231252,7 +231348,7 @@
       "phone": "(03) 9436 8444",
       "fax": "(03)9436 8477",
       "address": {
-        "line1": "Westfield Plenty Valley Shopping Centre",
+        "line1": "Plenty Valley Shopping Centre",
         "line2": "Shop 66",
         "suburb": "MILL PARK",
         "state": "VIC",
@@ -256309,7 +256405,7 @@
       "phone": "1800 422 406",
       "fax": null,
       "address": {
-        "line1": "Westfield Shopping Centre",
+        "line1": "Geelong Shopping Centre",
         "line2": "95-97 Malop St",
         "suburb": "GEELONG",
         "state": "VIC",
@@ -261504,6 +261600,7 @@
         "OPEN_BEFORE_900AM_WEEKDAYS",
         "PARCEL_COLLECT",
         "POST_BILL_PAY",
+        "PO_BOXES_AVAILABLE",
         "PO_BOXES_INSTALLED",
         "RETURNS_PRINT_AT_POST",
         "TRAVEL_INSURANCE"
@@ -264684,7 +264781,7 @@
       "phone": "1800 422 406",
       "fax": null,
       "address": {
-        "line1": "Stockland Wendouree Shopping Vill",
+        "line1": "Wendouree Shopping Vill",
         "line2": "Shop 75",
         "suburb": "WENDOUREE",
         "state": "VIC",
@@ -264734,7 +264831,7 @@
       "phone": "(03) 5338 1098",
       "fax": "(03)5339 6301",
       "address": {
-        "line1": "Stockland Wendouree Shopping Vill",
+        "line1": "Wendouree Shopping Vill",
         "line2": "Shop 75",
         "suburb": "WENDOUREE",
         "state": "VIC",
@@ -272384,8 +272481,8 @@
       "phone": "13 13 18",
       "fax": "(03)5494 3202",
       "address": {
-        "line1": "Wedderburn Delivery Annexe Wedderburn LPO",
-        "line2": "70 High St",
+        "line1": "70 High St",
+        "line2": null,
         "suburb": "WEDDERBURN",
         "state": "VIC",
         "postcode": "3518",
@@ -275127,56 +275224,6 @@
       ]
     },
     {
-      "id": "96000909_UPL",
-      "type": "UPL",
-      "name": "California Gully LPO Parcel Locker",
-      "phone": "1800 422 406",
-      "fax": null,
-      "address": {
-        "line1": "313 Eaglehawk Rd",
-        "line2": null,
-        "suburb": "CALIFORNIA GULLY",
-        "state": "VIC",
-        "postcode": "3556",
-        "country": "Australia"
-      },
-      "lat": -36.73142498,
-      "lon": 144.2572424,
-      "trading_hours": {
-        "MON": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "TUE": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "WED": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "THU": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "FRI": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "SAT": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "SUN": {
-          "open": "00:00",
-          "close": "23:59"
-        }
-      },
-      "services": [
-        "PARCEL_COLLECT"
-      ]
-    },
-    {
       "id": "328559_PO",
       "type": "PO",
       "name": "California Gully Post Office",
@@ -275250,6 +275297,56 @@
         "RETURNS_PRINT_AT_POST",
         "TRAVEL_INSURANCE",
         "WORKING_WITH_CHILDREN_CHECK_VIC"
+      ]
+    },
+    {
+      "id": "96000909_UPL",
+      "type": "UPL",
+      "name": "California Gully Post Office Parcel Locker",
+      "phone": "1800 422 406",
+      "fax": null,
+      "address": {
+        "line1": "313 Eaglehawk Rd",
+        "line2": null,
+        "suburb": "CALIFORNIA GULLY",
+        "state": "VIC",
+        "postcode": "3556",
+        "country": "Australia"
+      },
+      "lat": -36.73142498,
+      "lon": 144.2572424,
+      "trading_hours": {
+        "MON": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "TUE": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "WED": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "THU": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "FRI": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "SAT": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "SUN": {
+          "open": "00:00",
+          "close": "23:59"
+        }
+      },
+      "services": [
+        "PARCEL_COLLECT"
       ]
     },
     {
@@ -285664,8 +285761,8 @@
       "phone": "13 13 18",
       "fax": null,
       "address": {
-        "line1": "Mernda PO",
-        "line2": "50 Mernda Village Dr",
+        "line1": "50 Mernda Village Dr",
+        "line2": null,
         "suburb": "MERNDA",
         "state": "VIC",
         "postcode": "3754",
@@ -309349,56 +309446,6 @@
       ]
     },
     {
-      "id": "72493140_UPL",
-      "type": "UPL",
-      "name": "Stratton Park Shopping Centre Parcel Locker",
-      "phone": "1800 422 406",
-      "fax": null,
-      "address": {
-        "line1": "Stratton Shopping Centre",
-        "line2": "Shop 16",
-        "suburb": "STRATTON",
-        "state": "WA",
-        "postcode": "6056",
-        "country": "Australia"
-      },
-      "lat": -31.86963016,
-      "lon": 116.0333814,
-      "trading_hours": {
-        "MON": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "TUE": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "WED": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "THU": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "FRI": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "SAT": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "SUN": {
-          "open": "00:00",
-          "close": "23:59"
-        }
-      },
-      "services": [
-        "PARCEL_COLLECT"
-      ]
-    },
-    {
       "id": "40275969_UPL",
       "type": "UPL",
       "name": "Swan View Darling Ridge Parcel Locker",
@@ -310530,7 +310577,7 @@
       "phone": "13 13 18",
       "fax": "(08)6250 1510",
       "address": {
-        "line1": "Centro Galleria",
+        "line1": "Morley Shopping Centre",
         "line2": "Shop 52",
         "suburb": "MORLEY",
         "state": "WA",
@@ -310683,7 +310730,7 @@
       "phone": "13 13 18",
       "fax": null,
       "address": {
-        "line1": "Altone Park",
+        "line1": "Altone Park Shopping Centre",
         "line2": "Shop 5a",
         "suburb": "BEECHBORO",
         "state": "WA",
@@ -314613,8 +314660,8 @@
         "postcode": "6107",
         "country": "Australia"
       },
-      "lat": -32.01877976,
-      "lon": 115.93843156,
+      "lat": -32.01823209,
+      "lon": 115.93861596,
       "trading_hours": {
         "MON": {
           "open": "07:00",
@@ -315127,7 +315174,7 @@
       "phone": "1800 422 406",
       "fax": null,
       "address": {
-        "line1": "Maddington Metro Shopping Centre",
+        "line1": "Maddington Shopping Centre",
         "line2": "Shop 48",
         "suburb": "MADDINGTON",
         "state": "WA",
@@ -315177,7 +315224,7 @@
       "phone": "13 13 18",
       "fax": "(08)9212 5669",
       "address": {
-        "line1": "Maddington Metro Shopping Centre",
+        "line1": "Maddington Shopping Centre",
         "line2": "Shop 48",
         "suburb": "MADDINGTON",
         "state": "WA",
@@ -315582,7 +315629,7 @@
       "phone": "13 13 18",
       "fax": "(08)9212 5666",
       "address": {
-        "line1": "Stargate Shopping Centre",
+        "line1": "Stargate Kelmscott",
         "line2": "Shop 2",
         "suburb": "KELMSCOTT",
         "state": "WA",
@@ -315866,7 +315913,7 @@
       "phone": "13 13 18",
       "fax": null,
       "address": {
-        "line1": "Stockland Harrisdale Sc",
+        "line1": "Harrisdale Shopping Centre",
         "line2": "Shop 3",
         "suburb": "HARRISDALE",
         "state": "WA",
@@ -315945,7 +315992,7 @@
       "phone": "1800 422 406",
       "fax": null,
       "address": {
-        "line1": "Stockland Harrisdale Sc",
+        "line1": "Harrisdale Shopping Centre",
         "line2": "Shop 3",
         "suburb": "HARRISDALE",
         "state": "WA",
@@ -316544,7 +316591,7 @@
       "phone": "13 13 18",
       "fax": "(08)9354 8366",
       "address": {
-        "line1": "Stockland Riverton Shopping Centre",
+        "line1": "Riverton Shopping Centre",
         "line2": "Shop 35",
         "suburb": "PARKWOOD",
         "state": "WA",
@@ -316623,7 +316670,7 @@
       "phone": "1800 422 406",
       "fax": null,
       "address": {
-        "line1": "Stockland Riverton Shopping Centre",
+        "line1": "Riverton Shopping Centre",
         "line2": "Shop 35",
         "suburb": "PARKWOOD",
         "state": "WA",
@@ -317750,7 +317797,7 @@
       "phone": "1800 422 406",
       "fax": null,
       "address": {
-        "line1": "Westfield Booragoon",
+        "line1": "Booragoon Shopping Centre",
         "line2": "Shop 125",
         "suburb": "BOORAGOON",
         "state": "WA",
@@ -320749,8 +320796,8 @@
       "phone": "13 13 18",
       "fax": "(08)9592 2207",
       "address": {
-        "line1": "Shop 4",
-        "line2": "60-64 Penguin Rd",
+        "line1": "Bayside Shopping Centre",
+        "line2": "Shop 4",
         "suburb": "SAFETY BAY",
         "state": "WA",
         "postcode": "6169",
@@ -320990,7 +321037,7 @@
       "phone": "13 13 18",
       "fax": "(08)9523 8941",
       "address": {
-        "line1": "Stockland S/c",
+        "line1": "Baldivis Shopping Centre",
         "line2": "Shop 2a",
         "suburb": "BALDIVIS",
         "state": "WA",
@@ -321066,7 +321113,7 @@
       "phone": "1800 422 406",
       "fax": null,
       "address": {
-        "line1": "Stockland S/c",
+        "line1": "Baldivis Shopping Centre",
         "line2": "Shop 2a",
         "suburb": "BALDIVIS",
         "state": "WA",
@@ -321685,7 +321732,7 @@
       "phone": "13 13 18",
       "fax": null,
       "address": {
-        "line1": "Erskine Central S/c",
+        "line1": "Centuria Erksine Central",
         "line2": "Shop 1",
         "suburb": "ERSKINE",
         "state": "WA",
@@ -327754,7 +327801,6 @@
         "OPEN_BEFORE_900AM_WEEKDAYS",
         "PARCEL_COLLECT",
         "POST_BILL_PAY",
-        "PO_BOXES_AVAILABLE",
         "PO_BOXES_INSTALLED",
         "QLD_SECURITY_CLEARANCE_CARD",
         "QLD_WEAPONS_LICENSING",
