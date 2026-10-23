@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-22T08:41:27Z",
+  "generated_at": "2026-10-23T08:38:22Z",
   "source": "https://digitalapi.auspost.com.au/locations-private/v3/workcentres",
-  "count": 5727,
+  "count": 5728,
   "count_by_type": {
     "PO": 4137,
-    "UPL": 1464,
+    "UPL": 1465,
     "OS": 89,
     "DC": 37
   },
@@ -2600,6 +2600,56 @@
       },
       "lat": -35.290134,
       "lon": 149.143113,
+      "trading_hours": {
+        "MON": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "TUE": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "WED": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "THU": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "FRI": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "SAT": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "SUN": {
+          "open": "00:00",
+          "close": "23:59"
+        }
+      },
+      "services": [
+        "PARCEL_COLLECT"
+      ]
+    },
+    {
+      "id": "59298259_UPL",
+      "type": "UPL",
+      "name": "UNSW Canberra Campus Parcel Locker",
+      "phone": "1800 422 406",
+      "fax": null,
+      "address": {
+        "line1": "37 Constitution Ave",
+        "line2": null,
+        "suburb": "REID",
+        "state": "ACT",
+        "postcode": "2612",
+        "country": "Australia"
+      },
+      "lat": -35.28559444,
+      "lon": 149.1366917,
       "trading_hours": {
         "MON": {
           "open": "00:00",
@@ -24061,7 +24111,7 @@
     {
       "id": "65532321_UPL",
       "type": "UPL",
-      "name": "Seven Hills Shopping Ctr Parcel Locker",
+      "name": "Seven Hills Shopping Centre Parcel Locker",
       "phone": "1800 422 406",
       "fax": null,
       "address": {
@@ -26040,7 +26090,7 @@
       "fax": "(02)8882 9037",
       "address": {
         "line1": "Rouse Hill Town Centre",
-        "line2": "Shop 1c",
+        "line2": "Shop 164a",
         "suburb": "ROUSE HILL",
         "state": "NSW",
         "postcode": "2155",
@@ -73925,26 +73975,29 @@
       "lon": 150.73876254,
       "trading_hours": {
         "MON": {
-          "open": "09:00",
+          "open": "13:00",
           "close": "17:00"
         },
         "TUE": {
-          "open": "09:00",
+          "open": "13:00",
           "close": "17:00"
         },
         "WED": {
-          "open": "09:00",
+          "open": "13:00",
           "close": "17:00"
         },
         "THU": {
-          "open": "09:00",
+          "open": "13:00",
           "close": "17:00"
         },
         "FRI": {
-          "open": "09:00",
+          "open": "13:00",
           "close": "17:00"
         },
-        "SAT": null,
+        "SAT": {
+          "open": "09:00",
+          "close": "12:00"
+        },
         "SUN": null
       },
       "services": [
@@ -73954,7 +74007,6 @@
         "BANK_AT_POST",
         "NATIONAL_POLICE_CERTIFICATE_APPLICATION_FORM_QLD",
         "NATIONAL_POLICE_CERTIFICATE_APPLICATION_FORM_WA",
-        "OPEN_BEFORE_900AM_WEEKDAYS",
         "PARCEL_COLLECT",
         "POST_BILL_PAY",
         "PO_BOXES_AVAILABLE",
@@ -88590,7 +88642,7 @@
     {
       "id": "89098525_UPL",
       "type": "UPL",
-      "name": "Melville Rd Shopping Ctr Parcel Locker",
+      "name": "Melville Rd Shopping Centre Parcel Locker",
       "phone": "1800 422 406",
       "fax": null,
       "address": {
@@ -101612,6 +101664,7 @@
         "OPEN_SATURDAY",
         "PARCEL_COLLECT",
         "POST_BILL_PAY",
+        "PO_BOXES_AVAILABLE",
         "PO_BOXES_INSTALLED",
         "RETURNS_PRINT_AT_POST",
         "TRAVEL_INSURANCE"
@@ -158104,29 +158157,26 @@
       "lon": 148.73242872,
       "trading_hours": {
         "MON": {
-          "open": "09:00",
-          "close": "16:00"
+          "open": "08:00",
+          "close": "17:00"
         },
         "TUE": {
-          "open": "09:00",
-          "close": "16:00"
+          "open": "08:00",
+          "close": "17:00"
         },
         "WED": {
-          "open": "09:00",
-          "close": "16:00"
+          "open": "08:00",
+          "close": "17:00"
         },
         "THU": {
-          "open": "09:00",
-          "close": "16:00"
+          "open": "08:00",
+          "close": "17:00"
         },
         "FRI": {
-          "open": "09:00",
-          "close": "16:00"
-        },
-        "SAT": {
           "open": "08:00",
-          "close": "12:00"
+          "close": "17:00"
         },
+        "SAT": null,
         "SUN": null
       },
       "services": [
@@ -158141,7 +158191,6 @@
         "NATIONAL_POLICE_CERTIFICATE_APPLICATION_FORM_QLD",
         "NATIONAL_POLICE_CERTIFICATE_APPLICATION_FORM_WA",
         "OPEN_BEFORE_900AM_WEEKDAYS",
-        "OPEN_SATURDAY",
         "PARCEL_COLLECT",
         "POST_BILL_PAY",
         "PO_BOXES_AVAILABLE",
@@ -174570,8 +174619,8 @@
       "id": "542520_PO",
       "type": "PO",
       "name": "Seacliff Park Post Office",
-      "phone": "(08) 8296 9976",
-      "fax": "(08)8490 6995",
+      "phone": "13 13 18",
+      "fax": null,
       "address": {
         "line1": "236 Seacombe Rd",
         "line2": null,
@@ -309601,7 +309650,7 @@
       "type": "PO",
       "name": "Swan View Post Office",
       "phone": "13 13 18",
-      "fax": "(08)9255 2504",
+      "fax": null,
       "address": {
         "line1": "Shop 4",
         "line2": "40-42 Marlboro Rd",
@@ -335625,7 +335674,7 @@
     {
       "id": "32164341_UPL",
       "type": "UPL",
-      "name": "Stirlings Central Shopping Cnt Parcel Locker",
+      "name": "Stirlings Central Shopping Cntr Parcel Locker",
       "phone": "1800 422 406",
       "fax": null,
       "address": {
