@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T08:31:19Z",
+  "generated_at": "2026-10-26T09:00:01Z",
   "source": "https://digitalapi.auspost.com.au/locations-private/v3/workcentres",
   "count": 5725,
   "count_by_type": {
@@ -6644,8 +6644,8 @@
         "postcode": "2015",
         "country": "Australia"
       },
-      "lat": -33.90716,
-      "lon": 151.19303,
+      "lat": -33.89774,
+      "lon": 151.19532,
       "trading_hours": {
         "MON": {
           "open": "09:00",
@@ -144848,7 +144848,6 @@
         "MONEY_ORDER",
         "NATIONAL_POLICE_CERTIFICATE_APPLICATION_FORM_QLD",
         "NATIONAL_POLICE_CERTIFICATE_APPLICATION_FORM_WA",
-        "OPEN_BEFORE_900AM_WEEKDAYS",
         "PARCEL_COLLECT",
         "PARCEL_PICKUP_OUTSIDE_STANDARD_HOURS",
         "POST_BILL_PAY",
@@ -169857,7 +169856,6 @@
         "NATIONAL_POLICE_CERTIFICATE_APPLICATION_FORM_QLD",
         "NATIONAL_POLICE_CERTIFICATE_APPLICATION_FORM_WA",
         "OPEN_BEFORE_900AM_WEEKDAYS",
-        "PARCEL_COLLECT",
         "PARCEL_PICKUP_OUTSIDE_STANDARD_HOURS",
         "POST_BILL_PAY",
         "PO_BOXES_AVAILABLE",
@@ -201299,8 +201297,8 @@
         "postcode": "5725",
         "country": "Australia"
       },
-      "lat": -30.56224479,
-      "lon": 136.89836475,
+      "lat": -30.562584,
+      "lon": 136.899644,
       "trading_hours": {
         "MON": {
           "open": "09:00",
@@ -201371,8 +201369,8 @@
         "postcode": "5725",
         "country": "Australia"
       },
-      "lat": -30.56179353,
-      "lon": 136.8969728,
+      "lat": -30.562584,
+      "lon": 136.899644,
       "trading_hours": {
         "MON": {
           "open": "00:00",
@@ -254458,7 +254456,7 @@
       "id": "361578_PO",
       "type": "PO",
       "name": "Batesford CPA",
-      "phone": "0414 318 576",
+      "phone": "13 13 18",
       "fax": null,
       "address": {
         "line1": "495 Ballarat Rd",
