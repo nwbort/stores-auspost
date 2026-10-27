@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T09:00:01Z",
+  "generated_at": "2026-10-27T09:04:30Z",
   "source": "https://digitalapi.auspost.com.au/locations-private/v3/workcentres",
   "count": 5725,
   "count_by_type": {
@@ -76351,6 +76351,7 @@
         "MONEY_ORDER",
         "NATIONAL_POLICE_CERTIFICATE_APPLICATION_FORM_QLD",
         "NATIONAL_POLICE_CERTIFICATE_APPLICATION_FORM_WA",
+        "OPEN_BEFORE_900AM_WEEKDAYS",
         "PARCEL_COLLECT",
         "PARCEL_PICKUP_OUTSIDE_STANDARD_HOURS",
         "POST_BILL_PAY",
@@ -144848,6 +144849,7 @@
         "MONEY_ORDER",
         "NATIONAL_POLICE_CERTIFICATE_APPLICATION_FORM_QLD",
         "NATIONAL_POLICE_CERTIFICATE_APPLICATION_FORM_WA",
+        "OPEN_BEFORE_900AM_WEEKDAYS",
         "PARCEL_COLLECT",
         "PARCEL_PICKUP_OUTSIDE_STANDARD_HOURS",
         "POST_BILL_PAY",
@@ -181816,7 +181818,6 @@
         "OPEN_SATURDAY",
         "PARCEL_COLLECT",
         "POST_BILL_PAY",
-        "PO_BOXES_AVAILABLE",
         "PO_BOXES_INSTALLED",
         "RETURNS_PRINT_AT_POST",
         "TRAVEL_INSURANCE"
@@ -192709,7 +192710,7 @@
       "id": "543531_PO",
       "type": "PO",
       "name": "Truro Post Office",
-      "phone": "(08) 8664 0172",
+      "phone": "(08) 8564 0172",
       "fax": "(08)8564 0237",
       "address": {
         "line1": "45-47 Moorundie St",
@@ -196279,7 +196280,7 @@
       "type": "PO",
       "name": "Port Broughton Post Office",
       "phone": "(08) 8635 2020",
-      "fax": "(08)8635 2020",
+      "fax": null,
       "address": {
         "line1": "7 Bay St",
         "line2": null,
@@ -196339,7 +196340,7 @@
       "type": "PO",
       "name": "Crystal Brook Post Office",
       "phone": "(08) 8636 2475",
-      "fax": "(08)8636 2021",
+      "fax": null,
       "address": {
         "line1": "2 Railway Tce",
         "line2": null,
@@ -205424,7 +205425,9 @@
         },
         "SUN": null
       },
-      "services": []
+      "services": [
+        "OPEN_BEFORE_900AM_WEEKDAYS"
+      ]
     },
     {
       "id": "732471_PO",
@@ -313983,7 +313986,6 @@
         "OPEN_SATURDAY",
         "PARCEL_COLLECT",
         "POST_BILL_PAY",
-        "PO_BOXES_AVAILABLE",
         "PO_BOXES_INSTALLED",
         "RETURNS_PRINT_AT_POST",
         "TRAVEL_INSURANCE"
