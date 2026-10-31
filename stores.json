@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-30T10:06:33Z",
+  "generated_at": "2026-10-31T09:44:42Z",
   "source": "https://digitalapi.auspost.com.au/locations-private/v3/workcentres",
-  "count": 5731,
+  "count": 5728,
   "count_by_type": {
-    "PO": 4136,
-    "UPL": 1469,
+    "PO": 4135,
+    "UPL": 1467,
     "OS": 89,
     "DC": 37
   },
@@ -33107,56 +33107,6 @@
       },
       "lat": -33.935398,
       "lon": 151.098071,
-      "trading_hours": {
-        "MON": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "TUE": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "WED": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "THU": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "FRI": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "SAT": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "SUN": {
-          "open": "00:00",
-          "close": "23:59"
-        }
-      },
-      "services": [
-        "PARCEL_COLLECT"
-      ]
-    },
-    {
-      "id": "69393086_UPL",
-      "type": "UPL",
-      "name": "Kingsgrove Post Office Parcel Locker",
-      "phone": "1800 422 406",
-      "fax": null,
-      "address": {
-        "line1": "263 Kingsgrove Rd",
-        "line2": null,
-        "suburb": "KINGSGROVE",
-        "state": "NSW",
-        "postcode": "2208",
-        "country": "Australia"
-      },
-      "lat": -33.94230705,
-      "lon": 151.10113697,
       "trading_hours": {
         "MON": {
           "open": "00:00",
@@ -67117,6 +67067,7 @@
         "NATIONAL_POLICE_CERTIFICATE_APPLICATION_FORM_QLD",
         "NATIONAL_POLICE_CERTIFICATE_APPLICATION_FORM_WA",
         "OPEN_BEFORE_900AM_WEEKDAYS",
+        "PARCEL_COLLECT",
         "POST_BILL_PAY",
         "PO_BOXES_AVAILABLE",
         "PO_BOXES_INSTALLED",
@@ -73669,7 +73620,7 @@
       "phone": "(02) 4633 8101",
       "fax": "(02)4633 8686",
       "address": {
-        "line1": "2 Station St",
+        "line1": "81 Menangle Rd",
         "line2": null,
         "suburb": "MENANGLE",
         "state": "NSW",
@@ -75034,7 +74985,6 @@
         "OPEN_BEFORE_900AM_WEEKDAYS",
         "PARCEL_COLLECT",
         "POST_BILL_PAY",
-        "PO_BOXES_AVAILABLE",
         "PO_BOXES_INSTALLED",
         "RETURNS_PRINT_AT_POST",
         "TRAVEL_INSURANCE"
@@ -80107,6 +80057,7 @@
         "OPEN_BEFORE_900AM_WEEKDAYS",
         "PARCEL_COLLECT",
         "POST_BILL_PAY",
+        "PO_BOXES_AVAILABLE",
         "PO_BOXES_INSTALLED",
         "RETURNS_PRINT_AT_POST",
         "TRAVEL_INSURANCE"
@@ -169160,56 +169111,6 @@
       ]
     },
     {
-      "id": "57501633_UPL",
-      "type": "UPL",
-      "name": "216 Gouger St Parcel Locker",
-      "phone": "1800 422 406",
-      "fax": null,
-      "address": {
-        "line1": "Shop 1",
-        "line2": "216 Gouger St",
-        "suburb": "ADELAIDE",
-        "state": "SA",
-        "postcode": "5000",
-        "country": "Australia"
-      },
-      "lat": -34.93031482,
-      "lon": 138.591081,
-      "trading_hours": {
-        "MON": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "TUE": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "WED": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "THU": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "FRI": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "SAT": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "SUN": {
-          "open": "00:00",
-          "close": "23:59"
-        }
-      },
-      "services": [
-        "PARCEL_COLLECT"
-      ]
-    },
-    {
       "id": "86134006_UPL",
       "type": "UPL",
       "name": "252-254 Halifax St Parcel Locker",
@@ -169309,69 +169210,6 @@
         "PO_BOXES_AVAILABLE",
         "PO_BOXES_INSTALLED",
         "RETURNS_PRINT_AT_POST"
-      ]
-    },
-    {
-      "id": "510510_PO",
-      "type": "PO",
-      "name": "Adelaide Business Centre",
-      "phone": "13 13 18",
-      "fax": "(08)8113 3235",
-      "address": {
-        "line1": "Shop 1 / 216 Gouger Street",
-        "line2": null,
-        "suburb": "ADELAIDE",
-        "state": "SA",
-        "postcode": "5000",
-        "country": "Australia"
-      },
-      "lat": -34.93044594,
-      "lon": 138.59103909,
-      "trading_hours": {
-        "MON": {
-          "open": "09:00",
-          "close": "17:00"
-        },
-        "TUE": {
-          "open": "09:00",
-          "close": "17:00"
-        },
-        "WED": {
-          "open": "09:00",
-          "close": "17:00"
-        },
-        "THU": {
-          "open": "09:00",
-          "close": "17:00"
-        },
-        "FRI": {
-          "open": "09:00",
-          "close": "17:00"
-        },
-        "SAT": null,
-        "SUN": null
-      },
-      "services": [
-        "100_POINT_CHECK_VERIFICATION",
-        "AUSTRALIA_POST_EVERYDAY_MASTERCARD",
-        "AUSTRALIA_POST_GIFT_CARD_MASTERCARD",
-        "AUSTRALIA_POST_TRAVEL_PLATINUM_MASTERCARD",
-        "BANK_AT_POST",
-        "FOREIGN_CURRENCY",
-        "IDENTITY_VERIFICATION_FORM_REQUEST",
-        "INSTANT_PASSPORT_AND_ID_PHOTOS",
-        "INTERNATIONAL_COURIER",
-        "MONEY_ORDER",
-        "NATIONAL_POLICE_CERTIFICATE_APPLICATION_FORM_QLD",
-        "NATIONAL_POLICE_CERTIFICATE_APPLICATION_FORM_WA",
-        "OPEN_BEFORE_900AM_WEEKDAYS",
-        "PARCEL_PICKUP_OUTSIDE_STANDARD_HOURS",
-        "POST_BILL_PAY",
-        "PO_BOXES_AVAILABLE",
-        "PO_BOXES_INSTALLED",
-        "RETURNS_PRINT_AT_POST",
-        "TRAVEL_INSURANCE",
-        "VENDING"
       ]
     },
     {
@@ -225570,6 +225408,7 @@
         "OPEN_SATURDAY",
         "PARCEL_COLLECT",
         "POST_BILL_PAY",
+        "PO_BOXES_AVAILABLE",
         "PO_BOXES_INSTALLED",
         "QLD_WEAPONS_LICENSING",
         "RETURNS_PRINT_AT_POST",
@@ -294418,6 +294257,7 @@
         "OPEN_BEFORE_900AM_WEEKDAYS",
         "PARCEL_COLLECT",
         "POST_BILL_PAY",
+        "PO_BOXES_AVAILABLE",
         "PO_BOXES_INSTALLED",
         "QLD_WEAPONS_LICENSING",
         "RETURNS_PRINT_AT_POST",
