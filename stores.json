@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-02T11:09:16Z",
+  "generated_at": "2026-11-03T10:58:22Z",
   "source": "https://digitalapi.auspost.com.au/locations-private/v3/workcentres",
-  "count": 5731,
+  "count": 5732,
   "count_by_type": {
-    "PO": 4136,
+    "PO": 4137,
     "UPL": 1469,
     "OS": 89,
     "DC": 37
@@ -72237,6 +72237,56 @@
       ]
     },
     {
+      "id": "82492599_UPL",
+      "type": "UPL",
+      "name": "Campbelltown Reddy Express Parcel Locker",
+      "phone": "1800 422 406",
+      "fax": null,
+      "address": {
+        "line1": "27 Queen St",
+        "line2": null,
+        "suburb": "CAMPBELLTOWN",
+        "state": "NSW",
+        "postcode": "2560",
+        "country": "Australia"
+      },
+      "lat": -34.06045179,
+      "lon": 150.8194863,
+      "trading_hours": {
+        "MON": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "TUE": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "WED": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "THU": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "FRI": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "SAT": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "SUN": {
+          "open": "00:00",
+          "close": "23:59"
+        }
+      },
+      "services": [
+        "PARCEL_COLLECT"
+      ]
+    },
+    {
       "id": "237737_PO",
       "type": "PO",
       "name": "Leumeah Post Office",
@@ -72538,56 +72588,6 @@
         "PO_BOXES_INSTALLED",
         "RETURNS_PRINT_AT_POST",
         "TRAVEL_INSURANCE"
-      ]
-    },
-    {
-      "id": "82492599_UPL",
-      "type": "UPL",
-      "name": "Shell Campbelltown Parcel Locker",
-      "phone": "1800 422 406",
-      "fax": null,
-      "address": {
-        "line1": "27 Queen St",
-        "line2": null,
-        "suburb": "CAMPBELLTOWN",
-        "state": "NSW",
-        "postcode": "2560",
-        "country": "Australia"
-      },
-      "lat": -34.06045179,
-      "lon": 150.8194863,
-      "trading_hours": {
-        "MON": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "TUE": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "WED": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "THU": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "FRI": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "SAT": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "SUN": {
-          "open": "00:00",
-          "close": "23:59"
-        }
-      },
-      "services": [
-        "PARCEL_COLLECT"
       ]
     },
     {
@@ -73461,56 +73461,6 @@
       ]
     },
     {
-      "id": "53965525_UPL",
-      "type": "UPL",
-      "name": "Smeaton Grange Ampol Parcel Locker",
-      "phone": "1800 422 406",
-      "fax": null,
-      "address": {
-        "line1": "1 Dunn Rd",
-        "line2": null,
-        "suburb": "SMEATON GRANGE",
-        "state": "NSW",
-        "postcode": "2567",
-        "country": "Australia"
-      },
-      "lat": -34.032313,
-      "lon": 150.756161,
-      "trading_hours": {
-        "MON": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "TUE": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "WED": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "THU": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "FRI": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "SAT": {
-          "open": "00:00",
-          "close": "23:59"
-        },
-        "SUN": {
-          "open": "00:00",
-          "close": "23:59"
-        }
-      },
-      "services": [
-        "PARCEL_COLLECT"
-      ]
-    },
-    {
       "id": "279574_PO",
       "type": "PO",
       "name": "Smeaton Grange Business Centre",
@@ -73609,6 +73559,56 @@
         },
         "SAT": null,
         "SUN": null
+      },
+      "services": [
+        "PARCEL_COLLECT"
+      ]
+    },
+    {
+      "id": "53965525_UPL",
+      "type": "UPL",
+      "name": "Smeaton Grange Shell Parcel Locker",
+      "phone": "1800 422 406",
+      "fax": null,
+      "address": {
+        "line1": "1 Dunn Rd",
+        "line2": null,
+        "suburb": "SMEATON GRANGE",
+        "state": "NSW",
+        "postcode": "2567",
+        "country": "Australia"
+      },
+      "lat": -34.032313,
+      "lon": 150.756161,
+      "trading_hours": {
+        "MON": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "TUE": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "WED": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "THU": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "FRI": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "SAT": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "SUN": {
+          "open": "00:00",
+          "close": "23:59"
+        }
       },
       "services": [
         "PARCEL_COLLECT"
@@ -83850,6 +83850,64 @@
         "OPEN_AFTER_500PM_WEEKDAYS",
         "OPEN_BEFORE_900AM_WEEKDAYS",
         "OPEN_SATURDAY"
+      ]
+    },
+    {
+      "id": "210020_PO",
+      "type": "PO",
+      "name": "Coleambally LPO",
+      "phone": "(02) 6954 4161",
+      "fax": null,
+      "address": {
+        "line1": "31 Brolga Pl",
+        "line2": null,
+        "suburb": "COLEAMBALLY",
+        "state": "NSW",
+        "postcode": "2707",
+        "country": "Australia"
+      },
+      "lat": -34.80619076,
+      "lon": 145.88063332,
+      "trading_hours": {
+        "MON": {
+          "open": "14:00",
+          "close": "17:00"
+        },
+        "TUE": {
+          "open": "14:00",
+          "close": "17:00"
+        },
+        "WED": {
+          "open": "14:00",
+          "close": "17:00"
+        },
+        "THU": {
+          "open": "14:00",
+          "close": "17:00"
+        },
+        "FRI": {
+          "open": "14:00",
+          "close": "17:00"
+        },
+        "SAT": null,
+        "SUN": null
+      },
+      "services": [
+        "100_POINT_CHECK_VERIFICATION",
+        "AUSTRALIA_POST_EVERYDAY_MASTERCARD",
+        "AUSTRALIA_POST_GIFT_CARD_MASTERCARD",
+        "AUSTRALIA_POST_TRAVEL_PLATINUM_MASTERCARD",
+        "BANK_AT_POST",
+        "FOREIGN_CURRENCY",
+        "IDENTITY_VERIFICATION_FORM_REQUEST",
+        "MONEY_ORDER",
+        "NATIONAL_POLICE_CERTIFICATE_APPLICATION_FORM_QLD",
+        "NATIONAL_POLICE_CERTIFICATE_APPLICATION_FORM_WA",
+        "OPEN_BEFORE_900AM_WEEKDAYS",
+        "PARCEL_COLLECT",
+        "POST_BILL_PAY",
+        "RETURNS_PRINT_AT_POST",
+        "TRAVEL_INSURANCE"
       ]
     },
     {
@@ -96794,7 +96852,6 @@
         "OPEN_BEFORE_900AM_WEEKDAYS",
         "PARCEL_COLLECT",
         "POST_BILL_PAY",
-        "PO_BOXES_AVAILABLE",
         "PO_BOXES_INSTALLED",
         "RETURNS_PRINT_AT_POST",
         "TRAVEL_INSURANCE"
@@ -98574,7 +98631,6 @@
         "OPEN_SATURDAY",
         "PARCEL_COLLECT",
         "POST_BILL_PAY",
-        "PO_BOXES_AVAILABLE",
         "PO_BOXES_INSTALLED",
         "QLD_WEAPONS_LICENSING",
         "RETURNS_PRINT_AT_POST",
@@ -101154,7 +101210,6 @@
         "OPEN_SATURDAY",
         "PARCEL_COLLECT",
         "POST_BILL_PAY",
-        "PO_BOXES_AVAILABLE",
         "PO_BOXES_INSTALLED",
         "RETURNS_PRINT_AT_POST",
         "TRAVEL_INSURANCE"
@@ -228405,27 +228460,27 @@
       "trading_hours": {
         "MON": {
           "open": "08:30",
-          "close": "17:30"
+          "close": "18:00"
         },
         "TUE": {
           "open": "08:30",
-          "close": "17:30"
+          "close": "18:00"
         },
         "WED": {
           "open": "08:30",
-          "close": "17:30"
+          "close": "18:00"
         },
         "THU": {
           "open": "08:30",
-          "close": "17:30"
+          "close": "18:00"
         },
         "FRI": {
           "open": "08:30",
-          "close": "17:30"
+          "close": "18:00"
         },
         "SAT": {
           "open": "08:30",
-          "close": "13:00"
+          "close": "13:30"
         },
         "SUN": null
       },
@@ -308299,7 +308354,7 @@
       ]
     },
     {
-      "id": "72493140_UPL",
+      "id": "75167485_UPL",
       "type": "UPL",
       "name": "Stratton Park Shopping Centre Parcel Locker",
       "phone": "1800 422 406",
@@ -333659,7 +333714,6 @@
         "OPEN_BEFORE_900AM_WEEKDAYS",
         "PARCEL_COLLECT",
         "POST_BILL_PAY",
-        "PO_BOXES_AVAILABLE",
         "PO_BOXES_INSTALLED",
         "QLD_WEAPONS_LICENSING",
         "RETURNS_PRINT_AT_POST",
@@ -335087,7 +335141,7 @@
       "id": "632489_PO",
       "type": "PO",
       "name": "Chidlow Post Office",
-      "phone": "(08) 9572 4120",
+      "phone": "13 13 18",
       "fax": null,
       "address": {
         "line1": "4405 Thomas St",
