@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-04T11:00:28Z",
+  "generated_at": "2026-11-05T11:01:06Z",
   "source": "https://digitalapi.auspost.com.au/locations-private/v3/workcentres",
-  "count": 5731,
+  "count": 5730,
   "count_by_type": {
-    "PO": 4137,
+    "PO": 4136,
     "UPL": 1468,
     "OS": 89,
     "DC": 37
@@ -45998,7 +45998,7 @@
       "phone": "(02) 4933 9524",
       "fax": "(02)4933 9452",
       "address": {
-        "line1": "127-129 Lawes St",
+        "line1": "129 Lawes St",
         "line2": null,
         "suburb": "EAST MAITLAND",
         "state": "NSW",
@@ -83752,55 +83752,6 @@
         "PO_BOXES_INSTALLED",
         "RETURNS_PRINT_AT_POST",
         "TRAVEL_INSURANCE"
-      ]
-    },
-    {
-      "id": "289254_PO",
-      "type": "PO",
-      "name": "COLEAMBALLY CPA",
-      "phone": "(02) 6954 4161",
-      "fax": null,
-      "address": {
-        "line1": "31 Brolga Pl",
-        "line2": null,
-        "suburb": "COLEAMBALLY",
-        "state": "NSW",
-        "postcode": "2707",
-        "country": "Australia"
-      },
-      "lat": -34.80625958,
-      "lon": 145.88077776,
-      "trading_hours": {
-        "MON": {
-          "open": "14:00",
-          "close": "17:30"
-        },
-        "TUE": {
-          "open": "14:00",
-          "close": "17:30"
-        },
-        "WED": {
-          "open": "14:00",
-          "close": "17:30"
-        },
-        "THU": {
-          "open": "14:00",
-          "close": "17:30"
-        },
-        "FRI": {
-          "open": "14:00",
-          "close": "17:30"
-        },
-        "SAT": {
-          "open": "09:00",
-          "close": "12:30"
-        },
-        "SUN": null
-      },
-      "services": [
-        "OPEN_AFTER_500PM_WEEKDAYS",
-        "OPEN_BEFORE_900AM_WEEKDAYS",
-        "OPEN_SATURDAY"
       ]
     },
     {
@@ -194281,6 +194232,7 @@
         "OPEN_BEFORE_900AM_WEEKDAYS",
         "PARCEL_COLLECT",
         "POST_BILL_PAY",
+        "PO_BOXES_AVAILABLE",
         "PO_BOXES_INSTALLED",
         "QLD_WEAPONS_LICENSING",
         "RETURNS_PRINT_AT_POST",
@@ -270193,7 +270145,6 @@
         "OPEN_BEFORE_900AM_WEEKDAYS",
         "PARCEL_COLLECT",
         "POST_BILL_PAY",
-        "PO_BOXES_AVAILABLE",
         "PO_BOXES_INSTALLED",
         "RETURNS_PRINT_AT_POST",
         "TRAVEL_INSURANCE"
@@ -281910,28 +281861,28 @@
       "lon": 147.49561058,
       "trading_hours": {
         "MON": {
-          "open": "09:00",
+          "open": "10:00",
           "close": "17:00"
         },
         "TUE": {
-          "open": "09:00",
+          "open": "10:00",
           "close": "17:00"
         },
         "WED": {
-          "open": "09:00",
+          "open": "10:00",
           "close": "17:00"
         },
         "THU": {
-          "open": "09:00",
+          "open": "10:00",
           "close": "17:00"
         },
         "FRI": {
-          "open": "09:00",
+          "open": "10:00",
           "close": "17:00"
         },
         "SAT": {
-          "open": "09:00",
-          "close": "12:00"
+          "open": "10:00",
+          "close": "14:00"
         },
         "SUN": null
       },
@@ -281945,7 +281896,6 @@
         "MONEY_ORDER",
         "NATIONAL_POLICE_CERTIFICATE_APPLICATION_FORM_QLD",
         "NATIONAL_POLICE_CERTIFICATE_APPLICATION_FORM_WA",
-        "OPEN_BEFORE_900AM_WEEKDAYS",
         "OPEN_SATURDAY",
         "PARCEL_COLLECT",
         "POST_BILL_PAY",
@@ -336937,6 +336887,7 @@
         "OPEN_BEFORE_900AM_WEEKDAYS",
         "PARCEL_COLLECT",
         "POST_BILL_PAY",
+        "PO_BOXES_AVAILABLE",
         "PO_BOXES_INSTALLED",
         "QLD_WEAPONS_LICENSING",
         "RETURNS_PRINT_AT_POST",
