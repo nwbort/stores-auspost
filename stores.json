@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-06T10:58:10Z",
+  "generated_at": "2026-11-07T10:12:14Z",
   "source": "https://digitalapi.auspost.com.au/locations-private/v3/workcentres",
-  "count": 5729,
+  "count": 5728,
   "count_by_type": {
-    "PO": 4136,
+    "PO": 4135,
     "UPL": 1467,
     "OS": 89,
     "DC": 37
@@ -7306,8 +7306,8 @@
         "postcode": "2018",
         "country": "Australia"
       },
-      "lat": -33.92478852,
-      "lon": 151.2122464,
+      "lat": -33.924624,
+      "lon": 151.212388,
       "trading_hours": {
         "MON": {
           "open": "00:00",
@@ -28015,8 +28015,8 @@
         "postcode": "2167",
         "country": "Australia"
       },
-      "lat": -33.96345872,
-      "lon": 150.8807339,
+      "lat": -33.963338,
+      "lon": 150.880811,
       "trading_hours": {
         "MON": {
           "open": "00:00",
@@ -33881,8 +33881,8 @@
         "postcode": "2216",
         "country": "Australia"
       },
-      "lat": -33.9502307,
-      "lon": 151.1384916,
+      "lat": -33.95023,
+      "lon": 151.13849,
       "trading_hours": {
         "MON": {
           "open": "00:00",
@@ -50494,7 +50494,6 @@
         "MONEY_ORDER",
         "NATIONAL_POLICE_CERTIFICATE_APPLICATION_FORM_QLD",
         "NATIONAL_POLICE_CERTIFICATE_APPLICATION_FORM_WA",
-        "OPEN_BEFORE_900AM_WEEKDAYS",
         "PARCEL_COLLECT",
         "POST_BILL_PAY",
         "PO_BOXES_AVAILABLE",
@@ -70660,54 +70659,6 @@
       "services": [
         "PARCEL_COLLECT"
       ]
-    },
-    {
-      "id": "246836_PO",
-      "type": "PO",
-      "name": "Tura Beach CPA",
-      "phone": "(02) 6495 9994",
-      "fax": "(02)6495 9954",
-      "address": {
-        "line1": "Shop 2",
-        "line2": "1 Tura Beach Dr",
-        "suburb": "TURA BEACH",
-        "state": "NSW",
-        "postcode": "2548",
-        "country": "Australia"
-      },
-      "lat": -36.86273998,
-      "lon": 149.91355622,
-      "trading_hours": {
-        "MON": {
-          "open": "07:00",
-          "close": "19:00"
-        },
-        "TUE": {
-          "open": "07:00",
-          "close": "19:00"
-        },
-        "WED": {
-          "open": "07:00",
-          "close": "19:00"
-        },
-        "THU": {
-          "open": "07:00",
-          "close": "19:00"
-        },
-        "FRI": {
-          "open": "07:00",
-          "close": "19:00"
-        },
-        "SAT": {
-          "open": "08:00",
-          "close": "19:00"
-        },
-        "SUN": {
-          "open": "08:00",
-          "close": "19:00"
-        }
-      },
-      "services": []
     },
     {
       "id": "84119685_UPL",
@@ -140818,8 +140769,8 @@
         "postcode": "4509",
         "country": "Australia"
       },
-      "lat": -27.24212857,
-      "lon": 153.01658065,
+      "lat": -27.2436,
+      "lon": 153.01857,
       "trading_hours": {
         "MON": {
           "open": "00:00",
@@ -150840,7 +150791,7 @@
       "phone": "(07) 4972 9055",
       "fax": "(07)4972 0244",
       "address": {
-        "line1": "Heron Island Resort",
+        "line1": "Care PO 1",
         "line2": null,
         "suburb": "HERON ISLAND",
         "state": "QLD",
@@ -160117,7 +160068,6 @@
         "OPEN_SATURDAY",
         "PARCEL_COLLECT",
         "POST_BILL_PAY",
-        "PO_BOXES_AVAILABLE",
         "PO_BOXES_INSTALLED",
         "RETURNS_PRINT_AT_POST",
         "TRAVEL_INSURANCE"
@@ -171678,6 +171628,7 @@
         "NATIONAL_POLICE_CERTIFICATE_APPLICATION_FORM_WA",
         "OPEN_AFTER_500PM_WEEKDAYS",
         "OPEN_BEFORE_900AM_WEEKDAYS",
+        "OPEN_SATURDAY",
         "PARCEL_COLLECT",
         "POST_BILL_PAY",
         "PO_BOXES_AVAILABLE",
@@ -173304,7 +173255,6 @@
         "NATIONAL_POLICE_CERTIFICATE_APPLICATION_FORM_QLD",
         "NATIONAL_POLICE_CERTIFICATE_APPLICATION_FORM_WA",
         "OPEN_BEFORE_900AM_WEEKDAYS",
-        "OPEN_SATURDAY",
         "PARCEL_COLLECT",
         "POST_BILL_PAY",
         "PO_BOXES_AVAILABLE",
@@ -197375,7 +197325,6 @@
         "OPEN_BEFORE_900AM_WEEKDAYS",
         "PARCEL_COLLECT",
         "POST_BILL_PAY",
-        "PO_BOXES_AVAILABLE",
         "PO_BOXES_INSTALLED",
         "RETURNS_PRINT_AT_POST",
         "TRAVEL_INSURANCE"
@@ -222526,8 +222475,8 @@
         "postcode": "3038",
         "country": "Australia"
       },
-      "lat": -37.697654,
-      "lon": 144.7758,
+      "lat": -37.697722,
+      "lon": 144.775889,
       "trading_hours": {
         "MON": {
           "open": "00:00",
@@ -262216,8 +262165,8 @@
         "postcode": "3350",
         "country": "Australia"
       },
-      "lat": -37.56188679,
-      "lon": 143.86107773,
+      "lat": -37.561841,
+      "lon": 143.86147,
       "trading_hours": {
         "MON": {
           "open": "00:00",
@@ -299082,8 +299031,8 @@
         "postcode": "3977",
         "country": "Australia"
       },
-      "lat": -38.09902244,
-      "lon": 145.28130129,
+      "lat": -38.09977742,
+      "lon": 145.28202093,
       "trading_hours": {
         "MON": {
           "open": "00:00",
@@ -301395,14 +301344,12 @@
         "COUNTRY_AGE_PENSION_FUEL_CARD_WA",
         "DANGEROUS_GOODS_SECURITY_CARD_WA",
         "DEPARTMENT_OF_RACING_GAMING_AND_LIQUOR_WA",
-        "DRIVER_AND_VEHICLE_LICENCES_WA",
         "FOREIGN_CURRENCY",
         "IDENTITY_VERIFICATION_FORM_REQUEST",
         "ID_PHOTOS_EMAIL_DIGITAL_COPY",
         "INSTANT_PASSPORT_AND_ID_PHOTOS",
         "INTERNATIONAL_COURIER",
         "LAND_TITLE_ID_CHECK_EXPRESS_SERVICE",
-        "LICENCE_AND_REGISTRATION_SERVICE_NT",
         "ME_BANK",
         "MONEY_ORDER",
         "NATIONAL_POLICE_CERTIFICATE_APPLICATION_FORM_QLD",
@@ -301411,6 +301358,7 @@
         "OPEN_SATURDAY",
         "PARCEL_COLLECT",
         "PARCEL_PICKUP_OUTSIDE_STANDARD_HOURS",
+        "PHOTOPOINT_DRIVERS_LICENCE_ONLY",
         "POST_BILL_PAY",
         "PO_BOXES_AVAILABLE",
         "PO_BOXES_INSTALLED",
@@ -319869,8 +319817,8 @@
         "postcode": "6171",
         "country": "Australia"
       },
-      "lat": -32.33295056,
-      "lon": 115.8155257,
+      "lat": -32.332222,
+      "lon": 115.814167,
       "trading_hours": {
         "MON": {
           "open": "00:00",
