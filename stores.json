@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T10:12:14Z",
+  "generated_at": "2026-11-08T10:27:47Z",
   "source": "https://digitalapi.auspost.com.au/locations-private/v3/workcentres",
   "count": 5728,
   "count_by_type": {
@@ -173255,6 +173255,7 @@
         "NATIONAL_POLICE_CERTIFICATE_APPLICATION_FORM_QLD",
         "NATIONAL_POLICE_CERTIFICATE_APPLICATION_FORM_WA",
         "OPEN_BEFORE_900AM_WEEKDAYS",
+        "OPEN_SATURDAY",
         "PARCEL_COLLECT",
         "POST_BILL_PAY",
         "PO_BOXES_AVAILABLE",
@@ -299296,53 +299297,6 @@
       ]
     },
     {
-      "id": "315651_PO",
-      "type": "PO",
-      "name": "CLYDE NORTH PARCELS",
-      "phone": "13 13 18",
-      "fax": null,
-      "address": {
-        "line1": "52a Titan Dr",
-        "line2": null,
-        "suburb": "CLYDE NORTH",
-        "state": "VIC",
-        "postcode": "3978",
-        "country": "Australia"
-      },
-      "lat": -38.091826,
-      "lon": 145.344454,
-      "trading_hours": {
-        "MON": {
-          "open": "08:00",
-          "close": "17:00"
-        },
-        "TUE": {
-          "open": "08:00",
-          "close": "17:00"
-        },
-        "WED": {
-          "open": "08:00",
-          "close": "17:00"
-        },
-        "THU": {
-          "open": "08:00",
-          "close": "17:00"
-        },
-        "FRI": {
-          "open": "08:00",
-          "close": "17:00"
-        },
-        "SAT": null,
-        "SUN": null
-      },
-      "services": [
-        "INTERNATIONAL_COURIER",
-        "OPEN_BEFORE_900AM_WEEKDAYS",
-        "PARCEL_COLLECT",
-        "VENDING"
-      ]
-    },
-    {
       "id": "96884194_UPL",
       "type": "UPL",
       "name": "Clyde North Parcel Locker",
@@ -299390,6 +299344,53 @@
       },
       "services": [
         "PARCEL_COLLECT"
+      ]
+    },
+    {
+      "id": "315651_PO",
+      "type": "PO",
+      "name": "Clyde North Parcels",
+      "phone": "13 13 18",
+      "fax": null,
+      "address": {
+        "line1": "52a Titan Dr",
+        "line2": null,
+        "suburb": "CLYDE NORTH",
+        "state": "VIC",
+        "postcode": "3978",
+        "country": "Australia"
+      },
+      "lat": -38.091826,
+      "lon": 145.344454,
+      "trading_hours": {
+        "MON": {
+          "open": "08:00",
+          "close": "17:00"
+        },
+        "TUE": {
+          "open": "08:00",
+          "close": "17:00"
+        },
+        "WED": {
+          "open": "08:00",
+          "close": "17:00"
+        },
+        "THU": {
+          "open": "08:00",
+          "close": "17:00"
+        },
+        "FRI": {
+          "open": "08:00",
+          "close": "17:00"
+        },
+        "SAT": null,
+        "SUN": null
+      },
+      "services": [
+        "INTERNATIONAL_COURIER",
+        "OPEN_BEFORE_900AM_WEEKDAYS",
+        "PARCEL_COLLECT",
+        "VENDING"
       ]
     },
     {
