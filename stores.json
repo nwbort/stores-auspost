@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-11-08T10:27:47Z",
+  "generated_at": "2026-11-09T11:35:14Z",
   "source": "https://digitalapi.auspost.com.au/locations-private/v3/workcentres",
-  "count": 5728,
+  "count": 5730,
   "count_by_type": {
     "PO": 4135,
-    "UPL": 1467,
+    "UPL": 1469,
     "OS": 89,
     "DC": 37
   },
@@ -6046,6 +6046,56 @@
         "SUN": {
           "open": "00:00",
           "close": "23:59"
+        }
+      },
+      "services": [
+        "PARCEL_COLLECT"
+      ]
+    },
+    {
+      "id": "96353714_UPL",
+      "type": "UPL",
+      "name": "Central Park Parcel Locker",
+      "phone": "1800 422 406",
+      "fax": null,
+      "address": {
+        "line1": "Lg 28 Broadway",
+        "line2": null,
+        "suburb": "CHIPPENDALE",
+        "state": "NSW",
+        "postcode": "2008",
+        "country": "Australia"
+      },
+      "lat": -33.88473881,
+      "lon": 151.2006047,
+      "trading_hours": {
+        "MON": {
+          "open": "07:00",
+          "close": "23:00"
+        },
+        "TUE": {
+          "open": "07:00",
+          "close": "23:00"
+        },
+        "WED": {
+          "open": "07:00",
+          "close": "23:00"
+        },
+        "THU": {
+          "open": "07:00",
+          "close": "23:00"
+        },
+        "FRI": {
+          "open": "07:00",
+          "close": "23:00"
+        },
+        "SAT": {
+          "open": "07:00",
+          "close": "23:00"
+        },
+        "SUN": {
+          "open": "07:00",
+          "close": "23:00"
         }
       },
       "services": [
@@ -30265,6 +30315,56 @@
         "QLD_WEAPONS_LICENSING",
         "RETURNS_PRINT_AT_POST",
         "TRAVEL_INSURANCE"
+      ]
+    },
+    {
+      "id": "57606659_UPL",
+      "type": "UPL",
+      "name": "Austral Post Office Parcel Locker",
+      "phone": "1800 422 406",
+      "fax": null,
+      "address": {
+        "line1": "Austral Town Centre",
+        "line2": "Shop 12",
+        "suburb": "AUSTRAL",
+        "state": "NSW",
+        "postcode": "2179",
+        "country": "Australia"
+      },
+      "lat": -33.91983988,
+      "lon": 150.8143355,
+      "trading_hours": {
+        "MON": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "TUE": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "WED": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "THU": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "FRI": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "SAT": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "SUN": {
+          "open": "00:00",
+          "close": "23:59"
+        }
+      },
+      "services": [
+        "PARCEL_COLLECT"
       ]
     },
     {
