@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-09T11:35:14Z",
+  "generated_at": "2026-11-10T11:17:21Z",
   "source": "https://digitalapi.auspost.com.au/locations-private/v3/workcentres",
-  "count": 5730,
+  "count": 5733,
   "count_by_type": {
     "PO": 4135,
-    "UPL": 1469,
+    "UPL": 1471,
     "OS": 89,
-    "DC": 37
+    "DC": 38
   },
   "stores": [
     {
@@ -3524,23 +3524,23 @@
       "trading_hours": {
         "MON": {
           "open": "07:30",
-          "close": "17:00"
+          "close": "16:00"
         },
         "TUE": {
           "open": "07:30",
-          "close": "17:00"
+          "close": "16:00"
         },
         "WED": {
           "open": "07:30",
-          "close": "17:00"
+          "close": "16:00"
         },
         "THU": {
           "open": "07:30",
-          "close": "17:00"
+          "close": "16:00"
         },
         "FRI": {
           "open": "07:30",
-          "close": "17:00"
+          "close": "16:00"
         },
         "SAT": null,
         "SUN": null
@@ -32231,7 +32231,7 @@
       "id": "225090_PO",
       "type": "PO",
       "name": "Marrickville Metro Post Office",
-      "phone": "(02) 9565 1081",
+      "phone": "13 13 18",
       "fax": "(02)9565 1536",
       "address": {
         "line1": "Shop 87",
@@ -50594,6 +50594,7 @@
         "MONEY_ORDER",
         "NATIONAL_POLICE_CERTIFICATE_APPLICATION_FORM_QLD",
         "NATIONAL_POLICE_CERTIFICATE_APPLICATION_FORM_WA",
+        "OPEN_BEFORE_900AM_WEEKDAYS",
         "PARCEL_COLLECT",
         "POST_BILL_PAY",
         "PO_BOXES_AVAILABLE",
@@ -75938,6 +75939,56 @@
         "PARCEL_COLLECT",
         "PO_BOXES_AVAILABLE",
         "PO_BOXES_INSTALLED"
+      ]
+    },
+    {
+      "id": "39552010_UPL",
+      "type": "UPL",
+      "name": "Murrumbateman CPA Parcel Locker",
+      "phone": "1800 422 406",
+      "fax": null,
+      "address": {
+        "line1": "U 4",
+        "line2": "5 Hercules St",
+        "suburb": "MURRUMBATEMAN",
+        "state": "NSW",
+        "postcode": "2582",
+        "country": "Australia"
+      },
+      "lat": -34.9689792,
+      "lon": 149.0291438,
+      "trading_hours": {
+        "MON": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "TUE": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "WED": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "THU": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "FRI": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "SAT": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "SUN": {
+          "open": "00:00",
+          "close": "23:59"
+        }
+      },
+      "services": [
+        "PARCEL_COLLECT"
       ]
     },
     {
@@ -179085,7 +179136,7 @@
       "type": "PO",
       "name": "One Tree Hill Post Office",
       "phone": "(08) 8280 0090",
-      "fax": "(08)8280 0030",
+      "fax": null,
       "address": {
         "line1": "Shop 7",
         "line2": "984 Black Top Rd",
@@ -183124,7 +183175,6 @@
         "OPEN_BEFORE_900AM_WEEKDAYS",
         "PARCEL_COLLECT",
         "POST_BILL_PAY",
-        "PO_BOXES_AVAILABLE",
         "PO_BOXES_INSTALLED",
         "RETURNS_PRINT_AT_POST",
         "TRAVEL_INSURANCE"
@@ -256724,6 +256774,51 @@
       ]
     },
     {
+      "id": "363362_DC",
+      "type": "DC",
+      "name": "Torquay DC Parcels Pop Up",
+      "phone": "13 13 18",
+      "fax": null,
+      "address": {
+        "line1": "U 5",
+        "line2": "4 Haystacks Dr",
+        "suburb": "TORQUAY",
+        "state": "VIC",
+        "postcode": "3228",
+        "country": "Australia"
+      },
+      "lat": -38.30989302,
+      "lon": 144.31452577,
+      "trading_hours": {
+        "MON": {
+          "open": "06:00",
+          "close": "18:00"
+        },
+        "TUE": {
+          "open": "06:00",
+          "close": "18:00"
+        },
+        "WED": {
+          "open": "06:00",
+          "close": "18:00"
+        },
+        "THU": {
+          "open": "06:00",
+          "close": "18:00"
+        },
+        "FRI": {
+          "open": "06:00",
+          "close": "18:00"
+        },
+        "SAT": null,
+        "SUN": null
+      },
+      "services": [
+        "OPEN_AFTER_500PM_WEEKDAYS",
+        "OPEN_BEFORE_900AM_WEEKDAYS"
+      ]
+    },
+    {
       "id": "345906_PO",
       "type": "PO",
       "name": "Torquay Post Office",
@@ -319655,6 +319750,56 @@
       ]
     },
     {
+      "id": "89930915_UPL",
+      "type": "UPL",
+      "name": "Safety Bay Post Office Parcel Locker",
+      "phone": "1800 422 406",
+      "fax": null,
+      "address": {
+        "line1": "Bayside Shopping Centre",
+        "line2": "Shop 4",
+        "suburb": "SAFETY BAY",
+        "state": "WA",
+        "postcode": "6169",
+        "country": "Australia"
+      },
+      "lat": -32.30306829,
+      "lon": 115.7106843,
+      "trading_hours": {
+        "MON": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "TUE": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "WED": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "THU": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "FRI": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "SAT": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "SUN": {
+          "open": "00:00",
+          "close": "23:59"
+        }
+      },
+      "services": [
+        "PARCEL_COLLECT"
+      ]
+    },
+    {
       "id": "612795_PO",
       "type": "PO",
       "name": "Warnbro Post Office",
@@ -328208,10 +328353,7 @@
           "open": "08:00",
           "close": "17:00"
         },
-        "SAT": {
-          "open": "08:30",
-          "close": "11:30"
-        },
+        "SAT": null,
         "SUN": null
       },
       "services": [
@@ -328227,7 +328369,6 @@
         "NATIONAL_POLICE_CERTIFICATE_APPLICATION_FORM_QLD",
         "NATIONAL_POLICE_CERTIFICATE_APPLICATION_FORM_WA",
         "OPEN_BEFORE_900AM_WEEKDAYS",
-        "OPEN_SATURDAY",
         "PARCEL_COLLECT",
         "POST_BILL_PAY",
         "PO_BOXES_AVAILABLE",
@@ -336893,6 +337034,7 @@
         "OPEN_BEFORE_900AM_WEEKDAYS",
         "PARCEL_COLLECT",
         "POST_BILL_PAY",
+        "PO_BOXES_AVAILABLE",
         "PO_BOXES_INSTALLED",
         "QLD_WEAPONS_LICENSING",
         "RETURNS_PRINT_AT_POST",
