@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T11:00:55Z",
+  "generated_at": "2026-11-12T11:12:41Z",
   "source": "https://digitalapi.auspost.com.au/locations-private/v3/workcentres",
   "count": 5736,
   "count_by_type": {
@@ -2626,7 +2626,7 @@
     {
       "id": "59298259_UPL",
       "type": "UPL",
-      "name": "UNSW Canberra Campus Parcel Locker",
+      "name": "UNSW Canberra City Parcel Locker",
       "phone": "1800 422 406",
       "fax": null,
       "address": {
@@ -131226,6 +131226,7 @@
         "NATIONAL_POLICE_CERTIFICATE_APPLICATION_FORM_QLD",
         "NATIONAL_POLICE_CERTIFICATE_APPLICATION_FORM_WA",
         "OPEN_BEFORE_900AM_WEEKDAYS",
+        "OPEN_SATURDAY",
         "PARCEL_COLLECT",
         "POST_BILL_PAY",
         "PO_BOXES_AVAILABLE",
@@ -177564,8 +177565,8 @@
         "postcode": "5095",
         "country": "Australia"
       },
-      "lat": -34.81195462,
-      "lon": 138.62467402,
+      "lat": -34.81066661,
+      "lon": 138.61782725,
       "trading_hours": {
         "MON": {
           "open": "00:00",
@@ -196619,7 +196620,7 @@
       "id": "532357_PO",
       "type": "PO",
       "name": "Bute Post Office",
-      "phone": "(08) 8826 2011",
+      "phone": "0468 891 813",
       "fax": "(08)8826 2173",
       "address": {
         "line1": "15 Railway Tce",
@@ -337185,7 +337186,6 @@
         "OPEN_BEFORE_900AM_WEEKDAYS",
         "PARCEL_COLLECT",
         "POST_BILL_PAY",
-        "PO_BOXES_AVAILABLE",
         "PO_BOXES_INSTALLED",
         "QLD_WEAPONS_LICENSING",
         "RETURNS_PRINT_AT_POST",
