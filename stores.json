@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T10:30:50Z",
+  "generated_at": "2026-11-15T10:57:54Z",
   "source": "https://digitalapi.auspost.com.au/locations-private/v3/workcentres",
   "count": 5739,
   "count_by_type": {
@@ -206177,7 +206177,6 @@
         "OPEN_BEFORE_900AM_WEEKDAYS",
         "PARCEL_COLLECT",
         "POST_BILL_PAY",
-        "PO_BOXES_AVAILABLE",
         "PO_BOXES_INSTALLED",
         "RETURNS_PRINT_AT_POST",
         "TRAVEL_INSURANCE"
@@ -299889,6 +299888,7 @@
       "services": [
         "INTERNATIONAL_COURIER",
         "OPEN_BEFORE_900AM_WEEKDAYS",
+        "OPEN_SATURDAY",
         "PARCEL_COLLECT",
         "VENDING"
       ]
