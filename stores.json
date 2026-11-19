@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-11-18T11:45:23Z",
+  "generated_at": "2026-11-19T11:45:58Z",
   "source": "https://digitalapi.auspost.com.au/locations-private/v3/workcentres",
-  "count": 5752,
+  "count": 5755,
   "count_by_type": {
-    "PO": 4136,
-    "UPL": 1488,
+    "PO": 4137,
+    "UPL": 1490,
     "OS": 89,
     "DC": 39
   },
@@ -583,7 +583,7 @@
       "type": "PO",
       "name": "Ainslie Post Office",
       "phone": "(02) 6247 9227",
-      "fax": "(02)6247 9501",
+      "fax": null,
       "address": {
         "line1": "3 Edgar St",
         "line2": null,
@@ -33873,6 +33873,56 @@
         "QLD_WEAPONS_LICENSING",
         "RETURNS_PRINT_AT_POST",
         "TRAVEL_INSURANCE"
+      ]
+    },
+    {
+      "id": "96225346_UPL",
+      "type": "UPL",
+      "name": "Padstow Post Office Parcel Locker",
+      "phone": "1800 422 406",
+      "fax": null,
+      "address": {
+        "line1": "8 Faraday Rd",
+        "line2": null,
+        "suburb": "PADSTOW",
+        "state": "NSW",
+        "postcode": "2211",
+        "country": "Australia"
+      },
+      "lat": -33.95375,
+      "lon": 151.0340903,
+      "trading_hours": {
+        "MON": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "TUE": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "WED": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "THU": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "FRI": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "SAT": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "SUN": {
+          "open": "00:00",
+          "close": "23:59"
+        }
+      },
+      "services": [
+        "PARCEL_COLLECT"
       ]
     },
     {
@@ -75784,7 +75834,6 @@
         "OPEN_BEFORE_900AM_WEEKDAYS",
         "PARCEL_COLLECT",
         "POST_BILL_PAY",
-        "PO_BOXES_AVAILABLE",
         "PO_BOXES_INSTALLED",
         "QLD_WEAPONS_LICENSING",
         "RETURNS_PRINT_AT_POST",
@@ -100383,24 +100432,24 @@
       "lon": 130.73182135,
       "trading_hours": {
         "MON": {
-          "open": "08:00",
-          "close": "14:30"
+          "open": "13:00",
+          "close": "16:30"
         },
         "TUE": {
-          "open": "08:00",
-          "close": "14:30"
+          "open": "13:00",
+          "close": "16:30"
         },
         "WED": {
-          "open": "08:00",
-          "close": "14:30"
+          "open": "13:00",
+          "close": "16:30"
         },
         "THU": {
-          "open": "08:00",
-          "close": "14:30"
+          "open": "13:00",
+          "close": "16:30"
         },
         "FRI": {
-          "open": "08:00",
-          "close": "14:30"
+          "open": "13:00",
+          "close": "16:30"
         },
         "SAT": null,
         "SUN": null
@@ -102431,7 +102480,10 @@
           "open": "13:00",
           "close": "16:30"
         },
-        "TUE": null,
+        "TUE": {
+          "open": "13:00",
+          "close": "16:30"
+        },
         "WED": {
           "open": "13:00",
           "close": "16:30"
@@ -102842,24 +102894,24 @@
       "lon": 130.882413,
       "trading_hours": {
         "MON": {
-          "open": "08:00",
-          "close": "16:00"
+          "open": "13:00",
+          "close": "16:30"
         },
         "TUE": {
-          "open": "08:00",
-          "close": "16:00"
+          "open": "13:00",
+          "close": "16:30"
         },
         "WED": {
-          "open": "08:00",
-          "close": "16:00"
+          "open": "13:00",
+          "close": "16:30"
         },
         "THU": {
-          "open": "08:00",
-          "close": "16:00"
+          "open": "13:00",
+          "close": "16:30"
         },
         "FRI": {
-          "open": "08:00",
-          "close": "16:00"
+          "open": "13:00",
+          "close": "16:30"
         },
         "SAT": null,
         "SUN": null
@@ -105381,8 +105433,8 @@
         "postcode": "0885",
         "country": "Australia"
       },
-      "lat": -13.884827,
-      "lon": 136.41496,
+      "lat": -13.848793,
+      "lon": 136.417624,
       "trading_hours": {
         "MON": {
           "open": "14:00",
@@ -122710,6 +122762,56 @@
       },
       "lat": -27.78493949,
       "lon": 153.2508607,
+      "trading_hours": {
+        "MON": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "TUE": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "WED": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "THU": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "FRI": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "SAT": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "SUN": {
+          "open": "00:00",
+          "close": "23:59"
+        }
+      },
+      "services": [
+        "PARCEL_COLLECT"
+      ]
+    },
+    {
+      "id": "57193843_UPL",
+      "type": "UPL",
+      "name": "Coomera Collective Parcel Locker",
+      "phone": "1800 422 406",
+      "fax": null,
+      "address": {
+        "line1": "31 Dreamworld Pkwy",
+        "line2": null,
+        "suburb": "COOMERA",
+        "state": "QLD",
+        "postcode": "4209",
+        "country": "Australia"
+      },
+      "lat": -27.87179428,
+      "lon": 153.3147997,
       "trading_hours": {
         "MON": {
           "open": "00:00",
@@ -243132,7 +243234,7 @@
         },
         "SAT": {
           "open": "08:30",
-          "close": "17:30"
+          "close": "15:30"
         },
         "SUN": null
       },
@@ -243208,6 +243310,58 @@
       },
       "services": [
         "PARCEL_COLLECT"
+      ]
+    },
+    {
+      "id": "375056_PO",
+      "type": "PO",
+      "name": "KNOX CITY CENTRE PO BOX ANNEXE",
+      "phone": "13 13 18",
+      "fax": null,
+      "address": {
+        "line1": "Shop 1042",
+        "line2": "425 Burwood Hwy",
+        "suburb": "WANTIRNA SOUTH",
+        "state": "VIC",
+        "postcode": "3152",
+        "country": "Australia"
+      },
+      "lat": -37.868599,
+      "lon": 145.24131607,
+      "trading_hours": {
+        "MON": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "TUE": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "WED": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "THU": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "FRI": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "SAT": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "SUN": {
+          "open": "00:00",
+          "close": "23:59"
+        }
+      },
+      "services": [
+        "OPEN_AFTER_500PM_WEEKDAYS",
+        "OPEN_BEFORE_900AM_WEEKDAYS",
+        "OPEN_SATURDAY"
       ]
     },
     {
@@ -283550,7 +283704,9 @@
         "SAT": null,
         "SUN": null
       },
-      "services": []
+      "services": [
+        "PARCEL_COLLECT"
+      ]
     },
     {
       "id": "328057_PO",
@@ -329487,6 +329643,7 @@
         "MONEY_ORDER",
         "NATIONAL_POLICE_CERTIFICATE_APPLICATION_FORM_QLD",
         "NATIONAL_POLICE_CERTIFICATE_APPLICATION_FORM_WA",
+        "OPEN_AFTER_500PM_WEEKDAYS",
         "OPEN_BEFORE_900AM_WEEKDAYS",
         "PARCEL_COLLECT",
         "POST_BILL_PAY",
@@ -340334,7 +340491,7 @@
     {
       "id": "661714_PO",
       "type": "PO",
-      "name": "COCOS (KEELING) HOME ISLND LPO",
+      "name": "Cocos (Keeling) Home Island Post Office",
       "phone": "13 13 18",
       "fax": "(08)9162 7500",
       "address": {
@@ -340345,8 +340502,8 @@
         "postcode": "6799",
         "country": "Australia"
       },
-      "lat": -12.14785627,
-      "lon": 96.87979062,
+      "lat": -12.117509,
+      "lon": 96.895336,
       "trading_hours": {
         "MON": {
           "open": "13:00",
