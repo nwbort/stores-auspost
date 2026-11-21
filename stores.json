@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T11:44:03Z",
+  "generated_at": "2026-11-21T11:07:14Z",
   "source": "https://digitalapi.auspost.com.au/locations-private/v3/workcentres",
   "count": 5759,
   "count_by_type": {
@@ -11982,7 +11982,6 @@
         "OPEN_SATURDAY",
         "PARCEL_COLLECT",
         "POST_BILL_PAY",
-        "PO_BOXES_AVAILABLE",
         "PO_BOXES_INSTALLED",
         "QLD_WEAPONS_LICENSING",
         "RETURNS_PRINT_AT_POST",
@@ -70562,7 +70561,6 @@
         "OPEN_BEFORE_900AM_WEEKDAYS",
         "PARCEL_COLLECT",
         "POST_BILL_PAY",
-        "PO_BOXES_AVAILABLE",
         "PO_BOXES_INSTALLED",
         "RETURNS_PRINT_AT_POST",
         "TRAVEL_INSURANCE"
@@ -101723,6 +101721,7 @@
         "OPEN_SATURDAY",
         "PARCEL_COLLECT",
         "POST_BILL_PAY",
+        "PO_BOXES_AVAILABLE",
         "PO_BOXES_INSTALLED",
         "QLD_WEAPONS_LICENSING",
         "RETURNS_PRINT_AT_POST",
@@ -121978,16 +121977,13 @@
       },
       "services": [
         "100_POINT_CHECK_VERIFICATION",
-        "ATO_INDIVIDUAL_TFN_SERVICES",
         "AUSTRALIA_POST_EVERYDAY_MASTERCARD",
         "AUSTRALIA_POST_GIFT_CARD_MASTERCARD",
         "AUSTRALIA_POST_TRAVEL_PLATINUM_MASTERCARD",
-        "BANKWEST_ID_VERIFICATION",
         "BANK_AT_POST",
         "FOREIGN_CURRENCY",
         "IDENTITY_VERIFICATION_FORM_REQUEST",
         "ID_PHOTOS_EMAIL_DIGITAL_COPY",
-        "ME_BANK",
         "MONEY_ORDER",
         "NATIONAL_POLICE_CERTIFICATE_APPLICATION_FORM_QLD",
         "NATIONAL_POLICE_CERTIFICATE_APPLICATION_FORM_WA",
@@ -180427,7 +180423,6 @@
         "OPEN_BEFORE_900AM_WEEKDAYS",
         "PARCEL_COLLECT",
         "POST_BILL_PAY",
-        "PO_BOXES_AVAILABLE",
         "PO_BOXES_INSTALLED",
         "RETURNS_PRINT_AT_POST",
         "TRAVEL_INSURANCE"
@@ -186948,7 +186943,7 @@
       "phone": "(08) 8535 4091",
       "fax": "(08)8535 4091",
       "address": {
-        "line1": "20 Williams St",
+        "line1": "22 Williams St",
         "line2": null,
         "suburb": "MYPOLONGA",
         "state": "SA",
@@ -217198,7 +217193,7 @@
       "phone": "1800 422 406",
       "fax": null,
       "address": {
-        "line1": "6 Joseph Rd",
+        "line1": "4 Joseph Rd",
         "line2": null,
         "suburb": "FOOTSCRAY",
         "state": "VIC",
@@ -226305,7 +226300,6 @@
         "OPEN_SATURDAY",
         "PARCEL_COLLECT",
         "POST_BILL_PAY",
-        "PO_BOXES_AVAILABLE",
         "PO_BOXES_INSTALLED",
         "QLD_WEAPONS_LICENSING",
         "RETURNS_PRINT_AT_POST",
@@ -233240,7 +233234,6 @@
         "OPEN_SATURDAY",
         "PARCEL_COLLECT",
         "POST_BILL_PAY",
-        "PO_BOXES_AVAILABLE",
         "PO_BOXES_INSTALLED",
         "RETURNS_PRINT_AT_POST",
         "TRAVEL_INSURANCE"
@@ -281592,7 +281585,6 @@
         "MONEY_ORDER",
         "NATIONAL_POLICE_CERTIFICATE_APPLICATION_FORM_QLD",
         "NATIONAL_POLICE_CERTIFICATE_APPLICATION_FORM_WA",
-        "OPEN_BEFORE_900AM_WEEKDAYS",
         "PARCEL_COLLECT",
         "POST_BILL_PAY",
         "PO_BOXES_AVAILABLE",
@@ -329787,7 +329779,6 @@
         "OPEN_BEFORE_900AM_WEEKDAYS",
         "PARCEL_COLLECT",
         "POST_BILL_PAY",
-        "PO_BOXES_AVAILABLE",
         "PO_BOXES_INSTALLED",
         "RETURNS_PRINT_AT_POST",
         "TRAVEL_INSURANCE",
@@ -340525,15 +340516,15 @@
       "phone": "(08) 9168 8000",
       "fax": "(08)9168 8011",
       "address": {
-        "line1": "Kundat Djara Community",
-        "line2": "Lot 62 Gordon Downs Rd",
+        "line1": "Lot 73 Gulibi Rd",
+        "line2": null,
         "suburb": "KUNDAT DJARU",
         "state": "WA",
         "postcode": "6770",
         "country": "Australia"
       },
-      "lat": -18.80825972,
-      "lon": 128.60140143,
+      "lat": -18.79393359,
+      "lon": 128.61598423,
       "trading_hours": {
         "MON": {
           "open": "13:00",
